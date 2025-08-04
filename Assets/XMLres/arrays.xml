@@ -1,0 +1,5390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="assistorc_0">
+    <item>我要升级</item>
+    <item>0</item>
+  </string-array>
+  <string-array name="assistorc_1">
+    <item>我要变强</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="assistorc_2">
+    <item>我要赚钱</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="assistorc_3">
+    <item>我要魔酒</item>
+    <item>3</item>
+  </string-array>
+  <string-array name="assistor_0">
+    <item>成长任务</item>
+    <item>5</item>
+    <item>0</item>
+    <item>0</item>
+  </string-array>
+  <string-array name="assistor_1">
+    <item>训练场</item>
+    <item>5</item>
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="assistor_2">
+    <item>副本挑战</item>
+    <item>3</item>
+    <item>0</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="assistor_3">
+    <item>提升装备</item>
+    <item>5</item>
+    <item>1</item>
+    <item>3</item>
+  </string-array>
+  <string-array name="assistor_4">
+    <item>升级技能</item>
+    <item>4</item>
+    <item>1</item>
+    <item>4</item>
+  </string-array>
+  <string-array name="assistor_5">
+    <item>宝石镶嵌</item>
+    <item>5</item>
+    <item>1</item>
+    <item>5</item>
+  </string-array>
+  <string-array name="assistor_6">
+    <item>兵种升级</item>
+    <item>4</item>
+    <item>1</item>
+    <item>6</item>
+  </string-array>
+  <string-array name="assistor_7">
+    <item>科技升级</item>
+    <item>4</item>
+    <item>1</item>
+    <item>7</item>
+  </string-array>
+  <string-array name="assistor_8">
+    <item>提升声望</item>
+    <item>3</item>
+    <item>1</item>
+    <item>8</item>
+  </string-array>
+  <string-array name="assistor_9">
+    <item>加入联盟</item>
+    <item>2</item>
+    <item>1</item>
+    <item>9</item>
+  </string-array>
+  <string-array name="assistor_10">
+    <item>建造矿产</item>
+    <item>5</item>
+    <item>2</item>
+    <item>10</item>
+  </string-array>
+  <string-array name="assistor_11">
+    <item>升级矿产</item>
+    <item>4</item>
+    <item>2</item>
+    <item>11</item>
+  </string-array>
+  <string-array name="assistor_12">
+    <item>"矿产科技 
+ 升级"</item>
+    <item>4</item>
+    <item>2</item>
+    <item>12</item>
+  </string-array>
+  <string-array name="assistor_13">
+    <item>出兵掠夺</item>
+    <item>3</item>
+    <item>2</item>
+    <item>13</item>
+  </string-array>
+  <string-array name="assistor_14">
+    <item>首充双倍</item>
+    <item>5</item>
+    <item>3</item>
+    <item>14</item>
+  </string-array>
+  <string-array name="assistor_15">
+    <item>"充值魔酒 
+优惠多多"</item>
+    <item>5</item>
+    <item>3</item>
+    <item>15</item>
+  </string-array>
+  <string-array name="champion_content_init">
+    <item>1. 预赛报名截止时间：$0</item>
+    <item>2. 预赛结果公布时间：$0</item>
+    <item>3. $0级以上玩家可报名参赛</item>
+    <item>4. 开赛之后，系统随机分配参赛者进行1v1决斗。胜利者进入下一场决斗，直至产生32强。</item>
+    <item>5. 32强选手将进入决赛阶段，决赛阶段分为上下半区，每天进行一轮1v1决斗,胜利者晋级。上下半区的冠军进入总决赛，决出新一届战神。</item>
+    <item>6. 不能使用联盟装备，联盟科技有效。</item>
+  </string-array>
+  <string-array name="gametips">
+    <item>在主界面中点击玩家头像，选择修改密码之后即可更改现有密码。</item>
+    <item>重置游戏会清空现有账户，在主界面点击玩家头像即可找到该功能。</item>
+    <item>若遗忘密码，在主菜单的登录界面中可以发现密码找回功能项。</item>
+    <item>在商店购买物品会自动装备。</item>
+    <item>更换道具需要点击英雄祭坛（金色战神像）的查看后，选择相应道具进行装备。</item>
+    <item>更换技能需要点击英雄祭坛（金色战神像）的查看后，选择相应技能进行装备。</item>
+    <item>按照提示完成每日任务，会得到包括魔酒和魔晶石等丰厚的奖励。</item>
+    <item>英雄杀敌累积功勋值，可以在英雄祭坛兑换能力点数提高英雄能力。</item>
+    <item>增加人口的植物还会掉落资源。</item>
+    <item>访问好友有机会获得掉落资源。</item>
+    <item>好友访问时协助开启宝箱，玩家会获得随机奖励。</item>
+    <item>好友访问时可以帮助玩家加速生产。</item>
+    <item>好友访问时可以帮助玩家收获士兵和资源。</item>
+    <item>每隔一段时间，就会有一次免费的抽奖机会。</item>
+    <item>在保护期内战斗不会损失士兵。</item>
+    <item>根据地域的不同，进攻敌人花费的时间也不同。</item>
+    <item>攻占敌人的帝国，可以定期收税。</item>
+    <item>攻打敌人胜利后，可以捉住敌人做奴隶，生产资源。</item>
+    <item>反抗敌人时可以预先查看敌人阵型。</item>
+    <item>训练场中撤退会被判定为失败。</item>
+    <item>升级军事建筑可以减少士兵生产的时间或解锁新的兵种。</item>
+    <item>升级金矿和水晶矿可以提高单位时间的产量。</item>
+    <item>当资源不足时，可以使用魔酒代替消费。</item>
+    <item>根据花费的时间不同，加速用的魔酒数量也不同。</item>
+    <item>被攻占后建筑会着火，着火的建筑不能生产。</item>
+    <item>一旦城墙被摧毁，战斗就会失败。</item>
+    <item>护甲类型有布甲、轻甲、重甲和英雄四种。</item>
+    <item>攻击类型有普通、穿刺、魔法和英雄四种。</item>
+    <item>普通攻击克制轻甲，如短脚步兵攻击快手忍者伤害增加。</item>
+    <item>穿刺攻击克制布甲，如精灵射手攻击蓝皮巨魔伤害增加。</item>
+    <item>魔法攻击克制重甲，如寒冰法师攻击铁面游侠伤害增加。</item>
+    <item>英雄攻击克制一切护甲。</item>
+    <item>布甲克制魔法攻击，如蓝皮巨魔受到寒冰法师的伤害减少。</item>
+    <item>轻甲克制穿刺攻击，如短脚步兵受到精灵射手的伤害减少。</item>
+    <item>重甲克制普通攻击，如铁面游侠抵挡短脚步兵伤害减少。</item>
+    <item>英雄护甲克制一切非英雄攻击。</item>
+    <item>英雄的装备和技能都有耐久度，当耐久度过低的时候需要进行修理。</item>
+    <item>装备和技能的耐久度随使用时间而降低。</item>
+    <item>在商店中修理装备，可以使用黄金水晶或魔酒。</item>
+    <item>单次购买的魔酒越多，优惠的幅度就越大。</item>
+    <item>铁牙怒兽生命值和防御值高于其他英雄，且同时攻击两行敌人。</item>
+    <item>双刃狂徒攻击力高于其他英雄，且攻击距离为两格，建议放在战场中间。</item>
+    <item>影翼魅魔的攻击距离优于任何英雄，可以远距离给予敌人打击。</item>
+    <item>合理放置英雄可以有效阻碍敌人的进攻。</item>
+    <item>重温英勇瞬间或者总结经验教训，点击邮件选择进攻战报和防守战报，战斗录像会告诉你一切。</item>
+    <item>技能崩裂巨刃适合英雄在近身肉搏时使用。</item>
+    <item>技能空位只有三个，合理安排技能十分重要。</item>
+    <item>不用的装备可以在炼金屋分解成素材，也可以在英雄祭坛或者商店卖掉。</item>
+    <item>抽奖时有机会获得魔酒。</item>
+    <item>除了抽奖之外，挑战副本一样有机会获得非卖品装备哟！</item>
+    <item>幽灵系的技能可以在危机时刻补充兵员，阻挡敌人攻击城墙。</item>
+    <item>技能电光火石可以有效打击敌方英雄。</item>
+    <item>建造时空门是开启附城的唯一方法。</item>
+    <item>开启附城的玩家可以同时拥有两位英雄。</item>
+    <item>主城与附城的魔酒、魔晶石和道具是互通的。</item>
+    <item>主城与附城的军队可以相互协防。</item>
+    <item>进攻其他玩家时可以派遣自己的附城军队参加助攻。</item>
+    <item>进攻其他玩家时可以邀请自己好友的军队参加助攻。</item>
+    <item>可以邀请好友的军队帮助自己守卫城堡。</item>
+    <item>通过升级兵种和提升科技，可以使士兵能力得到提升。</item>
+    <item>升级军事科技可以针对军队的单项战斗属性进行提升。</item>
+    <item>升级生产科技可以提高单位时间内黄金或水晶的产量。</item>
+    <item>魔晶石可以用来升级科技和强化军队，还可以升级技能和英雄勋章。</item>
+    <item>除了挑战训练场和副本外，参加活动也可以获得魔晶石。</item>
+    <item>挑战副本任务有机会获得宝石。</item>
+    <item>低级宝石可以在炼金屋合成高级宝石。</item>
+    <item>宝石用于增加英雄装备的战斗属性。</item>
+    <item>可以拆除已经镶嵌在装备上的宝石。</item>
+    <item>获得的宝石和碎片都存放在英雄祭坛中。</item>
+    <item>达到数量要求后，装备碎片会自动合成对应的装备。</item>
+    <item>黑名单可以屏蔽其他玩家的邮件骚扰。</item>
+    <item>在收取模式下，可以将建筑暂时放在箱子里，方便调整布局。</item>
+    <item>远程单位使用重击的效果会变差。</item>
+    <item>英雄对于士兵的重击有更强的抵抗力。</item>
+  </string-array>
+  <string-array name="str_1000">
+    <item>铁盔</item>
+    <item>生铁打造的头盔，有点旧，有点锈</item>
+  </string-array>
+  <string-array name="str_1001">
+    <item>生铁锤</item>
+    <item>生铁打造的巨锤，上面布满了铆钉</item>
+  </string-array>
+  <string-array name="str_1002">
+    <item>铁项链</item>
+    <item>生铁打造的防具上镶嵌着骷髅头</item>
+  </string-array>
+  <string-array name="str_1003">
+    <item>铁护肩</item>
+    <item>生铁打造的铺满尖刺的护肩</item>
+  </string-array>
+  <string-array name="str_1004">
+    <item>铁护腕</item>
+    <item>生铁打造的护腕，不太坚固，但很实用</item>
+  </string-array>
+  <string-array name="str_1005">
+    <item>狂战头盔</item>
+    <item>无名狂战士生前带过的重型头盔</item>
+  </string-array>
+  <string-array name="str_1006">
+    <item>狂战斧</item>
+    <item>无名狂战士的斧头，布满了裂痕，但随时可以劈开岩石</item>
+  </string-array>
+  <string-array name="str_1007">
+    <item>狂战甲</item>
+    <item>无名狂战士生前穿过的厚重战甲</item>
+  </string-array>
+  <string-array name="str_1008">
+    <item>狂战护肩</item>
+    <item>无名狂战士用过的宽大护肩</item>
+  </string-array>
+  <string-array name="str_1009">
+    <item>狂战护臂</item>
+    <item>无名狂战士用过的宽大护臂</item>
+  </string-array>
+  <string-array name="str_1010">
+    <item>威利的头盔</item>
+    <item>著名橄榄球运动员威利的头盔上貌似还有他本人的签名</item>
+  </string-array>
+  <string-array name="str_1011">
+    <item>威利的球杆</item>
+    <item>威利最喜欢的一只球杆，不但可以用它来打球，而且...</item>
+  </string-array>
+  <string-array name="str_1012">
+    <item>威利8号球服</item>
+    <item>8是威利的幸运数字</item>
+  </string-array>
+  <string-array name="str_1013">
+    <item>威利的护肩</item>
+    <item>硕大的橄榄球护肩，因为威利的绰号叫“宽肩”</item>
+  </string-array>
+  <string-array name="str_1014">
+    <item>威利的护腕</item>
+    <item>白色和红色正好是威利最喜欢的颜色</item>
+  </string-array>
+  <string-array name="str_1015">
+    <item>末日角盔</item>
+    <item>据说是用地狱里熔岩打造成的恐怖头盔,戴上它的人双眼会喷出地狱火焰</item>
+  </string-array>
+  <string-array name="str_1016">
+    <item>末日崩锤</item>
+    <item>撕裂大地的地狱之锤，使用它的时候便是末日来临</item>
+  </string-array>
+  <string-array name="str_1017">
+    <item>末日战甲</item>
+    <item>据说穿上这套战甲的人立即会被熔岩所吞没，但是同时获得地狱的力量</item>
+  </string-array>
+  <string-array name="str_1018">
+    <item>末日重肩</item>
+    <item>据说是用地狱犬的牙齿以及熔岩混合打造而成</item>
+  </string-array>
+  <string-array name="str_1019">
+    <item>末日重腕</item>
+    <item>熔岩打造的护具上还残留着地狱的气息</item>
+  </string-array>
+  <string-array name="str_1020">
+    <item>水晶锤</item>
+    <item>从矿井深入挖出的超大水晶石，硬度超越了一般的钢铁</item>
+  </string-array>
+  <string-array name="str_1021">
+    <item>小熊派克</item>
+    <item>你说派克是用棉花做成的？那怎么被他砸一下还是这么痛？</item>
+  </string-array>
+  <string-array name="str_1022">
+    <item>甜甜棒棒糖</item>
+    <item>上次买外卖的时候送的超巨大赠品，当然，也可以单卖</item>
+  </string-array>
+  <string-array name="str_1023">
+    <item>大哥的眼镜</item>
+    <item>请注意，是大哥的眼镜，不是说戴上就是大哥</item>
+  </string-array>
+  <string-array name="str_1024">
+    <item>死神绿镰</item>
+    <item>收割灵魂的利刃，只有死神才能持有，邪眼里寄托着无数的怨灵</item>
+  </string-array>
+  <string-array name="str_1025">
+    <item>铁狗狼牙</item>
+    <item>巨大的狼牙棒，传说是巨人萨满头领御用的武器</item>
+  </string-array>
+  <string-array name="str_1026">
+    <item>破石战盔</item>
+    <item>只有无比幸运的人才能获得见到它的机会(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1027">
+    <item>破石钢齿</item>
+    <item>巨型铁块制成的钢锤，可以粉碎岩石(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1028">
+    <item>破石重甲</item>
+    <item>穿上它就可以承受巨大的冲击而毫发无伤(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1029">
+    <item>破石重肩</item>
+    <item>布满尖刺的护肩，纯钢制成(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1030">
+    <item>破石铁腕</item>
+    <item>戴上它的人可以轻易握碎岩石(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1031">
+    <item>光武战盔</item>
+    <item>来自遥远东方的神秘战盔</item>
+  </string-array>
+  <string-array name="str_1032">
+    <item>光武薙刀</item>
+    <item>锋利而不失厚重，挥砍自如</item>
+  </string-array>
+  <string-array name="str_1033">
+    <item>光武战甲</item>
+    <item>看似普通革甲却蕴含着强大的力量，叫人不敢直视</item>
+  </string-array>
+  <string-array name="str_1034">
+    <item>光武护肩</item>
+    <item>虽然样子很奇怪，但是防御力却异常出众</item>
+  </string-array>
+  <string-array name="str_1035">
+    <item>光武护腕</item>
+    <item>护腕远比看上去要轻很多，可能是为了挥动武器时更加灵活吧</item>
+  </string-array>
+  <string-array name="str_1036">
+    <item>邪王角盔</item>
+    <item>依照兽族传奇英雄邪王洛克的形象制作的头盔</item>
+  </string-array>
+  <string-array name="str_1037">
+    <item>邪王战斧</item>
+    <item>邪王生前最钟爱的武器</item>
+  </string-array>
+  <string-array name="str_1038">
+    <item>邪王战甲</item>
+    <item>传说穿上这套盔甲就如同邪王附体一般，战无不胜</item>
+  </string-array>
+  <string-array name="str_1039">
+    <item>邪王护肩</item>
+    <item>获得祭祀祝福的护肩，强大的防御力无可比拟</item>
+  </string-array>
+  <string-array name="str_1040">
+    <item>邪王护腕</item>
+    <item>得到邪王的力量，重现先祖的荣耀</item>
+  </string-array>
+  <string-array name="str_1041">
+    <item>炎魔颅骨</item>
+    <item>据传是夹缝世界中炎魔君主迪亚波罗的头骨(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1042">
+    <item>炎魔破界斧</item>
+    <item>夹缝世界中炎魔族士兵的制式武器(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1043">
+    <item>炎魔烈甲</item>
+    <item>夹缝世界中炎魔族士兵的制式护甲(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1044">
+    <item>炎魔护肩</item>
+    <item>夹缝世界中炎魔族士兵的制式护肩(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1045">
+    <item>炎魔护腕</item>
+    <item>夹缝世界中炎魔族士兵的制式护腕(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1046">
+    <item>尼美斯冠</item>
+    <item>某位法老王最喜欢的发冠，得到过神的赐福。</item>
+  </string-array>
+  <string-array name="str_1047">
+    <item>太阳神杖</item>
+    <item>光明神教的三圣器之一，象征权势。</item>
+  </string-array>
+  <string-array name="str_1048">
+    <item>黄金饰带</item>
+    <item>金光闪闪的饰带，战斗中可以更加灵活地挥动武器。</item>
+  </string-array>
+  <string-array name="str_1049">
+    <item>黄金护肩</item>
+    <item>金光闪闪的护肩，王族们偏爱的高阶防具。</item>
+  </string-array>
+  <string-array name="str_1050">
+    <item>黄金护腕</item>
+    <item>金光闪闪的护腕，王族们偏爱的高阶防具。</item>
+  </string-array>
+  <string-array name="str_1100">
+    <item>白银战盔</item>
+    <item>白银制作的头盔，高贵而冷酷</item>
+  </string-array>
+  <string-array name="str_1101">
+    <item>银柄长剑</item>
+    <item>银质长剑，剑柄镶嵌着黄宝石</item>
+  </string-array>
+  <string-array name="str_1102">
+    <item>白银战甲</item>
+    <item>骑士常用的盔甲样式，庄严而凝重</item>
+  </string-array>
+  <string-array name="str_1103">
+    <item>白银护肩</item>
+    <item>流线的设计可以很好的保护肩部</item>
+  </string-array>
+  <string-array name="str_1104">
+    <item>白银护腕</item>
+    <item>连手指部分都有白银保护的优质护腕</item>
+  </string-array>
+  <string-array name="str_1105">
+    <item>杰克羽帽</item>
+    <item>显眼的骷髅头，白色的鹦鹉羽毛，戴上它的人就会成为船长</item>
+  </string-array>
+  <string-array name="str_1106">
+    <item>杰克弯刀</item>
+    <item>被它杀死的人最后一刻看到的是闪亮刀身反射出的自己惊愕扭曲的表情</item>
+  </string-array>
+  <string-array name="str_1107">
+    <item>杰克外套</item>
+    <item>穿上它的人马上会感觉自己身轻如燕</item>
+  </string-array>
+  <string-array name="str_1108">
+    <item>杰克肩徽</item>
+    <item>据说杰克每干上一票，肩徽就会增加一条</item>
+  </string-array>
+  <string-array name="str_1109">
+    <item>杰克护腕</item>
+    <item>红色和黑色是杰克最喜欢的，据他自己说因为这样会带来运气</item>
+  </string-array>
+  <string-array name="str_1110">
+    <item>疯狂红帽</item>
+    <item>总之，这是一顶稀奇古怪的帽子</item>
+  </string-array>
+  <string-array name="str_1111">
+    <item>疯狂马桶搋</item>
+    <item>谁家马桶堵了，我来了！</item>
+  </string-array>
+  <string-array name="str_1112">
+    <item>疯狂背带裤</item>
+    <item>据说某著名游戏主角经常穿这个去拯救公主</item>
+  </string-array>
+  <string-array name="str_1113">
+    <item>疯狂护肩</item>
+    <item>好像是用罐头皮和破钉子制成的怪里怪气的东西</item>
+  </string-array>
+  <string-array name="str_1114">
+    <item>疯狂手套</item>
+    <item>戴上它以后就会变得无比疯狂...这只是个传说</item>
+  </string-array>
+  <string-array name="str_1115">
+    <item>恶骨之眼</item>
+    <item>被远古亡灵寄宿着的骨盔，戴上它的人会失去灵魂</item>
+  </string-array>
+  <string-array name="str_1116">
+    <item>恶骨肋刺</item>
+    <item>被它吞噬的灵魂徘徊在剑的周围，永远不会散去</item>
+  </string-array>
+  <string-array name="str_1117">
+    <item>恶骨护甲</item>
+    <item>得到它的人被将亡灵守护同时也将被亡灵诅咒</item>
+  </string-array>
+  <string-array name="str_1118">
+    <item>恶骨护肩</item>
+    <item>当它找到新主人的时候，沉寂多年的亡灵们便破壳而出</item>
+  </string-array>
+  <string-array name="str_1119">
+    <item>恶骨护腕</item>
+    <item>用灵魂交换力量的那一刻它便与你的手腕融为一体</item>
+  </string-array>
+  <string-array name="str_1120">
+    <item>嗡嗡剑</item>
+    <item>挥舞起来发出嗡嗡的声音，很有高科技的感觉</item>
+  </string-array>
+  <string-array name="str_1121">
+    <item>斯巴达头盔</item>
+    <item>占满了鲜血和泥土的头盔上布满了刀痕，仍然可以使用</item>
+  </string-array>
+  <string-array name="str_1122">
+    <item>寒铁弯月</item>
+    <item>形状如同弯月的弯刀，挥舞起来呼呼生风</item>
+  </string-array>
+  <string-array name="str_1123">
+    <item>诡形异刃</item>
+    <item>南方野蛮民族铁匠用独特方式制成的巨大利刃，光是挥舞起来都很吃力</item>
+  </string-array>
+  <string-array name="str_1124">
+    <item>皇族公子</item>
+    <item>百千年人族皇家利刃，握在手中就能感觉到历史的沉重</item>
+  </string-array>
+  <string-array name="str_1125">
+    <item>暗影面具</item>
+    <item>光是凝视这个面具，魂魄就会消失(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1126">
+    <item>暗影风刃</item>
+    <item>它不仅会夺走生命，也会收割灵魂(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1127">
+    <item>暗影邪甲</item>
+    <item>穿上它的人会立即消失在黑夜中(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1128">
+    <item>暗影重肩</item>
+    <item>获得它，就会获得隐匿的直觉(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1129">
+    <item>暗影之爪</item>
+    <item>散发着凉意的护腕，像是用影子做成的(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1130">
+    <item>机械战盔</item>
+    <item>地精工坊的新型兵器套件，戴上之后可以预判敌人的行动</item>
+  </string-array>
+  <string-array name="str_1131">
+    <item>合金战剑</item>
+    <item>地精工坊的新型兵器套件，使用新型合金，更轻、更锋利</item>
+  </string-array>
+  <string-array name="str_1132">
+    <item>机械战甲</item>
+    <item>地精工坊的新型兵器套件，通过内部驱动增加主人的行动力</item>
+  </string-array>
+  <string-array name="str_1133">
+    <item>机械护肩</item>
+    <item>地精工坊的新型兵器套件，自动调整战斗动作</item>
+  </string-array>
+  <string-array name="str_1134">
+    <item>机械护手</item>
+    <item>地精工坊的新型兵器套件，加强使用者的手部力量</item>
+  </string-array>
+  <string-array name="str_1135">
+    <item>荣耀皇冠</item>
+    <item>王室一脉中荣耀之血的继承人才能使用的皇冠</item>
+  </string-array>
+  <string-array name="str_1136">
+    <item>荣耀血刃</item>
+    <item>饱饮对手的鲜血之后会发出低鸣的神器</item>
+  </string-array>
+  <string-array name="str_1137">
+    <item>荣耀战甲</item>
+    <item>闪着血金光芒的铠甲，华丽且实用</item>
+  </string-array>
+  <string-array name="str_1138">
+    <item>荣耀护肩</item>
+    <item>由血金锻造而成的护肩</item>
+  </string-array>
+  <string-array name="str_1139">
+    <item>荣耀护手</item>
+    <item>光荣与力量交织而成的护手，同样是王室所有</item>
+  </string-array>
+  <string-array name="str_1140">
+    <item>虫王角盔</item>
+    <item>镶嵌了鬼面甲虫王独角的头盔(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1141">
+    <item>虫王断界镰</item>
+    <item>鬼面甲虫王称霸夹缝世界的利器(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1142">
+    <item>虫王软甲</item>
+    <item>鬼面甲虫王的腹部软甲，柔韧异常，最大程度减少伤害(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1143">
+    <item>虫王护肩</item>
+    <item>以鬼面甲虫王的关节制成的护肩(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1144">
+    <item>虫王护腕</item>
+    <item>以鬼面甲虫王的关节制成的护腕(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1145">
+    <item>法老王冠</item>
+    <item>砂之国法老王的王冠。</item>
+  </string-array>
+  <string-array name="str_1146">
+    <item>引魂之刃</item>
+    <item>相传是冥神赐下的利刃，拥有不可思议的引魂之力。</item>
+  </string-array>
+  <string-array name="str_1147">
+    <item>太阳神甲</item>
+    <item>光明神教的三圣器之一，象征永恒。</item>
+  </string-array>
+  <string-array name="str_1148">
+    <item>法老护肩</item>
+    <item>砂之国法老传承数代的古老护肩。</item>
+  </string-array>
+  <string-array name="str_1149">
+    <item>法老护腕</item>
+    <item>砂之国法老传承数代的古老护腕。</item>
+  </string-array>
+  <string-array name="str_1200">
+    <item>蔷薇角</item>
+    <item>使用百年蔷薇藤蔓制成的角状头饰</item>
+  </string-array>
+  <string-array name="str_1201">
+    <item>蔷薇花</item>
+    <item>娇艳的花瓣让人迷惑，尖锐的毒刺让人流血</item>
+  </string-array>
+  <string-array name="str_1202">
+    <item>蔷薇战衣</item>
+    <item>百年蔷薇藤蔓制成的盔甲，性感而坚韧</item>
+  </string-array>
+  <string-array name="str_1203">
+    <item>蔷薇闪翼</item>
+    <item>百年蔷薇藤蔓制作而成的造型怪异的翅膀</item>
+  </string-array>
+  <string-array name="str_1204">
+    <item>蔷薇护腕</item>
+    <item>虽然有锋利的尖刺，但追求力量的人还是会毫不犹豫的装备它</item>
+  </string-array>
+  <string-array name="str_1205">
+    <item>独角兽之角</item>
+    <item>传说这种动物的角能给人带来幸运</item>
+  </string-array>
+  <string-array name="str_1206">
+    <item>命运转轮</item>
+    <item>拥有这个转轮的人能感觉到控制命运的力量</item>
+  </string-array>
+  <string-array name="str_1207">
+    <item>独角兽胸甲</item>
+    <item>用独角兽的毛皮制成的白色盔甲，质地坚固却很轻便</item>
+  </string-array>
+  <string-array name="str_1208">
+    <item>独角兽银翼</item>
+    <item>只有成年的独角兽才能长出翅膀，飞翔的时候会放出光芒</item>
+  </string-array>
+  <string-array name="str_1209">
+    <item>独角兽护腕</item>
+    <item>独角兽的骨骼制成的硬度很高的护腕</item>
+  </string-array>
+  <string-array name="str_1210">
+    <item>可爱护士帽</item>
+    <item>每次看到带着这个帽子的女人，我就觉得屁股很痛</item>
+  </string-array>
+  <string-array name="str_1211">
+    <item>可爱桃心</item>
+    <item>看起来可爱的红心，不过只是看起来</item>
+  </string-array>
+  <string-array name="str_1212">
+    <item>可爱护士装</item>
+    <item>粉红色的短裙加上白色的长袜，恩...我好像想起了什么</item>
+  </string-array>
+  <string-array name="str_1213">
+    <item>可爱翅膀</item>
+    <item>天使的翅膀，有种让人想要触摸的感觉</item>
+  </string-array>
+  <string-array name="str_1214">
+    <item>可爱手套</item>
+    <item>一看就是女孩子最喜欢的样式</item>
+  </string-array>
+  <string-array name="str_1215">
+    <item>暗夜战盔</item>
+    <item>任何一个胆敢直视这个面具的人，都会在瞬间被拉入无穷的黑暗中</item>
+  </string-array>
+  <string-array name="str_1216">
+    <item>暗夜之瞳</item>
+    <item>当你看到这只魔眼的时候，无尽深渊已环绕了你周围的一切</item>
+  </string-array>
+  <string-array name="str_1217">
+    <item>暗夜战甲</item>
+    <item>穿上这个盔甲的人得到力量的同时也会被黑暗所吞噬</item>
+  </string-array>
+  <string-array name="str_1218">
+    <item>暗夜魔翼</item>
+    <item>舞动这对翅膀的时候能带起乌云和雷雨</item>
+  </string-array>
+  <string-array name="str_1219">
+    <item>暗夜护腕</item>
+    <item>说不清它是用什么制成的，只是感到一阵黑暗的力量在涌动</item>
+  </string-array>
+  <string-array name="str_1220">
+    <item>清爽发型</item>
+    <item>换成这个新发型以后思考问题的速度好像快了很多</item>
+  </string-array>
+  <string-array name="str_1221">
+    <item>兔耳发卡</item>
+    <item>打扮成这个样子就可以去参加化妆舞会了吧</item>
+  </string-array>
+  <string-array name="str_1222">
+    <item>黄金之心</item>
+    <item>遗失在海边的神奇道具，被渔民当成海星带回市场，其实是稀世珍宝</item>
+  </string-array>
+  <string-array name="str_1223">
+    <item>融冰精晶</item>
+    <item>从极寒的北方洞穴深入发现的稀奇物体，能让附近的一切冰冻</item>
+  </string-array>
+  <string-array name="str_1224">
+    <item>遗忘头颅</item>
+    <item>传说是古代高级祭祀的头颅，至今眼睛里还闪烁着火焰的光芒</item>
+  </string-array>
+  <string-array name="str_1225">
+    <item>红龙魂精</item>
+    <item>寄宿着死去的红龙灵魂的魔界精灵，即使被驯服也时常暴走</item>
+  </string-array>
+  <string-array name="str_1226">
+    <item>灭焰头饰</item>
+    <item>熔岩锻造的头饰，散发着恶魔的气息(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1227">
+    <item>灭焰闪星</item>
+    <item>看见它的人，生命已经消失(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1228">
+    <item>灭焰铜甲</item>
+    <item>坚实而华丽的盔甲，散发着熔岩的味道(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1229">
+    <item>灭焰闪翼</item>
+    <item>挥动这对双翼，带起飞沙走石(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1230">
+    <item>灭焰铜腕</item>
+    <item>华丽的护腕，闪耀着邪恶的光芒(&lt;font color=#ff0000&gt;通过抽奖和挑战副本获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1231">
+    <item>兽灵发饰</item>
+    <item>工匠们抽取凶兽的灵魂制成的发饰</item>
+  </string-array>
+  <string-array name="str_1232">
+    <item>兽灵骨刺</item>
+    <item>使用玄海雪狼鲨的刺骨为主体的兽灵武器</item>
+  </string-array>
+  <string-array name="str_1233">
+    <item>兽灵皮衣</item>
+    <item>兽皮之上附着凶兽的灵魂，越是妖艳，越是凶残</item>
+  </string-array>
+  <string-array name="str_1234">
+    <item>兽灵之翼</item>
+    <item>这对羽翼曾经属于黑雪山脉的墨羽狮鹫</item>
+  </string-array>
+  <string-array name="str_1235">
+    <item>兽灵之爪</item>
+    <item>随时可以取人性命的凶兽利爪</item>
+  </string-array>
+  <string-array name="str_1236">
+    <item>暗光之冠</item>
+    <item>魅魔一族暗光祭司发冠，象征无上的权力</item>
+  </string-array>
+  <string-array name="str_1237">
+    <item>暗光权杖</item>
+    <item>平时是祈祷的法器，战时是伤人的利器</item>
+  </string-array>
+  <string-array name="str_1238">
+    <item>暗光长袍</item>
+    <item>暗光祭祀穿的长袍，平时很难见到的</item>
+  </string-array>
+  <string-array name="str_1239">
+    <item>暗光羽翼</item>
+    <item>高阶祭司才会拥有的羽翼</item>
+  </string-array>
+  <string-array name="str_1240">
+    <item>暗光手套</item>
+    <item>同样是暗光祭祀专用的手套，配合施展暗光神术</item>
+  </string-array>
+  <string-array name="str_1241">
+    <item>羽神钢盔</item>
+    <item>仿造羽神殿中神王头像制造的钢盔(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1242">
+    <item>羽神十界斩</item>
+    <item>神王麾下女武神最钟爱的武器(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1243">
+    <item>羽神战甲</item>
+    <item>由夹缝世界特产的星星铁铸成，轻薄坚固(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1244">
+    <item>羽神铁翼</item>
+    <item>羽神一族最为骄傲的铁翼(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1245">
+    <item>羽神护腕</item>
+    <item>羽神族常见的护具(&lt;font color=#ff0000&gt;通过联盟战斗获得&lt;/font&gt;)</item>
+  </string-array>
+  <string-array name="str_1246">
+    <item>蛇姬之冠</item>
+    <item>砂之国王族女性的发冠。</item>
+  </string-array>
+  <string-array name="str_1247">
+    <item>嗜血金蛇</item>
+    <item>砂之国特产的奇异生物，速度极快，常被当做武器。</item>
+  </string-array>
+  <string-array name="str_1248">
+    <item>冥神软甲</item>
+    <item>经冥河之水洗练过的布甲，拥有极强的韧性和防御力。</item>
+  </string-array>
+  <string-array name="str_1249">
+    <item>太阳神翼</item>
+    <item>光明神教的三圣器之一，象征希望。</item>
+  </string-array>
+  <string-array name="str_1250">
+    <item>光明之环</item>
+    <item>光明神教教众的标志性饰品。</item>
+  </string-array>
+  <string-array name="str_300">
+    <item>乌巴的烟斗</item>
+    <item>即使抽烟有害健康，银眼乌巴生前也从没离开过他的烟斗，不过乌巴被狼人部落打败以后就再也没人见过它</item>
+  </string-array>
+  <string-array name="str_301">
+    <item>血印挂件</item>
+    <item>将每一个被杀的勇士的鲜血涂抹在这个项链上的巫师曾经说过，拥有这个魔物的人不会死去</item>
+  </string-array>
+  <string-array name="str_302">
+    <item>速度之星</item>
+    <item>当煦风女王征战南沙州得时候，当时她曾经佩戴过一条神奇而美丽的绿色项链</item>
+  </string-array>
+  <string-array name="str_303">
+    <item>红炎之眼</item>
+    <item>黄金和红宝石打造成的高贵戒指，一般都是送给王族的厚礼</item>
+  </string-array>
+  <string-array name="str_304">
+    <item>狮心铜符</item>
+    <item>远古人类曾经有个强大的王国叫铜狮子帝国，他们的国王曾经佩戴过这个护身符</item>
+  </string-array>
+  <string-array name="str_305">
+    <item>皇族三叶草</item>
+    <item>妖精国的国王最爱的三叶草样子的项链，传说在他们灭国之前一直佩戴在国王身上</item>
+  </string-array>
+  <string-array name="str_306">
+    <item>维特的手</item>
+    <item>在维特变成僵尸的一年以后，他就只剩下这只手了</item>
+  </string-array>
+  <string-array name="str_307">
+    <item>残铁之戒</item>
+    <item>矮人铁匠多多曾打造过一把巨斧想献给他们的王，多余的铁料就做成了这个戒指</item>
+  </string-array>
+  <string-array name="str_308">
+    <item>龙皮戒指</item>
+    <item>蓝色魔龙被杀以后，它最好的皮被巫师混合珍珠制成了一枚独一无二的戒指</item>
+  </string-array>
+  <string-array name="str_309">
+    <item>魔龙之心</item>
+    <item>从炎王龙身上挖出来的龙心，如果不用白银做的架子把它锁住，一瞬间它就会蒸发任何东西</item>
+  </string-array>
+  <string-array name="str_400">
+    <item>幽灵步兵</item>
+    <item>在本方城墙处呼唤出战死步兵灵魂的巫术 幽灵在空气中只能存活短暂的时间</item>
+  </string-array>
+  <string-array name="str_401">
+    <item>幽灵巨魔</item>
+    <item>在本方城墙处呼唤出战死巨魔灵魂的巫术 幽灵在空气中只能存活短暂的时间</item>
+  </string-array>
+  <string-array name="str_402">
+    <item>幽灵射手</item>
+    <item>在本方城墙处呼唤出战死射手灵魂的巫术 幽灵在空气中只能存活短暂的时间</item>
+  </string-array>
+  <string-array name="str_403">
+    <item>炙热冲击</item>
+    <item>将空气中的火焰元素在一瞬间聚集并向前方释放的强力攻击型黑魔法 灼烧伤害</item>
+  </string-array>
+  <string-array name="str_404">
+    <item>电光火石</item>
+    <item>在一瞬间让空气摩擦起电 产生强烈的电流并将目标击穿的强力黑魔法 电击伤害</item>
+  </string-array>
+  <string-array name="str_405">
+    <item>末日灼烧</item>
+    <item>使用强大的精神力量引导陨石群从天际坠落 在地面形成强力的冲击而引发剧烈的爆炸的黑魔法 攻击3次，每次伤害</item>
+  </string-array>
+  <string-array name="str_406">
+    <item>精灵辉光</item>
+    <item>在战士们伤口附近聚集精灵的光芒并为他们治疗的白魔法 治疗生命值</item>
+  </string-array>
+  <string-array name="str_407">
+    <item>崩裂巨刃</item>
+    <item>运用全身之气并在一瞬间释放出能撕裂空气的能量 可以将前方的目标拦腰斩断 冲击伤害</item>
+  </string-array>
+  <string-array name="str_408">
+    <item>巫毒打击</item>
+    <item>命令城堡里的地精们投掷化学头骨炸药攻击目标的巫术 爆炸伤害</item>
+  </string-array>
+  <string-array name="str_409">
+    <item>幽蓝灭焱</item>
+    <item>将空气中的魔火元素在一瞬间聚集并向前方释放的强力攻击型黑魔法 火焰伤害</item>
+  </string-array>
+  <string-array name="str_410">
+    <item>异能魔弹</item>
+    <item>将空气中的所有魔力火焰元素在一瞬间聚集并向前方释放的强力攻击型黑魔法 火焰伤害</item>
+  </string-array>
+  <string-array name="str_411">
+    <item>蓝尘冲击</item>
+    <item>使用强大的精神力量引导鬼火群从天际坠落 在地面形成强力的冲击而引发剧烈的爆炸的黑魔法 攻击3次，每次伤害</item>
+  </string-array>
+  <string-array name="str_412">
+    <item>魔怒湮灭</item>
+    <item>使用强大的精神力量引导魔石群从天际坠落 在地面形成强力的冲击而引发剧烈的爆炸的黑魔法 攻击3次，每次伤害</item>
+  </string-array>
+  <string-array name="str_413">
+    <item>残骨之怒</item>
+    <item>命令城堡里的地精们投掷红色头骨炸药攻击目标的巫术 爆炸伤害</item>
+  </string-array>
+  <string-array name="str_414">
+    <item>哀伤妖刃</item>
+    <item>积聚精气并在一瞬间释放出能撕裂空气的能量 可以将前方的目标拦腰斩断 冲击伤害</item>
+  </string-array>
+  <string-array name="str_415">
+    <item>紫骸深渊</item>
+    <item>命令城堡里的地精们投掷紫色头骨炸药攻击目标的巫术 爆炸伤害</item>
+  </string-array>
+  <string-array name="str_416">
+    <item>真空杀刃</item>
+    <item>吸收真气并在一瞬间释放出能撕裂空气的能量 可以将前方的目标拦腰斩断 冲击伤害</item>
+  </string-array>
+  <string-array name="str_20000">
+    <item>生命宝石</item>
+    <item>生命值+$0</item>
+  </string-array>
+  <string-array name="str_20100">
+    <item>敏捷宝石</item>
+    <item>闪避机率+$0</item>
+  </string-array>
+  <string-array name="str_20200">
+    <item>晕眩宝石</item>
+    <item>攻击造成对方晕眩的机率+$0，晕眩状态无法移动和攻击。</item>
+  </string-array>
+  <string-array name="str_20300">
+    <item>虚弱宝石</item>
+    <item>攻击造成对方虚弱的机率+$0，虚弱状态防御降为0。</item>
+  </string-array>
+  <string-array name="str_20400">
+    <item>冰冻宝石</item>
+    <item>攻击造成对方冰冻的机率+$0，冰冻状态移动和攻击速度下降。</item>
+  </string-array>
+  <string-array name="str_20500">
+    <item>坚体宝石</item>
+    <item>被暴击、眩晕、虚弱、冰冻、中毒的机率降低$0</item>
+  </string-array>
+  <string-array name="str_20600">
+    <item>猛毒宝石</item>
+    <item>攻击造成对方100%中毒，中毒状态下每秒失血$0，持续3秒。</item>
+  </string-array>
+  <string-array name="str_22000">
+    <item>免战牌</item>
+    <item>保护帝国$0不受攻击,对已出兵的敌人无效。</item>
+  </string-array>
+  <string-array name="str_22001">
+    <item>黄金免战牌</item>
+    <item>保护帝国$0不受攻击,对已出兵的敌人无效。</item>
+  </string-array>
+  <string-array name="str_22010">
+    <item>黄金增产卡</item>
+    <item>使用后，$0内黄金的产量增加$1</item>
+  </string-array>
+  <string-array name="str_22020">
+    <item>水晶增产卡</item>
+    <item>使用后，$0内水晶的产量增加$1</item>
+  </string-array>
+  <string-array name="str_22030">
+    <item>魔法沙漏</item>
+    <item>神奇的沙漏，每个可缩短$0。</item>
+  </string-array>
+  <string-array name="str_22040">
+    <item>双倍经验卡</item>
+    <item>使用之后获胜的$0场战斗，通过战斗获得的经验翻倍。</item>
+  </string-array>
+  <string-array name="str_22050">
+    <item>小喇叭</item>
+    <item>世界频道发言时消耗，可以不受限制发言。</item>
+  </string-array>
+  <string-array name="str_22060">
+    <item>魔法之眼</item>
+    <item>神奇的魔法道具，在联盟战中可以用来侦察敌方据点的驻军情况</item>
+  </string-array>
+  <string-array name="str_22070">
+    <item>铜宝箱</item>
+    <item>铜制宝箱，里面可能会有少量魔酒、魔晶石、1级宝石、普通装备、道具和资源等。</item>
+  </string-array>
+  <string-array name="str_22071">
+    <item>银宝箱</item>
+    <item>银制宝箱，里面可能会有魔酒、魔晶石、2级宝石、优质装备、非卖装备碎片、道具和资源等。</item>
+  </string-array>
+  <string-array name="str_22072">
+    <item>金宝箱</item>
+    <item>黄金铸成的宝箱，里面可能会有大量魔酒、魔晶石、3级宝石、高级装备、非卖装备碎片、道具和材料等。</item>
+  </string-array>
+  <string-array name="str_22073">
+    <item>钻石宝箱</item>
+    <item>钻石雕铸的宝箱，里面可能会有埃及套装碎片、魔晶石和道具等。</item>
+  </string-array>
+  <string-array name="str_22080">
+    <item>精铁锭</item>
+    <item>用于升级勋章的必须材料，比较常见。</item>
+  </string-array>
+  <string-array name="str_22081">
+    <item>黄铜锭</item>
+    <item>勋章进阶的材料，需要从高等级装备中才能得到。</item>
+  </string-array>
+  <string-array name="str_22082">
+    <item>紫金锭</item>
+    <item>勋章升级的高级材料，非常珍贵。</item>
+  </string-array>
+  <string-array name="str_22083">
+    <item>秘银锭</item>
+    <item>合成勋章的珍贵材料，只能分解非卖品中才能得到。</item>
+  </string-array>
+  <string-array name="str_22084">
+    <item>元素晶体</item>
+    <item>形成技能的基本元素，可以用于提高技能的威力。</item>
+  </string-array>
+  <string-array name="str_22090">
+    <item>VIP体验卡</item>
+    <item>使用后，$0内享受以下特权:&lt;br/&gt;1. 一键收获&lt;br/&gt;2. 一份礼包（黄金2000 水晶1000）&lt;br/&gt;3. 单次造兵上限增加到50个&lt;br/&gt;4. 训练场最大刷新积累次数增加12次&lt;br/&gt;5. VIP专属头像&lt;br/&gt;6. 盟战托管免费。&lt;br/&gt;7. $1级后开启快捷招募功能。</item>
+  </string-array>
+  <string-array name="str_22091">
+    <item>VIP周卡</item>
+    <item>使用后，$0内享受以下特权:&lt;br/&gt;1. 一键收获&lt;br/&gt;2. 一份礼包（黄金15000 水晶10000 沙漏10）&lt;br/&gt;3. 单次造兵上限增加到50个&lt;br/&gt;4. 训练场最大刷新积累次数增加12次&lt;br/&gt;5. VIP专属头像&lt;br/&gt;6. 盟战托管免费。&lt;br/&gt;7. $1级后开启快捷招募功能。</item>
+  </string-array>
+  <string-array name="str_22092">
+    <item>VIP月卡</item>
+    <item>使用后，$0内享受以下特权:&lt;br/&gt;1. 一键收获&lt;br/&gt;2. 一份礼包（黄金50000 水晶30000 沙漏30）&lt;br/&gt;3. 单次造兵上限增加到50个&lt;br/&gt;4. 训练场最大刷新积累次数增加12次&lt;br/&gt;5. VIP专属头像&lt;br/&gt;6. 盟战托管免费。&lt;br/&gt;7. $1级后开启快捷招募功能。</item>
+  </string-array>
+  <string-array name="str_20700">
+    <item>命中宝石</item>
+    <item>命中机率+$0</item>
+  </string-array>
+  <string-array name="str_23000">
+    <item>联盟令</item>
+    <item>创建联盟或建造联盟建筑时需要的物品</item>
+  </string-array>
+  <string-array name="str_21000">
+    <item>格挡宝石</item>
+    <item>触发格挡几率+$0，格挡时受到的伤害减半。</item>
+  </string-array>
+  <string-array name="str_429">
+    <item>禁血领域</item>
+    <item>用绝望的死亡诅咒折磨敌方英雄 自身无法回血和吸血 但是可以获得牧师的加血效果 持续</item>
+  </string-array>
+  <string-array name="str_430">
+    <item>眩晕雷电</item>
+    <item>召唤霹雳击穿敌方单位,电击伤害的同时产生眩晕效果</item>
+  </string-array>
+  <string-array name="str_431">
+    <item>魔法隔绝</item>
+    <item>使敌方英雄陷入反魔法领域 无法获得牧师和萨满的加成效果, 持续</item>
+  </string-array>
+  <string-array name="str_432">
+    <item>命运之刃</item>
+    <item>收集幽魂之力施展斩断敌方灵魂的必杀冲击, 冲击伤害</item>
+  </string-array>
+  <string-array name="str_433">
+    <item>圣者之光</item>
+    <item>咏唱神圣的赞歌为本方数名勇士恢复大量生命值 瞬间恢复生命值$0, 随后一段时间内每秒恢复生命值$1</item>
+  </string-array>
+  <string-array name="str_490">
+    <item>狂怒之斩</item>
+    <item>受到攻击时，有小几率触发。造成伤害$0，并造成眩晕效果</item>
+  </string-array>
+  <string-array name="str_493">
+    <item>战争之心</item>
+    <item>生命值低于$0时，移动速度提升$3，攻击速度提升$2，攻击力提升$1，持续$4秒。每一场只触发一次。</item>
+  </string-array>
+  <string-array name="str_496">
+    <item>魔法闪耀</item>
+    <item>给自己释放一个魔法光环，持续$0秒，暴击时提升暴击伤害$1</item>
+  </string-array>
+  <string-array name="str_310">
+    <item>圣灵之戒</item>
+    <item>圣者佩戴过的戒指，残留有圣灵守护之力，它对一切负面能量有抑制作用，佩戴后负面状态的持续时间减少</item>
+  </string-array>
+  <string-array name="str_311">
+    <item>神圣项链</item>
+    <item>附带有神圣祝福的项链，受到致死攻击时有几率触发无敌状态。</item>
+  </string-array>
+  <string-array name="str_1051">
+    <item>海魔颅骨</item>
+    <item>来自夹缝世界的海魔颅骨制成的头盔</item>
+  </string-array>
+  <string-array name="str_1052">
+    <item>海魔之怒</item>
+    <item>海魔使用的巨大战锤 凝聚着海魔体内的暴怒与邪念 无坚不摧</item>
+  </string-array>
+  <string-array name="str_1053">
+    <item>海魔鳞甲</item>
+    <item>来自夹缝世界的海魔鳞片制成的护甲</item>
+  </string-array>
+  <string-array name="str_1054">
+    <item>海魔护肩</item>
+    <item>来自夹缝世界的海魔鳞片制成的护肩</item>
+  </string-array>
+  <string-array name="str_1055">
+    <item>海魔护手</item>
+    <item>来自夹缝世界的海魔鳞片制成的护手</item>
+  </string-array>
+  <string-array name="str_1056">
+    <item>炎魔颤栗颅骨</item>
+    <item>天神将上古炎魔拉格隆斯将自己的身体碎裂成七片熔岩，但无法磨灭他们的力量羁绊。</item>
+  </string-array>
+  <string-array name="str_1057">
+    <item>炎魔深渊怒焰斧</item>
+    <item>在拉格隆斯失败时，他将自己的脊柱碎裂成无数碎片，在漫长的时间中碎片自己寻找同类，汇聚成强大的神器</item>
+  </string-array>
+  <string-array name="str_1058">
+    <item>炎魔颤栗烈甲</item>
+    <item>熔岩是最好的保护层，燃烧越猛，力量越盛。</item>
+  </string-array>
+  <string-array name="str_1059">
+    <item>炎魔颤栗护肩</item>
+    <item>上古炎魔依靠吞噬能量，与天神在上古对抗了七千年。</item>
+  </string-array>
+  <string-array name="str_1060">
+    <item>炎魔颤栗护腕</item>
+    <item>炎魔不断吸收火的力量，奢望重新汇聚自己的力量。</item>
+  </string-array>
+  <string-array name="str_1150">
+    <item>海龙战盔</item>
+    <item>大洋守护兽海龙的颅骨制成的头盔</item>
+  </string-array>
+  <string-array name="str_1151">
+    <item>龙骨噬魂剑</item>
+    <item>大洋守护兽海龙的骨骼中最坚硬的部分打磨成的双剑 据说拥有吞噬敌人灵魂的魔力</item>
+  </string-array>
+  <string-array name="str_1152">
+    <item>海龙战衣</item>
+    <item>大洋守护兽海龙的骨骼制成的战衣</item>
+  </string-array>
+  <string-array name="str_1153">
+    <item>海龙披肩</item>
+    <item>大洋守护兽海龙的骨骼制成的护肩</item>
+  </string-array>
+  <string-array name="str_1154">
+    <item>海龙之爪</item>
+    <item>大洋守护兽海龙的骨骼制成的手套</item>
+  </string-array>
+  <string-array name="str_1155">
+    <item>虫王混沌角盔</item>
+    <item>虫王天生与虚无空间的羁绊，即便在死亡后依然能汇聚混沌之力。、</item>
+  </string-array>
+  <string-array name="str_1156">
+    <item>虫王梦魇噬魂镰</item>
+    <item>每次战斗吞噬的魂魄，将沉睡的能量唤醒。</item>
+  </string-array>
+  <string-array name="str_1157">
+    <item>虫王混沌战甲</item>
+    <item>以空间为食的虫王一族，身体的每一部分都藏有虚无的混沌。</item>
+  </string-array>
+  <string-array name="str_1158">
+    <item>虫王混沌护肩</item>
+    <item>无影神会赐予他追随者微薄的力量，但这在数量庞大的虫王身上形成了极强的破坏力</item>
+  </string-array>
+  <string-array name="str_1159">
+    <item>虫王混沌护腕</item>
+    <item>虫王的身体便是空间接缝，一切混沌诞生于此，覆灭与此。</item>
+  </string-array>
+  <string-array name="str_1251">
+    <item>海妖法冠</item>
+    <item>海妖塞壬一族的女王所的佩戴的法冠</item>
+  </string-array>
+  <string-array name="str_1252">
+    <item>海妖之吻</item>
+    <item>海妖女王的专属法器 给她的敌人带来甜蜜的死亡</item>
+  </string-array>
+  <string-array name="str_1253">
+    <item>蛟龙护甲</item>
+    <item>被海妖女王奴役的蛟龙的皮制成的羽衣</item>
+  </string-array>
+  <string-array name="str_1254">
+    <item>蛟龙之翼</item>
+    <item>被海妖女王奴役的蛟龙的翅制成的飞翼</item>
+  </string-array>
+  <string-array name="str_1255">
+    <item>蛟龙护手</item>
+    <item>被海妖女王奴役的蛟龙的皮制成的护手</item>
+  </string-array>
+  <string-array name="str_1256">
+    <item>羽神幻界灵盔</item>
+    <item>幻灵精华加持过的羽神钢盔</item>
+  </string-array>
+  <string-array name="str_1257">
+    <item>羽神湮灭十字斩</item>
+    <item>女武神幻化之际，将残余的精神聚合为凋零之力。</item>
+  </string-array>
+  <string-array name="str_1258">
+    <item>羽神幻界战甲</item>
+    <item>时光之轮不停旋转，归于空间的羽神受到萨菲罗的祝福能力逐渐变强</item>
+  </string-array>
+  <string-array name="str_1259">
+    <item>羽神幻界魔翼</item>
+    <item>羽神吸收了绿龙被腐蚀的翅膀，时间会将梦境之力激发出来。</item>
+  </string-array>
+  <string-array name="str_1260">
+    <item>羽神幻界护腕</item>
+    <item>与绿龙作战时触碰过龙血的护腕，在汇聚能量后爆发出强大的力量。</item>
+  </string-array>
+  <string-array name="str_22100">
+    <item>神秘果实</item>
+    <item>价值连城的硕大坚果，与其吃掉，不如用来换些值钱的宝物</item>
+  </string-array>
+  <string-array name="str_22101">
+    <item>骆驼硬币</item>
+    <item>老骆驼遗留下的一枚古老硬币，据说只要将它交还回去，就可以得到回礼</item>
+  </string-array>
+  <string-array name="str_22102">
+    <item>神秘钥匙</item>
+    <item>不知能开启哪扇宝库的钥匙，锈迹斑斑，可以看得出上了年头</item>
+  </string-array>
+  <string-array name="str_22103">
+    <item>符文碎片</item>
+    <item>黑湖之战中，龙语之崖被摧毁，铭刻着龙文字的石块散落世界各处。其中一些已经完全无法识别文字，但继承原文字的强化能力或衰弱能力。符文碎片可以从训练场中获得。</item>
+  </string-array>
+  <string-array name="str_22104">
+    <item>黄金果实</item>
+    <item>黄金制成的果实，非常稀有珍贵。</item>
+  </string-array>
+  <string-array name="str_22105">
+    <item>白银果实</item>
+    <item>闪烁着银白色的光芒。</item>
+  </string-array>
+  <string-array name="str_22106">
+    <item>碧玉果实</item>
+    <item>蕴含着让人沉静的力量。</item>
+  </string-array>
+  <string-array name="str_22107">
+    <item>海洋果实</item>
+    <item>如大海般的深蓝，压制着惊涛骇浪般的力量。</item>
+  </string-array>
+  <string-array name="str_22108">
+    <item>火龙果实</item>
+    <item>由火龙喷吐出的熔岩冷凝而成，又名火龙果，恩，听起来就很好吃。</item>
+  </string-array>
+  <string-array name="str_22109">
+    <item>秘银钥匙</item>
+    <item>从莫瑞亚矿坑底部发现，以秘银制成。</item>
+  </string-array>
+  <string-array name="str_22110">
+    <item>青铜钥匙</item>
+    <item>古老的钥匙上布满铜锈。</item>
+  </string-array>
+  <string-array name="str_22111">
+    <item>海洋之匙</item>
+    <item>传说中可以兑换来自海洋的礼物。</item>
+  </string-array>
+  <string-array name="str_22112">
+    <item>火焰钥匙</item>
+    <item>仿佛没有实体，由火焰构成。</item>
+  </string-array>
+  <string-array name="str_22113">
+    <item>魔王钥匙</item>
+    <item>注视着这把钥匙，你感到一阵恐惧。</item>
+  </string-array>
+  <string-array name="str_22114">
+    <item>黄金硬币</item>
+    <item>传说是由老骆驼留下的财富和黄金熔铸而成。</item>
+  </string-array>
+  <string-array name="str_22115">
+    <item>绿色硬币</item>
+    <item>在铁木林的古树下被发现时，由于被遗弃的时间过久，已经长满了青苔。</item>
+  </string-array>
+  <string-array name="str_22116">
+    <item>青铜锈币</item>
+    <item>斑斑的铜锈印证了这枚硬币的古老。</item>
+  </string-array>
+  <string-array name="str_22117">
+    <item>赤铜硬币</item>
+    <item>其色如火，其质如钢。</item>
+  </string-array>
+  <string-array name="str_22118">
+    <item>紫色硬币</item>
+    <item>扔出这枚硬币，可以占卜未来。</item>
+  </string-array>
+  <string-array name="str_22119">
+    <item>黄金玫瑰</item>
+    <item>代表了黄金之心！</item>
+  </string-array>
+  <string-array name="str_22120">
+    <item>纯白玫瑰</item>
+    <item>象征着纯洁之爱！</item>
+  </string-array>
+  <string-array name="str_22121">
+    <item>青涩玫瑰</item>
+    <item>曾见证青涩之忆！</item>
+  </string-array>
+  <string-array name="str_22122">
+    <item>蓝色妖姬</item>
+    <item>回忆起妩媚之刻！</item>
+  </string-array>
+  <string-array name="str_22123">
+    <item>火红玫瑰</item>
+    <item>化身为热情之恋！</item>
+  </string-array>
+  <string-array name="str_22124">
+    <item>梦幻玫瑰</item>
+    <item>仿佛是浪漫之吻！</item>
+  </string-array>
+  <string-array name="str_22125">
+    <item>仿造的乌巴烟斗</item>
+    <item>表面上看起来好像是乌巴的烟斗，尝试装备时才发现不过是个赝品。</item>
+  </string-array>
+  <string-array name="str_22126">
+    <item>铁铸烟斗</item>
+    <item>拿来敲你脑袋！梆！</item>
+  </string-array>
+  <string-array name="str_22127">
+    <item>维特的烟斗</item>
+    <item>维特被人扒光的又一证据。</item>
+  </string-array>
+  <string-array name="str_22128">
+    <item>冰河烟斗</item>
+    <item>镶嵌着一圈绿水晶，折射出凛冽的光芒。</item>
+  </string-array>
+  <string-array name="str_22129">
+    <item>火晶石烟斗</item>
+    <item>贵重的火晶石烟斗，传说是魔龙多克最爱的收藏品之一，你一定想不到魔龙也吸烟吧。</item>
+  </string-array>
+  <string-array name="str_22130">
+    <item>剧毒烟斗</item>
+    <item>这个烟斗比烟本身更毒！</item>
+  </string-array>
+  <string-array name="str_22131">
+    <item>胜利金杯</item>
+    <item>胜利属于我们！</item>
+  </string-array>
+  <string-array name="str_22132">
+    <item>纯银奖杯</item>
+    <item>完美无瑕的胜利！</item>
+  </string-array>
+  <string-array name="str_22133">
+    <item>生命之杯</item>
+    <item>对生命的赞歌！</item>
+  </string-array>
+  <string-array name="str_22134">
+    <item>梦境之杯</item>
+    <item>梦境中的力量源泉！</item>
+  </string-array>
+  <string-array name="str_22135">
+    <item>火焰之杯</item>
+    <item>据说可以把你瞬间传送到一个神秘的地方。</item>
+  </string-array>
+  <string-array name="str_22136">
+    <item>冠军之杯</item>
+    <item>冠军的象征！</item>
+  </string-array>
+  <string-array name="str_22137">
+    <item>纯金面具</item>
+    <item>曾被邪恶的拉里偷走的皇家宝物。</item>
+  </string-array>
+  <string-array name="str_22138">
+    <item>石像鬼颅骨</item>
+    <item>从古老的石像鬼头上砍下，但是它的牙齿还能动！</item>
+  </string-array>
+  <string-array name="str_22139">
+    <item>青铜面具</item>
+    <item>青面獠牙，令人生畏。</item>
+  </string-array>
+  <string-array name="str_22140">
+    <item>蓝宝石头骨</item>
+    <item>由于外观很像冰块，这个宝物居然被扔在不冻港码头好几年没人理睬。</item>
+  </string-array>
+  <string-array name="str_22141">
+    <item>吸血面具</item>
+    <item>不知道为什么，你总觉得这个面具会伸出骨刺，刺穿别人的头颅。</item>
+  </string-array>
+  <string-array name="str_22142">
+    <item>神秘骷髅</item>
+    <item>当你从骷髅射手那儿抢走他的头颅时，他气得脸都紫了。</item>
+  </string-array>
+  <string-array name="str_22143">
+    <item>金叶子</item>
+    <item>一位上古的英雄花费了数年时间去寻找的宝物。</item>
+  </string-array>
+  <string-array name="str_22144">
+    <item>白色羊毛</item>
+    <item>完美无瑕！</item>
+  </string-array>
+  <string-array name="str_22145">
+    <item>生命树叶</item>
+    <item>铁木林中最古老的树枝上摘下的树叶，充满了生机。</item>
+  </string-array>
+  <string-array name="str_22146">
+    <item>蓝宝石树叶</item>
+    <item>曾是上一代皇族王冠上的装饰物。</item>
+  </string-array>
+  <string-array name="str_22147">
+    <item>火焰之羽</item>
+    <item>从凤凰尾部掉落的羽毛，整支羽毛都是以火焰化成的。</item>
+  </string-array>
+  <string-array name="str_22148">
+    <item>紫红羽毛</item>
+    <item>只要你对着这支羽毛念出“Wingardium Leviosa”，神奇的咒语就会起效……</item>
+  </string-array>
+  <string-array name="str_22149">
+    <item>黄金礼卷</item>
+    <item>收集足够的黄金礼卷，就能换取等重的白银……好像有什么不对劲？</item>
+  </string-array>
+  <string-array name="str_22150">
+    <item>好运礼卷</item>
+    <item>能带来幸运的好东西。</item>
+  </string-array>
+  <string-array name="str_22151">
+    <item>翡翠金卷</item>
+    <item>黄金在上，翡翠在下！</item>
+  </string-array>
+  <string-array name="str_22152">
+    <item>财富卡片</item>
+    <item>上面用小字写着“擦拭三次，你就能得到财富”，你高兴的照做，果然什么都没有发生。</item>
+  </string-array>
+  <string-array name="str_22153">
+    <item>节日红包</item>
+    <item>收集节日红包，兑换丰富奖励。</item>
+  </string-array>
+  <string-array name="str_22154">
+    <item>神秘奖卷</item>
+    <item>打开奖卷会有一个好消息一个坏消息，你想先听哪个？</item>
+  </string-array>
+  <string-array name="str_22155">
+    <item>羊皮纸卷</item>
+    <item>发黄的羊皮纸上的古老文字弯弯曲曲，你欣喜若狂，结果仔细一读发现是古代的食谱。</item>
+  </string-array>
+  <string-array name="str_22156">
+    <item>灰雾卷轴</item>
+    <item>整个卷轴都被一层凡人无法看透的雾气所笼罩</item>
+  </string-array>
+  <string-array name="str_22157">
+    <item>森林卷轴</item>
+    <item>记载着森林的秘密！</item>
+  </string-array>
+  <string-array name="str_22158">
+    <item>海洋卷轴</item>
+    <item>记载着海洋的秘密！</item>
+  </string-array>
+  <string-array name="str_22159">
+    <item>火焰卷轴</item>
+    <item>流炎若火！</item>
+  </string-array>
+  <string-array name="str_22160">
+    <item>神秘配方</item>
+    <item>你按照这个配方合成了三次，分别得到了1份蛋糕，1只青蛙和……1个活着的短脚步兵……</item>
+  </string-array>
+  <string-array name="str_22161">
+    <item>太阳的法则</item>
+    <item>散发出让人难以忍受的光和热。</item>
+  </string-array>
+  <string-array name="str_22162">
+    <item>神秘古书</item>
+    <item>一颗眼珠在瞪着你。</item>
+  </string-array>
+  <string-array name="str_22163">
+    <item>自然之力</item>
+    <item>捧着这本书，你感觉到自然的力量充盈着你的双臂。</item>
+  </string-array>
+  <string-array name="str_22164">
+    <item>奥术之书</item>
+    <item>记载了不可思议的强大法术，可以吧敌人阵中的短脚步兵变成复仇天使……等等，有谁会这么蠢？</item>
+  </string-array>
+  <string-array name="str_22165">
+    <item>血色密文</item>
+    <item>这本密文上持续散发出无法掩盖的血腥之气。</item>
+  </string-array>
+  <string-array name="str_22166">
+    <item>死灵的召唤</item>
+    <item>记载着强大的法术，能命令城堡中的地精投掷紫色头骨轰炸敌人……听着有点耳熟。</item>
+  </string-array>
+  <string-array name="str_22167">
+    <item>黄金甲片</item>
+    <item>用纯金打造的护甲片，可以非常有效的晃瞎敌人的眼睛，让你无往不胜。</item>
+  </string-array>
+  <string-array name="str_22168">
+    <item>白银鳞片</item>
+    <item>每一条银龙都有一个悲剧的结局。</item>
+  </string-array>
+  <string-array name="str_22169">
+    <item>生命甲壳</item>
+    <item>还在微微颤动！</item>
+  </string-array>
+  <string-array name="str_22170">
+    <item>青金石片</item>
+    <item>由贵重的青金石打磨而成，由于硬度较低，很显然除了炫耀之外别无他用。</item>
+  </string-array>
+  <string-array name="str_22171">
+    <item>熔岩龙鳞</item>
+    <item>熔岩之龙的鳞片，具有极为强大的力量，任何高温的火焰都不能伤之分毫，当然遇到水就是另一回事了。</item>
+  </string-array>
+  <string-array name="str_22172">
+    <item>毒龙鳞片</item>
+    <item>一位勇士趁着剧毒沼龙睡着时偷偷剥下的龙鳞，含有剧毒，所以很自然的，这位勇士剥完鳞片当场就挂了。</item>
+  </string-array>
+  <string-array name="str_20800">
+    <item>真实宝石</item>
+    <item>使对方坚体和格挡的效果降低$0。</item>
+  </string-array>
+  <string-array name="str_20900">
+    <item>暴力宝石</item>
+    <item>暴击时暴击伤害的倍数提高+$0。</item>
+  </string-array>
+  <string-array name="str_22173">
+    <item>海魂石</item>
+    <item>极为稀少的深海矿石，蕴含强大的海洋之力。</item>
+  </string-array>
+  <string-array name="str_22174">
+    <item>桑巴足球</item>
+    <item>看到就想踢一脚！</item>
+  </string-array>
+  <string-array name="str_22175">
+    <item>胜利金球</item>
+    <item>GoalGoalGoal!!!!!</item>
+  </string-array>
+  <string-array name="str_22176">
+    <item>初级宠物食粮</item>
+    <item>宠物们喜欢的饼干，为宠物提升5点经验。有机会获得双倍经验。</item>
+  </string-array>
+  <string-array name="str_22177">
+    <item>中级宠物食粮</item>
+    <item>非常精致的食物，为宠物提升20点经验。有机会获得双倍经验。</item>
+  </string-array>
+  <string-array name="str_22178">
+    <item>高级宠物食粮</item>
+    <item>极为华丽的食物，为宠物提升100点经验。有机会获得双倍经验。</item>
+  </string-array>
+  <string-array name="str_22179">
+    <item>钥匙</item>
+    <item>打开带锁宝箱的钥匙。每一把钥匙只能打开一个宝箱。</item>
+  </string-array>
+  <string-array name="str_22074">
+    <item>带锁的宝箱</item>
+    <item>需要钥匙才能打开的宝箱，里面可能会有宠物食粮、魔晶石等。</item>
+  </string-array>
+  <string-array name="str_22180">
+    <item>小小帝国三周年徽记</item>
+    <item>这枚徽记记载了你在小小帝国三年中走过的光辉旅途。</item>
+  </string-array>
+  <string-array name="str_22181">
+    <item>小小帝国三周年刻印</item>
+    <item>这枚刻印映射出你在小小帝国三年中经历的恩怨情仇。</item>
+  </string-array>
+  <string-array name="str_22182">
+    <item>小小帝国三周年勋章</item>
+    <item>这枚勋章代表着你在小小帝国三年中结交的生死好友。</item>
+  </string-array>
+  <string-array name="str_22183">
+    <item>万圣节彩蛋</item>
+    <item>看起来里面似乎包裹了一颗魔晶石，于是你敲开外壳，里面果然……什么都没有。</item>
+  </string-array>
+  <string-array name="str_22184">
+    <item>万圣节巧克力彩蛋</item>
+    <item>用香浓可口的巧克力制造而成，我猜你在兑换奖励前就会忍不住把它吃掉。</item>
+  </string-array>
+  <string-array name="str_22185">
+    <item>姜饼小人</item>
+    <item>这么可爱的姜饼小人，你舍得吃它么？</item>
+  </string-array>
+  <string-array name="str_22186">
+    <item>万圣节邪恶南瓜</item>
+    <item>把它套在头上，然后去找魔龙要糖果吧，不给糖果就捣蛋！</item>
+  </string-array>
+  <string-array name="str_22187">
+    <item>万圣节搞笑南瓜</item>
+    <item>把它套在头上，然后蹲在城里，再看看城墙血量和人口增加了没有？</item>
+  </string-array>
+  <string-array name="str_22188">
+    <item>万圣节糖果</item>
+    <item>可以用来对付捣蛋的小朋友，用法是抓一把放进小朋友的口袋中。</item>
+  </string-array>
+  <string-array name="str_22189">
+    <item>美味糖果</item>
+    <item>明明吧三个一样的糖果排成一排了，为什么他们不会“噗”的一声消失呢？</item>
+  </string-array>
+  <string-array name="str_22190">
+    <item>酒心巧克力</item>
+    <item>丝滑口感，香醇醉人。</item>
+  </string-array>
+  <string-array name="str_22191">
+    <item>感恩节火鸡</item>
+    <item>我以前可是有着一身漂亮羽毛的，至于现在……至少很可口，哼！</item>
+  </string-array>
+  <string-array name="str_22192">
+    <item>春节爆竹</item>
+    <item>爆竹声中一岁除，春风送暖入屠苏。千门万户曈曈日，总把魔酒换礼物。</item>
+  </string-array>
+  <string-array name="str_22193">
+    <item>中国结</item>
+    <item>著以长相思，缘以结不解。心系小小路，三年不离别。</item>
+  </string-array>
+  <string-array name="str_22194">
+    <item>红灯笼</item>
+    <item>大红灯笼高高挂，小小帝国脉脉情。</item>
+  </string-array>
+  <string-array name="str_22195">
+    <item>福字</item>
+    <item>快看，福到了！</item>
+  </string-array>
+  <string-array name="str_22196">
+    <item>醇香茅台</item>
+    <item>感情深，一口闷！来，干了！</item>
+  </string-array>
+  <string-array name="str_22197">
+    <item>浪漫红酒</item>
+    <item>只有用波尔多的葡萄和百叶泉的水，格兰村的师傅才能酿造出如此芬芳浪漫的红酒。</item>
+  </string-array>
+  <string-array name="str_22198">
+    <item>节庆香槟</item>
+    <item>先按住瓶塞拼命摇晃，然后对准敌人松手吧。“砰”的一声过后，敌人就倒在了地上。</item>
+  </string-array>
+  <string-array name="str_22199">
+    <item>缤纷鸡尾酒</item>
+    <item>由魔酒、伏特加、龙舌兰、朗姆酒和柠檬汁调配而成，请确保刷完副本后再喝，因为再醒来的时候就已经是第二天了。</item>
+  </string-array>
+  <string-array name="str_22200">
+    <item>美味啤酒</item>
+    <item>为什么我眼前出现了两条魔龙？我只不过喝了20几杯而已……嗝儿~</item>
+  </string-array>
+  <string-array name="str_22075">
+    <item>初级经验卡</item>
+    <item>神奇的经验卡片，透出神秘的气息，使用后可以直接获得1000点经验</item>
+  </string-array>
+  <string-array name="str_22076">
+    <item>高级经验卡</item>
+    <item>华丽的经验卡片，画满炫目的符文，使用后可以直接获得10000点经验</item>
+  </string-array>
+  <string-array name="str_22201">
+    <item>喷泉碎片</item>
+    <item>喷泉碎片</item>
+  </string-array>
+  <string-array name="str_22202">
+    <item>金字塔碎片</item>
+    <item>金字塔碎片</item>
+  </string-array>
+  <string-array name="str_22203">
+    <item>比萨斜塔碎片</item>
+    <item>比萨斜塔碎片</item>
+  </string-array>
+  <string-array name="str_22204">
+    <item>雪人碎片</item>
+    <item>雪人碎片</item>
+  </string-array>
+  <string-array name="str_22205">
+    <item>圣诞树碎片</item>
+    <item>圣诞树碎片</item>
+  </string-array>
+  <string-array name="str_22207">
+    <item>铁牙雕像碎片</item>
+    <item>铁牙雕像碎片</item>
+  </string-array>
+  <string-array name="str_22208">
+    <item>双刀雕像碎片</item>
+    <item>双刀雕像碎片</item>
+  </string-array>
+  <string-array name="str_22209">
+    <item>魔女雕像碎片</item>
+    <item>魔女雕像碎片</item>
+  </string-array>
+  <string-array name="str_22210">
+    <item>屠龙大师雕像碎片</item>
+    <item>屠龙大师雕像碎片</item>
+  </string-array>
+  <string-array name="str_22211">
+    <item>骆驼雕像碎片</item>
+    <item>骆驼雕像碎片</item>
+  </string-array>
+  <string-array name="str_22212">
+    <item>魔力之泉</item>
+    <item>蕴含神奇的魔力，能够用于魔法精灵的能力提升。</item>
+  </string-array>
+  <string-array name="str_22213">
+    <item>钓鱼竿</item>
+    <item>这个鱼竿可以用来在主城的海岸边钓到一大箱魔酒……骗你的啦，哈哈哈！！！</item>
+  </string-array>
+  <string-array name="str_22214">
+    <item>复活节石像</item>
+    <item>深邃的目光遥望远方，仿佛看到了大海的召唤</item>
+  </string-array>
+  <string-array name="str_22215">
+    <item>复活节兔子</item>
+    <item>复活节的兔子，生生不息，繁荣昌盛！</item>
+  </string-array>
+  <string-array name="str_22216">
+    <item>红色康乃馨</item>
+    <item>红色的康乃馨，代表着热情</item>
+  </string-array>
+  <string-array name="str_22217">
+    <item>粉色康乃馨</item>
+    <item>粉红色的康乃馨，献给父母的爱、关怀和尊敬。</item>
+  </string-array>
+  <string-array name="str_22218">
+    <item>小熊布偶</item>
+    <item>孩子们最喜爱的毛绒玩具。</item>
+  </string-array>
+  <string-array name="str_22219">
+    <item>红色风车</item>
+    <item>红色的风车转起来，仿佛搅动起天边火红的霞云</item>
+  </string-array>
+  <string-array name="str_22220">
+    <item>绿色风车</item>
+    <item>绿色的风车转起来，仿佛吹起凉爽的微风</item>
+  </string-array>
+  <string-array name="str_22221">
+    <item>蓝色风车</item>
+    <item>蓝色的风车转起来，仿佛海浪轻轻的涌动</item>
+  </string-array>
+  <string-array name="str_22222">
+    <item>紫色风车</item>
+    <item>紫色的风车转起来，仿佛漫步于一望无边的薰衣草田间</item>
+  </string-array>
+  <string-array name="str_22223">
+    <item>金色风车</item>
+    <item>金色的风车转起来，仿佛耀眼的阳光跃出云层</item>
+  </string-array>
+  <string-array name="str_22224">
+    <item>银色风车</item>
+    <item>银色的风车转起来，仿佛温柔的月光洒满大地</item>
+  </string-array>
+  <string-array name="str_22225">
+    <item>彩色气球</item>
+    <item>把很多很多气球束在一起，可以带着木屋飞起来</item>
+  </string-array>
+  <string-array name="str_22226">
+    <item>热气球</item>
+    <item>传说中英雄们曾乘着这个热气球飞过雪封崖上空，侦查魔龙多克的动向</item>
+  </string-array>
+  <string-array name="str_22227">
+    <item>荷叶粽子</item>
+    <item>翠绿清香的荷叶包裹着热气腾腾的糯米，中国传统美食之一。</item>
+  </string-array>
+  <string-array name="str_22228">
+    <item>美味粽子</item>
+    <item>你喜欢甜的还是咸的？这是一个问题。</item>
+  </string-array>
+  <string-array name="str_22229">
+    <item>七夕红烛</item>
+    <item>燃烧了自己，照亮了……洞房。</item>
+  </string-array>
+  <string-array name="str_22230">
+    <item>七夕鹊桥</item>
+    <item>纤云弄巧，飞星传恨，银汉迢迢暗度。金风玉露一相逢，便胜却人间无数。 柔情似水，佳期如梦，忍顾鹊桥归路。两情若是久长时，又岂在朝朝暮暮。</item>
+  </string-array>
+  <string-array name="str_22231">
+    <item>洁白荷花灯</item>
+    <item>洁白的荷花灯，飘在水面上</item>
+  </string-array>
+  <string-array name="str_22232">
+    <item>粉红荷花灯</item>
+    <item>小荷才露尖尖角，早有蜻蜓停上头</item>
+  </string-array>
+  <string-array name="str_22233">
+    <item>蛋黄月饼</item>
+    <item>内有蛋黄馅儿的月饼，味美可口</item>
+  </string-array>
+  <string-array name="str_22234">
+    <item>冰皮月饼</item>
+    <item>以糯米做皮，冷藏保存的月饼，吃起来凉爽可口。</item>
+  </string-array>
+  <string-array name="str_22235">
+    <item>豆沙月饼</item>
+    <item>红豆生南国，春来发几枝，磨馅做月饼，此物最好吃。</item>
+  </string-array>
+  <string-array name="str_22236">
+    <item>韭菜月饼</item>
+    <item>吃完之后，周围方圆十米无人敢接近自己的神奇食品</item>
+  </string-array>
+  <string-array name="str_22237">
+    <item>妩媚红菊</item>
+    <item>热情似火，妩媚含情</item>
+  </string-array>
+  <string-array name="str_22238">
+    <item>绿云秋菊</item>
+    <item>沁人心脾，云淡风轻</item>
+  </string-array>
+  <string-array name="str_22239">
+    <item>蓝染靛菊</item>
+    <item>气质如兰，深沉美丽</item>
+  </string-array>
+  <string-array name="str_22240">
+    <item>紫凤珠菊</item>
+    <item>高贵典雅，优美柔和</item>
+  </string-array>
+  <string-array name="str_22241">
+    <item>金龙腾菊</item>
+    <item>灿烂醒目，朝气活力</item>
+  </string-array>
+  <string-array name="str_22242">
+    <item>玉树银菊</item>
+    <item>纯洁神圣，幸福永远</item>
+  </string-array>
+  <string-array name="str_22243">
+    <item>大闸蟹</item>
+    <item>比赛横着跑，我可是冠军。</item>
+  </string-array>
+  <string-array name="str_22244">
+    <item>帝王蟹</item>
+    <item>看我一身硬甲，你能奈我如何……等等，我好像已经被蒸熟了……</item>
+  </string-array>
+  <string-array name="str_22245">
+    <item>圣诞金铃</item>
+    <item>圣诞树上最亮的铃，能否看清，那仰望的孩子，对礼物的渴求和盼期。</item>
+  </string-array>
+  <string-array name="str_22246">
+    <item>圣诞银铃</item>
+    <item>摇响这个铃铛，圣诞老人就会送来礼物。</item>
+  </string-array>
+  <string-array name="str_22247">
+    <item>火焰响铃</item>
+    <item>把这个挂在魔龙多克的脖子上，就再也不用担心凶恶的魔龙偷袭你了</item>
+  </string-array>
+  <string-array name="str_22248">
+    <item>圣诞帽</item>
+    <item>据说吧圣诞帽戴在城里的雪人建筑头上，雪人就会升级为……戴帽子的雪人！</item>
+  </string-array>
+  <string-array name="str_22249">
+    <item>冬日礼物袜</item>
+    <item>睡觉前把这个袜子挂在壁炉边，第二天醒来会不会放满魔酒呢？</item>
+  </string-array>
+  <string-array name="str_22250">
+    <item>槲寄生</item>
+    <item>终于拿到了槲寄生，接下来，你得再找个女朋友。</item>
+  </string-array>
+  <string-array name="str_22251">
+    <item>可爱驯鹿</item>
+    <item>可爱的驯鹿看着你，一点没有觉察到你即将抛弃它，并用它兑换其他奖励的事儿。</item>
+  </string-array>
+  <string-array name="str_22252">
+    <item>草莓冰激凌</item>
+    <item>看上去像是草莓冰激凌，但是尝起来却是血的味道……天啊，这其实是个吸血鬼冰激凌！</item>
+  </string-array>
+  <string-array name="str_22253">
+    <item>薄荷冰激凌</item>
+    <item>看上去像是薄荷冰激凌，但是尝起来却是涩涩的味道……天啊，这其实是个青草冰激凌！</item>
+  </string-array>
+  <string-array name="str_22254">
+    <item>蓝莓冰激凌</item>
+    <item>看上去像是蓝莓冰激凌，但是尝起来却是怪怪的味道……天啊，这其实是个蓝墨水冰激凌！</item>
+  </string-array>
+  <string-array name="str_22255">
+    <item>提子冰激凌</item>
+    <item>看上去像是提子冰激凌，但是尝起来却是酒精的味道……天啊，这其实是个碘酒冰激凌！</item>
+  </string-array>
+  <string-array name="str_22256">
+    <item>芒果冰激凌</item>
+    <item>看上去像是芒果冰激凌，但是尝起来却是辛辣的味道……天啊，这其实是个黄芥末冰激凌！</item>
+  </string-array>
+  <string-array name="str_22257">
+    <item>牛奶冰激凌</item>
+    <item>看上去像是牛奶冰激凌，但是尝起来却是豆腐的味道……天啊，这其实是个豆腐冰激凌！</item>
+  </string-array>
+  <string-array name="str_22258">
+    <item>巧克力冰激凌</item>
+    <item>看上去像是巧克力冰激凌，但是尝起来却是咸咸的味道……天啊，这其实是个酱油冰激凌！</item>
+  </string-array>
+  <string-array name="str_22259">
+    <item>灌篮高手</item>
+    <item>手持篮球，我心飞翔。</item>
+  </string-array>
+  <string-array name="str_22260">
+    <item>金色珍珠</item>
+    <item>香槟金色的珍贵珍珠，送给最爱之人的礼物</item>
+  </string-array>
+  <string-array name="str_22261">
+    <item>无暇淡水珍珠</item>
+    <item>完美无瑕的纯白色珍珠，只有皇室成员才能佩戴</item>
+  </string-array>
+  <string-array name="str_22262">
+    <item>黑雪山黑珍珠</item>
+    <item>出自黑雪山的黑珍珠，黑雪山的泉水中才能培育出这种名贵的珠宝</item>
+  </string-array>
+  <string-array name="str_22263">
+    <item>所罗门地图</item>
+    <item>记录着传说中所罗门的宝藏的地图</item>
+  </string-array>
+  <string-array name="str_22264">
+    <item>海盗寻宝图</item>
+    <item>海贼王罗杰留下的藏宝图，追逐梦想，迎接大海战时代！</item>
+  </string-array>
+  <string-array name="str_22077">
+    <item>筹码箱</item>
+    <item>使用后得到10筹码</item>
+  </string-array>
+  <string-array name="str_500">
+    <item>魔龙的宝珠</item>
+    <item>散发金光的黄色宝珠，被誉为菜鸟杀手的宝物，不知有多少人曾哭晕在火雨之下。</item>
+  </string-array>
+  <string-array name="str_501">
+    <item>巨人的右拳</item>
+    <item>岩石巨人华丽的右拳，一击震天撼地，十米之内没人能站得住脚！</item>
+  </string-array>
+  <string-array name="str_502">
+    <item>圣堂的残剑</item>
+    <item>堕落者的宝剑，闪着紫色的寒光，一切护甲在它面前都不复存在。</item>
+  </string-array>
+  <string-array name="str_503">
+    <item>毒龙的獠牙</item>
+    <item>浸染过剧毒的獠牙，不小心被蹭到也会有性命之忧。</item>
+  </string-array>
+  <string-array name="str_504">
+    <item>美杜莎之眼</item>
+    <item>能使人变成石头的诅咒之眼，不祥之物，却有很强的力量。</item>
+  </string-array>
+  <string-array name="str_505">
+    <item>巨像的杖头</item>
+    <item>魔导巨像法力的来源，拥有让一块石头变成战争机器的力量。</item>
+  </string-array>
+  <string-array name="str_506">
+    <item>多罗罗的头盔</item>
+    <item>外观朴素，但性能卓越的魔族头盔，每千年限定100个的首编款式。佩戴后，力量从头顶冲到脚底板。</item>
+  </string-array>
+  <string-array name="str_22265">
+    <item>普通召唤卷</item>
+    <item>深渊挑战召唤卷，可以进行普通召唤。</item>
+  </string-array>
+  <string-array name="str_22266">
+    <item>魔光晶尘</item>
+    <item>附魔所需的道具</item>
+  </string-array>
+  <string-array name="str_22267">
+    <item>高级召唤卷</item>
+    <item>深渊挑战召唤卷，可以进行高级召唤。</item>
+  </string-array>
+  <string-array name="str_443">
+    <item>虚空爆炸</item>
+    <item>从虚空中召唤的能量，对最近的敌人造成伤害</item>
+  </string-array>
+  <string-array name="str_444">
+    <item>寒冰锥</item>
+    <item>召唤寒冰的力量攻击小范围敌人，产生冰冻效果，并造成伤害</item>
+  </string-array>
+  <string-array name="str_1061">
+    <item>大恶魔战盔</item>
+    <item>灭神之战中遗留的头盔，只有意志坚定的战士才能控制它的力量。</item>
+  </string-array>
+  <string-array name="str_1062">
+    <item>恶魔灵魂巨镰</item>
+    <item>吞噬敌人灵魂的镰刀，但只有最强的战士才能成为它的主人。</item>
+  </string-array>
+  <string-array name="str_1063">
+    <item>大恶魔铠甲</item>
+    <item>灭神之战中遗留的铠甲，战场中真正的恶魔，强大的力量能摧毁整个城市。</item>
+  </string-array>
+  <string-array name="str_1064">
+    <item>大恶魔护肩</item>
+    <item>灭神之战中遗留的护肩，使用千年一现的地狱神魔头骨制成，是地狱中最强的护具。</item>
+  </string-array>
+  <string-array name="str_1065">
+    <item>大恶魔护腕</item>
+    <item>灭神之战中遗留的护腕，历任大恶魔死后将自己的力量封印于此。</item>
+  </string-array>
+  <string-array name="str_1160">
+    <item>深渊领主头兜</item>
+    <item>深渊领主的头兜，可以隐藏行踪秘密行动。</item>
+  </string-array>
+  <string-array name="str_1161">
+    <item>深渊灭神之光</item>
+    <item>暗狱中魔光的精华，无坚不摧。</item>
+  </string-array>
+  <string-array name="str_1162">
+    <item>深渊领主战甲</item>
+    <item>深渊领主的战甲，毫无负担却有极强的韧性。</item>
+  </string-array>
+  <string-array name="str_1163">
+    <item>深渊领主护肩</item>
+    <item>深渊领主的护肩，由黑龙骨锻造而成。</item>
+  </string-array>
+  <string-array name="str_1164">
+    <item>深渊领主护腕</item>
+    <item>深渊领主的护腕，闪现着魔光的光泽。</item>
+  </string-array>
+  <string-array name="str_1261">
+    <item>地狱冥王头冠</item>
+    <item>冥王出征时使用的头盔，法力强大。</item>
+  </string-array>
+  <string-array name="str_1262">
+    <item>冥河通灵龙骨</item>
+    <item>在冥河中浸染千年的龙头骨，融合了冥河通灵法力和龙力，拥有极强的法力。</item>
+  </string-array>
+  <string-array name="str_1263">
+    <item>地狱冥王护甲</item>
+    <item>冥王出征时使用的护甲，有强大的法力保护。</item>
+  </string-array>
+  <string-array name="str_1264">
+    <item>地狱冥王魔翼</item>
+    <item>冥王的魔翼，对敌人是灭亡的象征。</item>
+  </string-array>
+  <string-array name="str_1265">
+    <item>地狱冥王之手</item>
+    <item>冥王出征时佩戴的护手，拥有极强的法力。</item>
+  </string-array>
+  <string-array name="str_22268">
+    <item>樱桃萝卜</item>
+    <item>美味的小萝卜，可以用来做水果沙拉。</item>
+  </string-array>
+  <string-array name="str_22269">
+    <item>金箔</item>
+    <item>用黄金打造的薄箔片，轻巧但贵重。</item>
+  </string-array>
+  <string-array name="str_22270">
+    <item>卷起的地图</item>
+    <item>摊开地图，会发现里面藏着一把匕首。</item>
+  </string-array>
+  <string-array name="str_22271">
+    <item>翠绿树叶</item>
+    <item>小心，这片灌木树叶下藏着狡猾的骷髅射手！</item>
+  </string-array>
+  <string-array name="str_22272">
+    <item>幸运硬币</item>
+    <item>你举起硬币，高高抛向天空……然后找不到扔到哪儿去了。</item>
+  </string-array>
+  <string-array name="str_22273">
+    <item>紫色魅影</item>
+    <item>邪魅而又美丽，你无法让自己的目光离开。</item>
+  </string-array>
+  <string-array name="str_22274">
+    <item>盛开的月季</item>
+    <item>花中的皇后，散发出浓郁的香气。</item>
+  </string-array>
+  <string-array name="str_22275">
+    <item>天使之羽</item>
+    <item>大天使金色羽翼上的羽毛，育有强大的力量。</item>
+  </string-array>
+  <string-array name="str_22276">
+    <item>小南瓜灯</item>
+    <item>在小南瓜灯里点上蜡烛，一会儿，你就得到了一个烧熟的小南瓜。</item>
+  </string-array>
+  <string-array name="str_22277">
+    <item>美味盛宴</item>
+    <item>宴会上的主菜，快来一饱口福吧。</item>
+  </string-array>
+  <string-array name="str_22278">
+    <item>美味起泡酒</item>
+    <item>为了我们的胜利，干杯！</item>
+  </string-array>
+  <string-array name="str_22279">
+    <item>宽口啤酒杯</item>
+    <item>内盛着令人垂涎的美味扎啤。</item>
+  </string-array>
+  <string-array name="str_22280">
+    <item>玛格丽特</item>
+    <item>喝最烈的酒，爱最爱的人。</item>
+  </string-array>
+  <string-array name="str_22281">
+    <item>可爱玩具</item>
+    <item>毛茸茸的玩具熊，送给宝贝的最好礼物。</item>
+  </string-array>
+  <string-array name="str_22282">
+    <item>圣诞花饰</item>
+    <item>把你的节日打扮的花团锦簇。</item>
+  </string-array>
+  <string-array name="str_22283">
+    <item>魔龙的收藏品</item>
+    <item>你冒死从魔龙手里抢来的战利品，结果发现是一个金色的塑料球，魔龙品味真差！</item>
+  </string-array>
+  <string-array name="str_22284">
+    <item>古代寻宝图</item>
+    <item>你按着这个藏宝图走到了黑雪山，没发现宝藏，只有魔龙在等着你。天啊，这是一个陷阱！</item>
+  </string-array>
+  <string-array name="str_22285">
+    <item>宠物铃铛</item>
+    <item>把它挂在猫咪的脖子上，猫咪就没法抓老鼠了。</item>
+  </string-array>
+  <string-array name="str_22286">
+    <item>猩红饮料</item>
+    <item>吸血鬼最爱的饮料，如红宝石般晶莹的血浆。</item>
+  </string-array>
+  <string-array name="str_22287">
+    <item>太妃糖</item>
+    <item>甜到心里！</item>
+  </string-array>
+  <string-array name="str_22085">
+    <item>魔铁锭</item>
+    <item>魔族制造高等兵器时才会用到的珍贵材料。</item>
+  </string-array>
+  <string-array name="str_22288">
+    <item>金戒指</item>
+    <item>心心相印，交织不离。</item>
+  </string-array>
+  <string-array name="str_22289">
+    <item>婚戒</item>
+    <item>圈内刻有爱的宣言：非你不娶，倍感幸福</item>
+  </string-array>
+  <string-array name="str_22290">
+    <item>翡翠手镯</item>
+    <item>由上等翡翠雕琢而成的手镯。</item>
+  </string-array>
+  <string-array name="str_22291">
+    <item>魔戒</item>
+    <item>带上这枚至尊魔戒，别人就看不见你了——他们全被金澄澄的戒指闪花了眼。</item>
+  </string-array>
+  <string-array name="str_22292">
+    <item>金牌</item>
+    <item>冠军象征！</item>
+  </string-array>
+  <string-array name="str_22293">
+    <item>银牌</item>
+    <item>虽败犹荣！</item>
+  </string-array>
+  <string-array name="str_22294">
+    <item>爵士勋章</item>
+    <item>Yes Sir！</item>
+  </string-array>
+  <string-array name="str_22295">
+    <item>牛肉饺子</item>
+    <item>热气腾腾的牛肉馅儿饺子。</item>
+  </string-array>
+  <string-array name="str_22296">
+    <item>韭菜饺子</item>
+    <item>别和陌生人说话，因为会被火车。</item>
+  </string-array>
+  <string-array name="str_22297">
+    <item>鸡蛋饺子</item>
+    <item>蛋液加水煎熟，包入饺子中，美味无比。</item>
+  </string-array>
+  <string-array name="str_22298">
+    <item>香菇鸡肉饺子</item>
+    <item>鲜美可口的蘑菇和鸡肉馅儿，让你流下了口水。</item>
+  </string-array>
+  <string-array name="str_22299">
+    <item>晶莹雪花</item>
+    <item>晶莹剔透！</item>
+  </string-array>
+  <string-array name="str_22300">
+    <item>六角形雪花</item>
+    <item>你无法想象大自然是如何打造出这件艺术品的。</item>
+  </string-array>
+  <string-array name="str_22301">
+    <item>水凝冰晶</item>
+    <item>冰化水，水凝冰。</item>
+  </string-array>
+  <string-array name="str_22302">
+    <item>美丽的雪花</item>
+    <item>非常脆弱，但也极度美丽！</item>
+  </string-array>
+  <string-array name="str_22303">
+    <item>影歌之刃</item>
+    <item>在复杂精细的暗色花纹下，隐藏着致命的锋利。</item>
+  </string-array>
+  <string-array name="str_22304">
+    <item>拉里的匕首</item>
+    <item>打败了邪恶的拉里后得到的战利品，原本是拉里的防身武器。</item>
+  </string-array>
+  <string-array name="str_22305">
+    <item>皇家仪式匕首</item>
+    <item>皇权的象征，传说中骆驼之神送给首位统一大陆的国王的礼物。</item>
+  </string-array>
+  <string-array name="str_22306">
+    <item>放血之刃</item>
+    <item>弯曲的匕首上有一道深深的沟槽。</item>
+  </string-array>
+  <string-array name="str_1071">
+    <item>熔炉头冠</item>
+    <item>地心之王的战盔，承受不住高温的人会被融化。</item>
+  </string-array>
+  <string-array name="str_1072">
+    <item>炼狱之锤</item>
+    <item>第一个狂战士战死时血流入了岩浆，经过千年变为溶解万物的战锤。</item>
+  </string-array>
+  <string-array name="str_1073">
+    <item>熔炉铠甲</item>
+    <item>地心之王的铠甲，没有足够的力量会被愤怒吞噬。</item>
+  </string-array>
+  <string-array name="str_1074">
+    <item>熔炉护肩</item>
+    <item>地心之王的护肩，如果力量不被认可，会引来天火焚身。</item>
+  </string-array>
+  <string-array name="str_1075">
+    <item>熔炉护手</item>
+    <item>地心之王的护手，驯服斩杀之力，或反被力量斩杀。</item>
+  </string-array>
+  <string-array name="str_1076">
+    <item>炎魔灭世头盔</item>
+    <item>地心之火苏醒，将自己的力量传给选中之人，等待重返人间。</item>
+  </string-array>
+  <string-array name="str_1077">
+    <item>炎魔灭世践踏者</item>
+    <item>拥有毁灭一切的力量，将所有前进的障碍化为灰烬。</item>
+  </string-array>
+  <string-array name="str_1078">
+    <item>炎魔灭世战甲</item>
+    <item>地心之火苏醒，选中之人将会得到狱火护身。</item>
+  </string-array>
+  <string-array name="str_1079">
+    <item>炎魔灭世护护肩</item>
+    <item>地心之火苏醒，将成为从炼狱中走出的王者。</item>
+  </string-array>
+  <string-array name="str_1080">
+    <item>炎魔灭世战护手</item>
+    <item>地心之火苏醒，寻常兵器无法在此中存在一瞬间。</item>
+  </string-array>
+  <string-array name="str_1170">
+    <item>冰封战盔</item>
+    <item>北地之王遗留下来的头盔，弱者会被强大的力量反噬。</item>
+  </string-array>
+  <string-array name="str_1171">
+    <item>凛冬之刃</item>
+    <item>古老的萨满将自己的灵魂注入寒冰中，锻造出拥有窃取灵魂能力的武器</item>
+  </string-array>
+  <string-array name="str_1172">
+    <item>冰封战衣</item>
+    <item>北地之王遗留下来的战甲，冻结一切攻击</item>
+  </string-array>
+  <string-array name="str_1173">
+    <item>冰封护肩</item>
+    <item>北地之王遗留下来的护肩，千年的寒气让人望而生畏</item>
+  </string-array>
+  <string-array name="str_1174">
+    <item>冰封护手</item>
+    <item>北地之王遗留下来的护手，冰封的哀怨寒风刺骨</item>
+  </string-array>
+  <string-array name="str_1175">
+    <item>虫王虚无头盔</item>
+    <item>从虚无中获取巨大的力量，何时如何来到的这个世界，并没有人知道。</item>
+  </string-array>
+  <string-array name="str_1176">
+    <item>虫王虚无秩序者</item>
+    <item>与虚无相连，拥有不属于这个世界的巨大力量。</item>
+  </string-array>
+  <string-array name="str_1177">
+    <item>虫王虚无铠甲</item>
+    <item>从虚无中获取巨大的力量，拥有深海一般的神秘恐惧。</item>
+  </string-array>
+  <string-array name="str_1178">
+    <item>虫王虚无护肩</item>
+    <item>从虚无中获取巨大的力量，怪异的材质，并不属于这个世界。</item>
+  </string-array>
+  <string-array name="str_1179">
+    <item>虫王虚无护手</item>
+    <item>从虚无中获取巨大的力量，刻画着抽象的符文，是上古以前就存在的文字。</item>
+  </string-array>
+  <string-array name="str_1271">
+    <item>暴风头冠</item>
+    <item>风暴之女的头盔，蕴藏的能量能劈开天地。</item>
+  </string-array>
+  <string-array name="str_1272">
+    <item>死海之灵</item>
+    <item>诸神之战中激发了雷神的愤怒，吸收雷电元素后化身成为雷鸟的形象。</item>
+  </string-array>
+  <string-array name="str_1273">
+    <item>暴风铠甲</item>
+    <item>风暴之女的铠甲，由雷霆之力守护全身。</item>
+  </string-array>
+  <string-array name="str_1274">
+    <item>暴风之翼</item>
+    <item>风暴之女的翅膀，扇一扇能引动天劫地动。</item>
+  </string-array>
+  <string-array name="str_1275">
+    <item>暴风护手</item>
+    <item>风暴之女的护手，可以凭空造出雷云。</item>
+  </string-array>
+  <string-array name="str_1276">
+    <item>羽神天界头盔</item>
+    <item>天界主管时间的时光之轮，化身为能够控制时空的装备</item>
+  </string-array>
+  <string-array name="str_1277">
+    <item>羽神天界审判者</item>
+    <item>在时间和空间穿梭，决定生死的神物。</item>
+  </string-array>
+  <string-array name="str_1278">
+    <item>羽神天界之铠甲</item>
+    <item>天界主管时间的时光之轮，不停的转动，牵引时空的变化</item>
+  </string-array>
+  <string-array name="str_1279">
+    <item>羽神天界护之翼</item>
+    <item>天界主管时间的时光之轮，任何细小的变化都能引动时间线的震动</item>
+  </string-array>
+  <string-array name="str_1280">
+    <item>羽神天界战护手</item>
+    <item>天界主管时间的时光之轮，能将正义和邪恶引向更深的极端</item>
+  </string-array>
+  <string-array name="str_535">
+    <item>熔岩龟的背刺</item>
+    <item>在魔域沉睡了千年，连背上落得灰都变成了神器</item>
+  </string-array>
+  <string-array name="str_540">
+    <item>火焰巨人的护手</item>
+    <item>由魔族大师级护甲师打造，在锻造的过程中，加入了一滴黑龙之血。</item>
+  </string-array>
+  <string-array name="str_545">
+    <item>黑塔之王的角</item>
+    <item>黑角是魔族将力量的提升到最高境界后的产物</item>
+  </string-array>
+  <string-array name="str_22307">
+    <item>蓝色彩蛋</item>
+    <item>颜色很单一，但是还是被称为彩蛋！</item>
+  </string-array>
+  <string-array name="str_22308">
+    <item>橙色彩蛋</item>
+    <item>密集恐惧症的人有点怕我！</item>
+  </string-array>
+  <string-array name="str_22309">
+    <item>绿色彩蛋</item>
+    <item>颜色真够鲜艳的。</item>
+  </string-array>
+  <string-array name="str_22310">
+    <item>美味汉堡</item>
+    <item>想要一口吃掉我，没那么容易！</item>
+  </string-array>
+  <string-array name="str_22311">
+    <item>冰镇啤酒</item>
+    <item>干完这杯再来一杯！</item>
+  </string-array>
+  <string-array name="str_22312">
+    <item>柠檬果汁</item>
+    <item>美味而解渴的柠檬汁在盛夏颇受喜爱</item>
+  </string-array>
+  <string-array name="str_22313">
+    <item>鸡尾酒杯</item>
+    <item>饮用时，请不要用手接触杯身</item>
+  </string-array>
+  <string-array name="str_22314">
+    <item>茶杯</item>
+    <item>普普通通的茶杯，没什么特别之处..</item>
+  </string-array>
+  <string-array name="str_22315">
+    <item>雨伞</item>
+    <item>遇到春雨时，记得为自己撑伞！</item>
+  </string-array>
+  <string-array name="str_22316">
+    <item>油纸伞</item>
+    <item>中国古代所用的雨伞，现多为工艺品，同时有驱恶辟邪的寓意</item>
+  </string-array>
+  <string-array name="str_22317">
+    <item>礼花筒</item>
+    <item>为了庆贺小小帝国版本更新专用的礼花</item>
+  </string-array>
+  <string-array name="str_22318">
+    <item>树苗</item>
+    <item>多一点绿色，多一些生机</item>
+  </string-array>
+  <string-array name="str_22319">
+    <item>棒棒糖</item>
+    <item>杂货铺售卖的棒棒糖，看起来很漂亮，孩子们最喜欢的礼物</item>
+  </string-array>
+  <string-array name="str_22320">
+    <item>氢气球</item>
+    <item>五颜六色的气球，很容易破裂</item>
+  </string-array>
+  <string-array name="str_22321">
+    <item>金牛座</item>
+    <item>金牛座的孩子值得信赖，耐心十足，脚踏实地</item>
+  </string-array>
+  <string-array name="str_22322">
+    <item>双子座</item>
+    <item>聪明灵活的人间交流使者。</item>
+  </string-array>
+  <string-array name="str_22323">
+    <item>巨蟹座</item>
+    <item>恋家爱家好典范。</item>
+  </string-array>
+  <string-array name="str_22324">
+    <item>狮子座</item>
+    <item>闪耀的、活力十足的能量。</item>
+  </string-array>
+  <string-array name="str_22325">
+    <item>火箭头盔</item>
+    <item>拉风的头盔，不仅外观逗趣，喷射上天的效果也很不错，还自带降落伞。</item>
+  </string-array>
+  <string-array name="str_22326">
+    <item>小巫毒面具</item>
+    <item>古怪的小玩具，效果也还不错，三条闪电一起电人还挺痛。</item>
+  </string-array>
+  <string-array name="str_22327">
+    <item>时尚眼镜</item>
+    <item>眼里看到的只有爱情</item>
+  </string-array>
+  <string-array name="str_22328">
+    <item>信鸽</item>
+    <item>传递信息的空中桥梁！</item>
+  </string-array>
+  <string-array name="str_22206">
+    <item>大竞技场碎片</item>
+    <item>大竞技场碎片</item>
+  </string-array>
+  <string-array name="str_22329">
+    <item>凯旋门碎片</item>
+    <item>凯旋门碎片</item>
+  </string-array>
+  <string-array name="str_22330">
+    <item>天蝎座</item>
+    <item>十二星座之黄道第八宫</item>
+  </string-array>
+  <string-array name="str_22331">
+    <item>射手座</item>
+    <item>像一只弦上的箭，热衷冒险</item>
+  </string-array>
+  <string-array name="str_22332">
+    <item>摩羯座</item>
+    <item>没错，神赫淮斯托斯就是他的守护神</item>
+  </string-array>
+  <string-array name="str_22333">
+    <item>水瓶座</item>
+    <item>内心像寒冬一样冰冷的神秘主义者</item>
+  </string-array>
+  <string-array name="str_22334">
+    <item>双鱼座</item>
+    <item>浪漫而富于幻想，需要被保护</item>
+  </string-array>
+  <string-array name="str_22335">
+    <item>白羊座</item>
+    <item>一切事物的开始</item>
+  </string-array>
+  <string-array name="str_22336">
+    <item>泡沫苹果酒</item>
+    <item>尝一口就能体会到快乐的滋味</item>
+  </string-array>
+  <string-array name="str_22337">
+    <item>魔法帽子</item>
+    <item>戴上它你就拥有了魔法</item>
+  </string-array>
+  <string-array name="str_22338">
+    <item>暗月气球</item>
+    <item>它只是在飘来飘去</item>
+  </string-array>
+  <string-array name="str_22339">
+    <item>暗月花束</item>
+    <item>暗藏杀机</item>
+  </string-array>
+  <string-array name="str_22340">
+    <item>美味番茄</item>
+    <item>酸酸甜甜就是我</item>
+  </string-array>
+  <string-array name="str_22341">
+    <item>美味葡萄</item>
+    <item>外观和内在都能让人陶醉</item>
+  </string-array>
+  <string-array name="str_22342">
+    <item>美味鳄梨</item>
+    <item>牛油果是我的另外一个名字</item>
+  </string-array>
+  <string-array name="str_22343">
+    <item>美味莲雾</item>
+    <item>别名有无数种的热带水果</item>
+  </string-array>
+  <string-array name="str_22344">
+    <item>邪恶南瓜灯</item>
+    <item>偷看会被吃掉的</item>
+  </string-array>
+  <string-array name="str_22345">
+    <item>邪恶巫师帽</item>
+    <item>要得到我必须经过地狱般的磨炼</item>
+  </string-array>
+  <string-array name="str_22346">
+    <item>足球皇冠</item>
+    <item>至高无上荣誉的象征</item>
+  </string-array>
+  <string-array name="str_22347">
+    <item>欢喜圣诞帽</item>
+    <item>圣诞狂欢夜的主角登场</item>
+  </string-array>
+  <string-array name="str_22348">
+    <item>欢喜圣诞围巾</item>
+    <item>Merry Xmas</item>
+  </string-array>
+  <string-array name="str_22349">
+    <item>欢喜圣诞袜</item>
+    <item>睡觉之前记得挂到床边</item>
+  </string-array>
+  <string-array name="str_22350">
+    <item>战火之光</item>
+    <item>犹如战争的降临，这颗宝珠可以把战斗力推向巅峰</item>
+  </string-array>
+  <string-array name="str_22351">
+    <item>秩序之匙</item>
+    <item>万物遵从秩序，掌握秩序的关键能突破极限</item>
+  </string-array>
+  <string-array name="str_1081">
+    <item>十字军头盔</item>
+    <item>神圣力量加护的头盔，泛着圣洁的光芒</item>
+  </string-array>
+  <string-array name="str_1082">
+    <item>灵魂守护</item>
+    <item>守护的力量具象化为冰霜，泛着冰冷的寒气</item>
+  </string-array>
+  <string-array name="str_1083">
+    <item>十字军铠甲</item>
+    <item>神圣力量加护的铠甲，泛着圣洁的光芒</item>
+  </string-array>
+  <string-array name="str_1084">
+    <item>十字军护肩</item>
+    <item>神圣力量加护的护肩，泛着圣洁的光芒</item>
+  </string-array>
+  <string-array name="str_1085">
+    <item>十字军护手</item>
+    <item>神圣力量加护的护手，泛着圣洁的光芒</item>
+  </string-array>
+  <string-array name="str_1180">
+    <item>使徒头盔</item>
+    <item>被神谕祝福的头盔，给予他的追随者前进的力量。</item>
+  </string-array>
+  <string-array name="str_1181">
+    <item>命运裁决</item>
+    <item>行使神圣的力量，对世间一切恶执行惩罚</item>
+  </string-array>
+  <string-array name="str_1182">
+    <item>使徒护甲</item>
+    <item>被神谕祝福的护甲，给予他的追随者前进的力量。</item>
+  </string-array>
+  <string-array name="str_1183">
+    <item>使徒护肩</item>
+    <item>被神谕祝福的护肩，给予他的追随者前进的力量。</item>
+  </string-array>
+  <string-array name="str_1184">
+    <item>使徒护手</item>
+    <item>被神谕祝福的护手，给予他的追随者前进的力量。</item>
+  </string-array>
+  <string-array name="str_1281">
+    <item>圣天使头盔</item>
+    <item>代理神圣所持的头盔， 便是神圣本身。</item>
+  </string-array>
+  <string-array name="str_1282">
+    <item>正义审判</item>
+    <item>判别神圣或混沌的原则，这就是真理。</item>
+  </string-array>
+  <string-array name="str_1283">
+    <item>圣天使护甲</item>
+    <item>代理神圣所持的护甲， 便是神圣本身。</item>
+  </string-array>
+  <string-array name="str_1284">
+    <item>圣天使之翼</item>
+    <item>代理神圣所持的翅膀， 便是神圣本身。</item>
+  </string-array>
+  <string-array name="str_1285">
+    <item>圣天使护手</item>
+    <item>代理神圣所持的护手， 便是神圣本身。</item>
+  </string-array>
+  <string-array name="str_497">
+    <item>盾墙</item>
+    <item>生命值降低到$0时，增加$1血量的护盾</item>
+  </string-array>
+  <string-array name="str_498">
+    <item>连斩</item>
+    <item>生命值降低到$0后，每次攻击有$1几率立即触发一次攻击，触发的攻击有相同几率再次触发攻击。</item>
+  </string-array>
+  <string-array name="str_499">
+    <item>复仇</item>
+    <item>死亡时，释放火雨技能，对敌方全体造成$0点伤害。</item>
+  </string-array>
+  <string-array name="str_550">
+    <item>黑龙头冠</item>
+    <item>象征魔族最高地位的王冠</item>
+  </string-array>
+  <string-array name="str_22352">
+    <item>玉米</item>
+    <item>金黄色，无公害，软糯香甜，活动道具</item>
+  </string-array>
+  <string-array name="str_22353">
+    <item>节日礼帽</item>
+    <item>一顶非常显眼的绿色礼帽，专为喜爱三叶草的人定制，活动道具</item>
+  </string-array>
+  <string-array name="str_22354">
+    <item>铜牌</item>
+    <item>低调的强者，未来的希望。活动物品</item>
+  </string-array>
+  <string-array name="str_22355">
+    <item>福袋</item>
+    <item>包含了满满的祝福。活动物品</item>
+  </string-array>
+  <string-array name="str_22356">
+    <item>遗落的兵符</item>
+    <item>将军的印信，是军队调动的号令，活动道具</item>
+  </string-array>
+  <string-array name="str_22357">
+    <item>番茄</item>
+    <item>纯绿色无污染食品。活动物品</item>
+  </string-array>
+  <string-array name="str_22358">
+    <item>淘气南瓜</item>
+    <item>再看我！就咬你！活动物品</item>
+  </string-array>
+  <string-array name="str_22359">
+    <item>橘子</item>
+    <item>新鲜摘下的橘子，酸甜可口，可以拿来制作果酱，活动道具</item>
+  </string-array>
+  <string-array name="str_22360">
+    <item>南瓜派</item>
+    <item>取自新鲜南瓜，精心准备而成。活动物品</item>
+  </string-array>
+  <string-array name="str_22361">
+    <item>银牌</item>
+    <item>一人之下，万人之上。活动物品</item>
+  </string-array>
+  <string-array name="str_22362">
+    <item>红薯</item>
+    <item>香甜柔软，老少皆宜。活动道具</item>
+  </string-array>
+  <string-array name="str_22363">
+    <item>生日蛋糕</item>
+    <item>满含生日的甜蜜！活动道具</item>
+  </string-array>
+  <string-array name="str_22364">
+    <item>医疗箱</item>
+    <item>承载着受伤士兵愈合的希望，活动道具</item>
+  </string-array>
+  <string-array name="str_22365">
+    <item>小黄鸭</item>
+    <item>迷你版的大黄鸭，最佳浴缸伴侣，活动道具</item>
+  </string-array>
+  <string-array name="str_22366">
+    <item>大豆</item>
+    <item>大豆是草本植物，富含蛋白质，可以用来制作各种豆制品。</item>
+  </string-array>
+  <string-array name="str_22367">
+    <item>热气球</item>
+    <item>五颜六色，点缀天空。活动物品</item>
+  </string-array>
+  <string-array name="str_22368">
+    <item>巫师帽</item>
+    <item>有时候会从里面飞出鸽子，或蝙蝠。活动物品</item>
+  </string-array>
+  <string-array name="str_22369">
+    <item>金牌</item>
+    <item>唯我独尊，王者实力的证明。活动物品</item>
+  </string-array>
+  <string-array name="str_22370">
+    <item>并蒂莲</item>
+    <item>象征着爱情，寓意百年好合，永结同心。</item>
+  </string-array>
+  <string-array name="str_22371">
+    <item>木马</item>
+    <item>为儿童准备的玩具，如果喜欢请尽情玩耍，活动道具</item>
+  </string-array>
+  <string-array name="str_22372">
+    <item>大白菜</item>
+    <item>有保护财产的意思</item>
+  </string-array>
+  <string-array name="str_22373">
+    <item>玩具熊</item>
+    <item>安妮的同款小熊，特别受小女孩的喜爱，活动道具</item>
+  </string-array>
+  <string-array name="str_22374">
+    <item>破碎的铜币</item>
+    <item>裂开的古铜币，附着在铜币上的魔法气息已经快要消失殆尽。活动道具</item>
+  </string-array>
+  <string-array name="str_22375">
+    <item>油灯</item>
+    <item>闪烁宁静祥和的光芒的油灯。活动物品</item>
+  </string-array>
+  <string-array name="str_22376">
+    <item>火炬</item>
+    <item>文明竞技从这里走来。活动物品</item>
+  </string-array>
+  <string-array name="str_22377">
+    <item>遗落的宝剑</item>
+    <item>等待着勇士回来，再次磨砺出宝剑的锋刃，活动道具</item>
+  </string-array>
+  <string-array name="str_22378">
+    <item>香囊</item>
+    <item>定情信物 活动道具</item>
+  </string-array>
+  <string-array name="str_22379">
+    <item>波士顿凯尔特人</item>
+    <item>夺冠次数最多的NBA球队</item>
+  </string-array>
+  <string-array name="str_22380">
+    <item>动感音符</item>
+    <item>组成演奏曲的音符之一，代表着动感的节拍，活动道具</item>
+  </string-array>
+  <string-array name="str_22381">
+    <item>笑脸</item>
+    <item>招牌微笑，送给每一个需要幸福的人。</item>
+  </string-array>
+  <string-array name="str_22382">
+    <item>蝴蝶风筝</item>
+    <item>五彩斑斓的蝴蝶风筝，让人忍不住停下来欣赏。</item>
+  </string-array>
+  <string-array name="str_22383">
+    <item>锤子</item>
+    <item>最常见的工具之一，钉子都吃过它的苦。</item>
+  </string-array>
+  <string-array name="str_22384">
+    <item>小丑盒子</item>
+    <item>小丑留下来的盒子，到底是惊吓还是惊喜呢？</item>
+  </string-array>
+  <string-array name="str_22385">
+    <item>爱心蛋糕</item>
+    <item>爱的蛋糕，可用来传达爱意，当然也很美味。</item>
+  </string-array>
+  <string-array name="str_22386">
+    <item>手镯</item>
+    <item>定情信物 活动道具</item>
+  </string-array>
+  <string-array name="str_22387">
+    <item>圣安东尼奥马刺队</item>
+    <item>很厉害的一支队伍</item>
+  </string-array>
+  <string-array name="str_22388">
+    <item>悠扬音符</item>
+    <item>组成演奏曲的音符之一，代表着悠扬的节拍，活动道具</item>
+  </string-array>
+  <string-array name="str_22389">
+    <item>扳手</item>
+    <item>一种质量可靠的工具，请配合螺母使用。</item>
+  </string-array>
+  <string-array name="str_22390">
+    <item>鱼钩</item>
+    <item>如果你是一条鱼，肯定不想见到它！</item>
+  </string-array>
+  <string-array name="str_22391">
+    <item>香水</item>
+    <item>不擦香水的女人没有未来”，香水对于女人有致命的吸引力。</item>
+  </string-array>
+  <string-array name="str_22392">
+    <item>兔耳朵</item>
+    <item>戴上兔耳朵的也有可能是大灰狼哟！</item>
+  </string-array>
+  <string-array name="str_22393">
+    <item>海盗旗</item>
+    <item>海盗遗留下来的旗帜，如果你在海里看到它，那什么都来不及了！活动道具</item>
+  </string-array>
+  <string-array name="str_22394">
+    <item>美味的披萨</item>
+    <item>美味可口的披萨，活动道具</item>
+  </string-array>
+  <string-array name="str_22395">
+    <item>小提琴</item>
+    <item>演奏会上的乐器之一，音色热烈而轻快，活动道具</item>
+  </string-array>
+  <string-array name="str_22396">
+    <item>NBA骑士队</item>
+    <item>克利夫兰骑士队</item>
+  </string-array>
+  <string-array name="str_22397">
+    <item>节日颜料</item>
+    <item>丰富多彩的节日颜料，运用领域非常广。</item>
+  </string-array>
+  <string-array name="str_22398">
+    <item>投手雕像</item>
+    <item>节日雕像，优胜选手和他投出的鱼。</item>
+  </string-array>
+  <string-array name="str_22399">
+    <item>红包</item>
+    <item>通常是长辈与亲朋，用来传达欢乐与祝福的馈赠。</item>
+  </string-array>
+  <string-array name="str_22400">
+    <item>同心锁</item>
+    <item>爱情的象征 活动道具</item>
+  </string-array>
+  <string-array name="str_22401">
+    <item>NBA勇士队</item>
+    <item>金州勇士队</item>
+  </string-array>
+  <string-array name="str_22402">
+    <item>欢乐音符</item>
+    <item>组成演奏曲的音符之一，代表着欢乐的节拍，活动道具</item>
+  </string-array>
+  <string-array name="str_22403">
+    <item>普通的枕头</item>
+    <item>这是基础款式，有助于睡眠，也是打闹的最佳武器，活动道具</item>
+  </string-array>
+  <string-array name="str_22404">
+    <item>传统风筝</item>
+    <item>批量生产的风筝，款式经典销量很高。</item>
+  </string-array>
+  <string-array name="str_22405">
+    <item>地瓜</item>
+    <item>营养丰富的食材，但你得先把它从土里挖出来。</item>
+  </string-array>
+  <string-array name="str_22406">
+    <item>金枪鱼</item>
+    <item>新鲜捕获的金枪鱼，用于制作刺身的绝佳食材。</item>
+  </string-array>
+  <string-array name="str_22407">
+    <item>公牛雕塑</item>
+    <item>最强壮的奔牛，被塑成了纯铜雕塑。</item>
+  </string-array>
+  <string-array name="str_22408">
+    <item>小丑面具</item>
+    <item>做工精致的面具，只有宫廷小丑才有资格佩戴。</item>
+  </string-array>
+  <string-array name="str_22409">
+    <item>海盗宝箱</item>
+    <item>散发着绿色幽光的宝箱，据说是黑胡子留下的宝藏。</item>
+  </string-array>
+  <string-array name="str_22410">
+    <item>比基尼</item>
+    <item>蝴蝶结与比基尼的完美结合，沙滩上的靓丽风景！</item>
+  </string-array>
+  <string-array name="str_castle">
+    <item>城堡</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_store">
+    <item>商店</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_altar">
+    <item>英雄祭坛</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_alli_castle">
+    <item>联盟议事厅</item>
+    <item>发布联盟事务的场所，有事没事可以来议事厅看看</item>
+  </string-array>
+  <string-array name="str_alli_warehouse">
+    <item>联盟仓库</item>
+    <item>联盟储备资源的地方，需要大家积极来贡献</item>
+  </string-array>
+  <string-array name="str_barrack">
+    <item>步兵营地</item>
+    <item>修建后可招募短脚步兵,升级后可招募蓝皮巨魔。</item>
+  </string-array>
+  <string-array name="str_range">
+    <item>靶场营地</item>
+    <item>修建后可招募精灵射手, 升级后可招募快手忍者的营地。</item>
+  </string-array>
+  <string-array name="str_library">
+    <item>魔法学徒书馆</item>
+    <item>修建后可招募白袍牧师，升级后可招募寒冰法师。</item>
+  </string-array>
+  <string-array name="str_stable">
+    <item>马厩</item>
+    <item>修建后可招募铁面游侠，升级后可以招募双斧狼骑。</item>
+  </string-array>
+  <string-array name="str_magic_temple">
+    <item>魔法大师圣殿</item>
+    <item>修建后可招募顽皮萨满，升级后可以招募复仇天使。</item>
+  </string-array>
+  <string-array name="str_mech_lab">
+    <item>机械试验室</item>
+    <item>修建后可招募钢弹铁轮，升级后可以招募电锯铁人。</item>
+  </string-array>
+  <string-array name="str_smithy">
+    <item>铁匠铺</item>
+    <item>用于近战单位升级的建筑。武器更锋利，盔甲更坚固。</item>
+  </string-array>
+  <string-array name="str_shooting">
+    <item>风神殿</item>
+    <item>用于远程单位升级的建筑。攻击更准确，行动更迅捷。</item>
+  </string-array>
+  <string-array name="str_magic">
+    <item>魔法祭坛</item>
+    <item>用于魔法单位升级的建筑。魔力更充沛，威力更强大。</item>
+  </string-array>
+  <string-array name="str_tech_lab">
+    <item>研究所</item>
+    <item>我们自己不会生产和战斗，但是我们可以提高生产的效率、强化战斗的能力！</item>
+  </string-array>
+  <string-array name="str_pet_house">
+    <item>宠物栏</item>
+    <item>宠物们的家，可以提升宠物等级。</item>
+  </string-array>
+  <string-array name="str_alli_cage">
+    <item>联盟牢笼</item>
+    <item>可以在此发动联盟战争，对其他联盟进行宣战</item>
+  </string-array>
+  <string-array name="str_house">
+    <item>红瓦房</item>
+    <item>士兵们的宿舍，提供人口。</item>
+  </string-array>
+  <string-array name="str_gold_mine">
+    <item>金矿</item>
+    <item>开掘黄金的资源设施，想要金子就靠他了。</item>
+  </string-array>
+  <string-array name="str_crystal_mine">
+    <item>水晶矿</item>
+    <item>水晶是贵重金属，需要使用特殊的挖掘技术。</item>
+  </string-array>
+  <string-array name="str_cage">
+    <item>牢笼</item>
+    <item>建造后可以抓别的玩家做奴隶，获得额外的收入。</item>
+  </string-array>
+  <string-array name="str_warehouse">
+    <item>仓库</item>
+    <item>仓库可以用来储藏资源,里面的金币和水晶不会被抢走.</item>
+  </string-array>
+  <string-array name="str_portal">
+    <item>时空门</item>
+    <item>要小心哟！现在还不知道启动它之后会被传送到哪里去！</item>
+  </string-array>
+  <string-array name="str_alchemy_lab">
+    <item>炼金屋</item>
+    <item>你要明白，只有这里才能让你手上的宝石发挥最大的作用。</item>
+  </string-array>
+  <string-array name="str_alli_door">
+    <item>大使馆</item>
+    <item>外交机构，可以在大使馆中创建或加入一个联盟。</item>
+  </string-array>
+  <string-array name="str_gold_larger">
+    <item>精炼所</item>
+    <item>可提升联盟成员的黄金、水晶产量。</item>
+  </string-array>
+  <string-array name="str_church">
+    <item>教堂</item>
+    <item>可提升联盟成员的士兵HP。</item>
+  </string-array>
+  <string-array name="str_war_temple">
+    <item>战神殿</item>
+    <item>可提升联盟成员的士兵攻击力（不包括白袍牧师、顽皮萨满）。</item>
+  </string-array>
+  <string-array name="str_alli_magicdoor">
+    <item>魔法之门</item>
+    <item>联盟副本的唯一入口。</item>
+  </string-array>
+  <string-array name="str_alli_angel">
+    <item>天使雕像</item>
+    <item>以神赐之力保护英雄，抵御敌人魔法的伤害。</item>
+  </string-array>
+  <string-array name="str_alli_tree">
+    <item>生命之树</item>
+    <item>抽取源源不息的自然之力为英雄加持生命的祝福。</item>
+  </string-array>
+  <string-array name="str_stone_mine">
+    <item>魔晶矿</item>
+    <item>蕴含魔力的矿产，每天可以产出1颗魔晶石。</item>
+  </string-array>
+  <string-array name="str_tree4">
+    <item>小灌木</item>
+    <item>沾满了露水的叶子上经常可以看到小瓢虫。</item>
+  </string-array>
+  <string-array name="str_tree">
+    <item>绿树</item>
+    <item>普通的树，多种点可以美化环境，还能带来意外的惊喜。</item>
+  </string-array>
+  <string-array name="str_tree1">
+    <item>枫树</item>
+    <item>北方盛产的枫树，能带来财富。</item>
+  </string-array>
+  <string-array name="str_tree2">
+    <item>圆顶树</item>
+    <item>南方常见的圆顶树，样子很可爱。</item>
+  </string-array>
+  <string-array name="str_brick2">
+    <item>彩色罐子</item>
+    <item>原始部落制作的土罐子，颜色很鲜艳。</item>
+  </string-array>
+  <string-array name="str_tree3">
+    <item>椰子树</item>
+    <item>每天望着椰子掉下来，但是掉下来的都不是椰子?!</item>
+  </string-array>
+  <string-array name="str_brick3">
+    <item>南瓜王</item>
+    <item>这么大的南瓜够我们一家三口吃一个月了吧？</item>
+  </string-array>
+  <string-array name="str_brick1">
+    <item>图腾</item>
+    <item>貌似拥有神奇的力量，可以让战士勇气增加。</item>
+  </string-array>
+  <string-array name="str_brick4">
+    <item>白石柱</item>
+    <item>巨大坚硬的石头柱子，雕有古代的花纹。</item>
+  </string-array>
+  <string-array name="str_brick5">
+    <item>喷泉</item>
+    <item>造型典雅的喷泉，来自白水河的活水。</item>
+  </string-array>
+  <string-array name="str_brick6">
+    <item>小金字塔</item>
+    <item>仿造的小型金字塔，庄严而又充满神秘。</item>
+  </string-array>
+  <string-array name="str_brick7">
+    <item>比萨斜塔</item>
+    <item>仿造的比萨斜塔，经常有人从上面扔下两个球看哪个先落地。</item>
+  </string-array>
+  <string-array name="str_brick8">
+    <item>花丛</item>
+    <item>用魔法培育出来的鲜艳花丛，用来装饰城堡。</item>
+  </string-array>
+  <string-array name="str_brick9">
+    <item>大石墩</item>
+    <item>黑雪山出产的坚硬石块，多码上几块就可以组成坚硬的石墙。</item>
+  </string-array>
+  <string-array name="str_tech_gold">
+    <item>黄金产量</item>
+    <item>升级后可提升黄金产量。当前黄金产量+$0</item>
+  </string-array>
+  <string-array name="str_tech_crystal">
+    <item>水晶产量</item>
+    <item>升级后可提升水晶产量。当前水晶产量+$0</item>
+  </string-array>
+  <string-array name="str_tech_recruit">
+    <item>招募速度</item>
+    <item>升级后可缩短招募士兵所需时间。当前招募速度+$0</item>
+  </string-array>
+  <string-array name="str_tech_miss">
+    <item>士兵闪避</item>
+    <item>升级后可提升士兵闪避机率。当前闪避几率+$0</item>
+  </string-array>
+  <string-array name="str_tech_hp">
+    <item>士兵生命</item>
+    <item>升级后可提升士兵HP值。当前士兵HP+$0</item>
+  </string-array>
+  <string-array name="str_tech_move">
+    <item>移动速度</item>
+    <item>升级后可提升士兵移动速度。当前士兵移动速度+$0</item>
+  </string-array>
+  <string-array name="str_tech_critical">
+    <item>士兵暴击</item>
+    <item>升级后可提升士兵的暴击机率。当前暴击几率+$0</item>
+  </string-array>
+  <string-array name="str_tech_faint">
+    <item>士兵重击</item>
+    <item>升级后可提升士兵的重击几率，重击可致敌人陷入眩晕状态。当前重击几率+$0</item>
+  </string-array>
+  <string-array name="str_tech_resist">
+    <item>士兵抗性</item>
+    <item>升级后可降低被暴击、眩晕、虚弱、冰冻等效果影响的几率。当前可降低影响几率+$0</item>
+  </string-array>
+  <string-array name="str_tech_attackspeed">
+    <item>攻击速度</item>
+    <item>升级后可提升士兵的攻击速度。当前攻速+$0</item>
+  </string-array>
+  <string-array name="str_tech_normalattack">
+    <item>普通攻击</item>
+    <item>升级后可提升普通攻击士兵的攻击力。当前普通攻击+$0</item>
+  </string-array>
+  <string-array name="str_tech_stingattack">
+    <item>穿刺攻击</item>
+    <item>升级后可提升穿刺攻击士兵的攻击力。当前穿刺攻击+$0</item>
+  </string-array>
+  <string-array name="str_tech_magicattack">
+    <item>魔法攻击</item>
+    <item>升级后可提升魔法攻击（包括白袍牧师和顽皮萨满）士兵的攻击力。当前魔法攻击+$0</item>
+  </string-array>
+  <string-array name="str_tech_wallhp">
+    <item>城墙血量</item>
+    <item>升级后可提升城墙HP值。当前城墙HP+$0</item>
+  </string-array>
+  <string-array name="str_tech_shoot">
+    <item>士兵命中</item>
+    <item>升级后可提升士兵命中机率。当前命中几率+$0</item>
+  </string-array>
+  <string-array name="str_tech_herohp">
+    <item>英雄生命</item>
+    <item>升级之后，能够提升英雄的生命值。当前英雄生命+$0</item>
+  </string-array>
+  <string-array name="str_tech_heroresistspell">
+    <item>英雄魔抗</item>
+    <item>升级之后，能够提升英雄的魔抗。当前英雄魔抗+$0</item>
+  </string-array>
+  <string-array name="str_tech_resistspell">
+    <item>士兵魔抗</item>
+    <item>升级之后，能够提升士兵的魔抗。当前士兵魔抗+$0</item>
+  </string-array>
+  <string-array name="str_tech_heromiss">
+    <item>英雄闪避</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroshoots">
+    <item>英雄命中</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heromove">
+    <item>英雄移动速度</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_herocritical">
+    <item>英雄暴击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_herospell">
+    <item>英雄法术穿透</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_herotenacity">
+    <item>英雄韧性</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_herofirm">
+    <item>英雄坚固</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroreal">
+    <item>英雄真实</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_normalshoot">
+    <item>普通攻击士兵命中</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_stingshoot">
+    <item>穿刺攻击士兵命中</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_magicshoot">
+    <item>魔法攻击士兵命中</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_normalcritical">
+    <item>普通攻击士兵暴击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_stingcritical">
+    <item>穿刺攻击士兵暴击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_magiccritical">
+    <item>魔法攻击士兵暴击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_normalfaint">
+    <item>普通攻击士兵重击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_stingfaint">
+    <item>穿刺攻击士兵重击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_magicfaint">
+    <item>魔法攻击士兵重击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_nonehp">
+    <item>布甲士兵生命力</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_lighthp">
+    <item>轻甲士兵生命力</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heavyhp">
+    <item>重甲士兵生命力</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_nonemiss">
+    <item>布甲士兵闪避</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_lightmiss">
+    <item>轻甲士兵闪避</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heavymiss">
+    <item>重甲士兵闪避</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_noneresist">
+    <item>布甲士兵抗性</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_lightresist">
+    <item>轻甲士兵抗性</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heavyresist">
+    <item>重甲士兵抗性</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroviolence">
+    <item>英雄暴力</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_block">
+    <item>士兵格挡</item>
+    <item>升级之后，能够提升士兵的格挡几率。当前格挡几率+$0</item>
+  </string-array>
+  <string-array name="str_tech_nonemove">
+    <item>布甲士兵移动速度</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_lightmove">
+    <item>轻甲士兵移动速度</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heavymove">
+    <item>重甲士兵移动速度</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_noneresistspell">
+    <item>布甲士兵魔抗</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_lightresistspell">
+    <item>轻甲士兵魔抗</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heavyresistspell">
+    <item>重甲士兵魔抗</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroattack">
+    <item>英雄攻击</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_herocd">
+    <item>英雄技能冷却</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroArmor">
+    <item>英雄防御</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroAutohp">
+    <item>英雄回血</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroAttackToHp">
+    <item>英雄吸血</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heroAttackSpeed">
+    <item>英雄攻速</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_gold">
+    <item>黄金</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_crystal">
+    <item>水晶</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_mojo">
+    <item>魔酒</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_stone">
+    <item>魔晶石</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_PropAlliCoin">
+    <item>联盟令</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_reputation">
+    <item>声望</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_coupon">
+    <item>绑定魔酒</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_brick10">
+    <item>雪人</item>
+    <item>每当你背过身去，就会扭动自己的身躯的小雪人.</item>
+  </string-array>
+  <string-array name="str_brick11">
+    <item>圣诞树</item>
+    <item>挂着很多饰品和小礼物的常青树，意味着圣诞节的来临.</item>
+  </string-array>
+  <string-array name="str_brick12">
+    <item>自由飞翔杯</item>
+    <item>第一个全世界梦寐以求的奖杯，记录了三个梦想得到她，但却永远归属于第一个征服她三次的国家的故事。</item>
+  </string-array>
+  <string-array name="str_brick13">
+    <item>胜利金杯</item>
+    <item>纪念每四年出现一次，各国最出色的22个男人，在90分钟内纠缠一个球的伟大事迹。</item>
+  </string-array>
+  <string-array name="str_magic_forest">
+    <item>熔火堡垒</item>
+    <item>建造后可以召唤矮人投掷者，升级后可以召唤熔岩龙。</item>
+  </string-array>
+  <string-array name="str_tech_real">
+    <item>士兵真实</item>
+    <item>升级后可提升士兵真实。当前真实+$0</item>
+  </string-array>
+  <string-array name="str_tech_violence">
+    <item>士兵暴力</item>
+    <item>升级后可提升士兵暴击造成的伤害。当前暴力+$0</item>
+  </string-array>
+  <string-array name="str_tech_adv_power">
+    <item>力量之道</item>
+    <item>从战争之书中领悟到的进攻精髓，用于提高整只军队的攻击力。</item>
+  </string-array>
+  <string-array name="str_tech_adv_attack">
+    <item>战争之怒</item>
+    <item>狂战士阿鲁斯的口述自传，讲述如何将暴怒转化为力量。</item>
+  </string-array>
+  <string-array name="str_tech_adv_accurate">
+    <item>精准打击</item>
+    <item>羽神遗落在死海中的一章，是一个小女孩用弓箭穿透巨龙心脏的故事。</item>
+  </string-array>
+  <string-array name="str_tech_adv_strength">
+    <item>强健体魄</item>
+    <item>来自东方的运气之法，可以让身体变得无比强壮。</item>
+  </string-array>
+  <string-array name="str_tech_adv_speed">
+    <item>进攻秘术</item>
+    <item>从东瀛忍术演化而来的秘籍。</item>
+  </string-array>
+  <string-array name="str_tech_adv_agile">
+    <item>敏捷身法</item>
+    <item>暗杀公会的手册，详细讲述如何在不被人发现的情况下逃走。</item>
+  </string-array>
+  <string-array name="str_tech_adv_defence">
+    <item>防守之术</item>
+    <item>记载于末日之墙下的碑文，详细讲述了如何防守对方的进攻。</item>
+  </string-array>
+  <string-array name="str_miracle0">
+    <item>铁牙雕像</item>
+    <item>一夫当关，万夫莫开。三年小小路，一生帝国情。</item>
+  </string-array>
+  <string-array name="str_miracle1">
+    <item>双刀雕像</item>
+    <item>招式凌厉，狂傲无匹。三年小小路，一生帝国情。</item>
+  </string-array>
+  <string-array name="str_miracle2">
+    <item>魔女雕像</item>
+    <item>妩媚动人，暗藏杀机。三年小小路，一生帝国情。</item>
+  </string-array>
+  <string-array name="str_miracle3">
+    <item>屠龙大师雕像</item>
+    <item>定格了魔龙形象最辉煌的一瞬间，下一秒，就是它被你击败的样子了。</item>
+  </string-array>
+  <string-array name="str_miracle4">
+    <item>骆驼雕像</item>
+    <item>高傲的站在金字塔旁的骆驼。什么？你连金字塔建筑都没有？那就太逊啦！</item>
+  </string-array>
+  <string-array name="str_tech_walldamage">
+    <item>攻城掠地</item>
+    <item>英雄和士兵攻击城墙时伤害增加$0。</item>
+  </string-array>
+  <string-array name="str_tech_noneblock">
+    <item>布甲士兵格挡</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_lightblock">
+    <item>轻甲士兵格挡</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_heavyblock">
+    <item>重甲士兵格挡</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_normalreal">
+    <item>普通攻击士兵真实</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_stingreal">
+    <item>穿刺攻击士兵真实</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_magicreal">
+    <item>魔法攻击士兵真实</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_normalviolence">
+    <item>普通攻击士兵暴力</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_stingviolence">
+    <item>穿刺攻击士兵暴力</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_magicviolence">
+    <item>魔法攻击士兵暴力</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_normalattackspeed">
+    <item>普通攻击士兵攻速</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_stingattackspeed">
+    <item>穿刺攻击士兵攻速</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_tech_magicattackspeed">
+    <item>魔法攻击士兵攻速</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_black_hall">
+    <item>黑色大厅</item>
+    <item>修建后可招募骷髅法师，升级后可招募亡灵刺客。</item>
+  </string-array>
+  <string-array name="str_bone">
+    <item>黑暗结晶</item>
+    <item>
+    </item>
+  </string-array>
+  <string-array name="str_magic_tower">
+    <item>魔法研究院</item>
+    <item>致力于研究如何用魔法强化士兵能力。</item>
+  </string-array>
+  <string-array name="str_brick14">
+    <item>大竞技场</item>
+    <item>每天在这里都会有144名对手挑战你.唔……为什么是144名呢？</item>
+  </string-array>
+  <string-array name="str_brick15">
+    <item>凯旋门</item>
+    <item>为胜利，能坚持，终凯旋！</item>
+  </string-array>
+  <string-array name="str_wao">
+    <item>战火与秩序</item>
+    <item>新世界同样精彩！</item>
+  </string-array>
+  <string-array name="str_40001">
+    <item>神圣符文</item>
+    <item>神圣符文记载着圣光文字，拥有提升英雄能力的效果。</item>
+  </string-array>
+  <string-array name="str_40002">
+    <item>战争符文</item>
+    <item>战争符文记载着战斗文字，拥有提升士兵攻击能力的效果。</item>
+  </string-array>
+  <string-array name="str_40003">
+    <item>守卫符文</item>
+    <item>守卫符文记载着守护文字，拥有提升士兵防御能力的效果。</item>
+  </string-array>
+  <string-array name="str_40004">
+    <item>灵巧符文</item>
+    <item>记载灵巧能力的符文，帮助士兵提升特殊能力。</item>
+  </string-array>
+  <string-array name="pay_paypal">
+    <item>贝宝充值</item>
+    <item>贝宝用户的最佳选择</item>
+  </string-array>
+  <string-array name="pay_checkout">
+    <item>Google Checkout</item>
+    <item>Find it with Google. Buy it with Google Checkout.</item>
+  </string-array>
+  <string-array name="pay_mokredit">
+    <item>Mokredit payment</item>
+    <item>支持 WebATM, MyCard&amp;Gash</item>
+  </string-array>
+  <string-array name="pay_amazon">
+    <item>Amazon payment</item>
+    <item>Simple, secure, and trusted 1-Click purchase experience</item>
+  </string-array>
+  <string-array name="openning_des">
+    <item>连年战乱民不聊生，</item>
+    <item>魔族在黑暗中对人间虎视眈眈。</item>
+    <item>你的帝国在这样的时代建立了……</item>
+  </string-array>
+  <string-array name="openning_des_2nd">
+    <item>我们已经找到了企鹅……</item>
+    <item>而且在旁边堆起了雪人……</item>
+    <item>企鹅……雪人……</item>
+    <item>大家建设了新的城池……</item>
+    <item>这座城的主人就是您！</item>
+    <item>您终于不用再担心没有冰淇淋吃了……</item>
+  </string-array>
+  <string-array name="friend_conquer_invite">
+    <item>并肩作战</item>
+    <item>您的好友$0希望与您分享胜利的果实，特别邀请您参加与敌人$1的大决战！</item>
+    <item>"您的好友$0希望与您分享胜利的果实，特别邀请您参加与敌人$1的大决战！
+因为天气太好了，您的好友$0临时决定外出郊游，取消对$1的进攻。"</item>
+    <item>"您的好友$0希望与您分享胜利的果实，特别邀请您参加与敌人$1的大决战！
+您派出的部队已经成功与$0的大军汇合。"</item>
+    <item>"您的好友$0希望与您分享胜利的果实，特别邀请您参加与敌人$1的大决战！
+战情紧急，$0无法继续等待您的部队，决定先行进攻。"</item>
+    <item>"您的好友$0希望与您分享胜利的果实，特别邀请您参加与敌人$1的大决战！
+天神认为你们错过了对敌人发动进攻的最佳时机，故降下神谕，取消此次进攻！"</item>
+  </string-array>
+  <string-array name="daily_task_chests">
+    <item>普通宝箱</item>
+    <item>优质宝箱</item>
+    <item>精致宝箱</item>
+    <item>华丽宝箱</item>
+  </string-array>
+  <string-array name="openning_des2">
+    <item>阁下，您的智慧和勇气赢得了人民的爱戴，臣民们推举您为新国王。</item>
+    <item>原本我是来邀请您参加庆祝宴会……但是很不幸，有哨兵发现了魔族的踪迹，我们得先做些准备。</item>
+    <item>1000年前，大陆出现时空裂痕，魔族从深渊侵入大陆。三位英雄横空出世，带领大家反击魔族</item>
+  </string-array>
+  <string-array name="bless_string">
+    <item>魔法精灵</item>
+    <item>精灵施法的魔法，能使英雄在战斗中获得更多的经验</item>
+  </string-array>
+  <string-array name="warrior_magic_attack">
+    <item>攻击</item>
+    <item>附魔后能增加士兵的攻击力</item>
+  </string-array>
+  <string-array name="warrior_magic_block">
+    <item>格挡</item>
+    <item>附魔后能增加士兵的格挡</item>
+  </string-array>
+  <string-array name="warrior_magic_hp">
+    <item>生命</item>
+    <item>附魔后能增加士兵的生命值</item>
+  </string-array>
+  <string-array name="warrior_magic_resist">
+    <item>魔抗</item>
+    <item>附魔后能增加士兵的魔抗</item>
+  </string-array>
+  <string-array name="warrior_magic_movespeed">
+    <item>移动速度</item>
+    <item>附魔后能增加士兵的移动速度</item>
+  </string-array>
+  <string-array name="hero_ranks">
+    <item>下士</item>
+    <item>中士</item>
+    <item>中尉</item>
+    <item>上尉</item>
+    <item>军士长</item>
+    <item>士官长</item>
+    <item>见习骑士</item>
+    <item>骑士中尉</item>
+    <item>骑士队长</item>
+    <item>护卫骑士</item>
+    <item>少校</item>
+    <item>司令</item>
+    <item>统帅</item>
+    <item>督军</item>
+    <item>元帅</item>
+    <item>领主</item>
+    <item>大领主</item>
+    <item>大公爵</item>
+    <item>君王</item>
+    <item>大帝</item>
+    <item>太阳王</item>
+    <item>圣王</item>
+    <item>战神</item>
+    <item>大地主宰</item>
+    <item>天神</item>
+  </string-array>
+  <string-array name="str_task1">
+    <item>旗开得胜</item>
+    <item>点击场景中建好的牢笼,选择一个的玩家并攻占他的城堡,你的忠实奴隶就诞生了,点击他你还可以选择让他打工哦!</item>
+  </string-array>
+  <string-array name="str_task3">
+    <item>招募：蓝皮巨魔</item>
+    <item>希望这些蓝色皮肤的家伙在战场上能有点用处……</item>
+  </string-array>
+  <string-array name="str_task6">
+    <item>招募：精灵射手</item>
+    <item>战争需要新人手，招募这些拥有超远攻击距离的精灵了吧。</item>
+  </string-array>
+  <string-array name="str_task32">
+    <item>烂嘴卡尔归来！</item>
+    <item>烂嘴卡尔真是阴魂不散啊，竟然带着更多的弟兄又杀回来了！</item>
+  </string-array>
+  <string-array name="str_task33">
+    <item>招募：白袍牧师</item>
+    <item>伤员增多怎么办？只要招募这些能给部队疗伤的牧师妹妹们就万事大吉了！</item>
+  </string-array>
+  <string-array name="str_task36">
+    <item>招募：顽皮萨满</item>
+    <item>这些巫师能释放强大的加速魔法，最好放在队伍的中间。</item>
+  </string-array>
+  <string-array name="str_task37">
+    <item>强者的测试</item>
+    <item>烂嘴卡尔虽然屡败屡战，但它的爪牙好像是越打越多啊！要成为强者那就需要拿出勇气来！</item>
+  </string-array>
+  <string-array name="str_task39">
+    <item>招募：铁面游侠</item>
+    <item>弓箭手很厉害，但是他们的克星来了！</item>
+  </string-array>
+  <string-array name="str_task42">
+    <item>招募：双斧狼骑</item>
+    <item>是的，它们很可怕，但只要给够钱，你就是他们的主人。升级马厩吧！</item>
+  </string-array>
+  <string-array name="str_task45">
+    <item>招募：寒冰法师</item>
+    <item>想冻僵你的敌人吗？升级魔法图书馆到，就可以招募这些能施展冰魔法的高级法师了。</item>
+  </string-array>
+  <string-array name="str_task48">
+    <item>注意！一大波部队入侵</item>
+    <item>合理运用兵种相克是取胜的关键。建议使用前排铁面游侠后排精灵射手的阵型组合。</item>
+  </string-array>
+  <string-array name="str_task49">
+    <item>反击!烂嘴卡尔要倒霉啦！</item>
+    <item>赶跑了敌人咱们应该趁热打铁主动出击啦！打仗就是靠人多势众，同类型的部队，数量越多获胜机会越大。</item>
+  </string-array>
+  <string-array name="str_task50">
+    <item>招募：短脚步兵</item>
+    <item>找到步兵营地开始招募吧！</item>
+  </string-array>
+  <string-array name="str_task51">
+    <item>冰雪的克星</item>
+    <item>低级兵种照样大有用处，利箭面前强大的魔法也来不及施展！建议使用一定数量的精灵射手对抗寒冰法师。</item>
+  </string-array>
+  <string-array name="str_task52">
+    <item>后排进攻</item>
+    <item>兵种组合很重要，充分利用蓝皮巨魔的长矛吧，建议将蓝皮巨魔放到步兵的后面进攻，这样能更好的发挥他们的作用。</item>
+  </string-array>
+  <string-array name="str_task53">
+    <item>射手的噩梦</item>
+    <item>精灵射手虽然是很强力的远程兵种，不过遇到铁面游侠，也就只有哭的份了。建议使用一定数量的铁面游侠对抗精灵射手。</item>
+  </string-array>
+  <string-array name="str_task54">
+    <item>游侠的末日</item>
+    <item>寒冰法师一出场，叱咤风云的游侠们就只能回家带孩子了。建议使用一定数量的寒冰法师对抗铁面游侠。</item>
+  </string-array>
+  <string-array name="str_task55">
+    <item>破灭的复仇计划</item>
+    <item>复仇天使无人能挡？我听到了狼骑士的怒吼。建议使用一定数量的狼骑士对抗复仇天使。</item>
+  </string-array>
+  <string-array name="str_task56">
+    <item>钱从哪里来？</item>
+    <item>发现没钱招募士兵了？点击金矿选择挖掘并获得黄金,这个任务就完成了。记得可以使用加速漏斗哦！</item>
+  </string-array>
+  <string-array name="str_task57">
+    <item>烂嘴堡垒</item>
+    <item>烂嘴卡尔竟然选择了这么一个易守难攻的地方做堡垒，没有退路啦，只能奋力一战！</item>
+  </string-array>
+  <string-array name="str_task58">
+    <item>击败小波部队！</item>
+    <item>流浪军团又来打劫啦！记得派上左下角的英雄，可以助你一臂之力哦！</item>
+  </string-array>
+  <string-array name="str_task59">
+    <item>敌人再次来犯！</item>
+    <item>合理使用英雄的技能能够在战斗中起到事半功倍的作用。当技能图标变亮的时候就可以使用了。</item>
+  </string-array>
+  <string-array name="str_task60">
+    <item>新敌人出现？</item>
+    <item>什么？来了一群蓝皮妖怪？不要慌，咱们还是老办法，给他们个个一记老拳。</item>
+  </string-array>
+  <string-array name="str_task61">
+    <item>大波部队入侵！</item>
+    <item>刚才你又欺负了烂嘴卡尔的人，这下闯祸了，我看见漫山遍野的盾牌和长矛，他们全军出动，还带来了弓箭手！</item>
+  </string-array>
+  <string-array name="str_task62">
+    <item>烂嘴卡尔</item>
+    <item>报告！发现流浪军团的头目烂嘴卡尔!它可是远近闻名的恶棍！这下热闹了。</item>
+  </string-array>
+  <string-array name="str_task63">
+    <item>打败敌人，拯救城堡！</item>
+    <item>救命！城堡被占领了！赶快派兵来救救我们啊！</item>
+  </string-array>
+  <string-array name="str_task64">
+    <item>杂牌兵混战</item>
+    <item>城外来了一帮杂牌部队，看起来像是烂嘴卡尔的残余部队。赶跑他们吧！</item>
+  </string-array>
+  <string-array name="str_task65">
+    <item>不得安宁</item>
+    <item>烂嘴卡尔看来是和我们结仇了，还没喘过气他们又来了。</item>
+  </string-array>
+  <string-array name="str_task66">
+    <item>敌兵偷袭</item>
+    <item>烂嘴卡尔果然又派人来偷袭，打伤了好几个村民,赶紧出兵赶跑他们吧。</item>
+  </string-array>
+  <string-array name="str_task67">
+    <item>坚守阵地</item>
+    <item>这次他们还派出了可以治疗的牧师部队，主人，您要挺住。</item>
+  </string-array>
+  <string-array name="str_task68">
+    <item>卡尔的报复</item>
+    <item>刚刚休息了几天，烂嘴卡尔又来了，看来他是盯上咱们的水晶了！</item>
+  </string-array>
+  <string-array name="str_task70">
+    <item>海盗杰克</item>
+    <item>卡尔搬来他的海盗兄弟杰克做救兵。杰克可不是好对付的，主人你这次可要小心！</item>
+  </string-array>
+  <string-array name="str_task71">
+    <item>铁面杀手</item>
+    <item>带着铁盔的骑士整装待发,我们肃颜以对。</item>
+  </string-array>
+  <string-array name="str_task72">
+    <item>射手的逆袭！</item>
+    <item>出现一大队精灵向我们冲来，肯定是来报仇的！</item>
+  </string-array>
+  <string-array name="str_task73">
+    <item>嗜血魔王</item>
+    <item>一大堆流浪骑士冲到城外啦！浓烟滚滚，我都看不见天了！</item>
+  </string-array>
+  <string-array name="str_task74">
+    <item>杰克兄弟</item>
+    <item>想不到烂嘴的帮凶杰克竟然是两兄弟！这下中了他们的埋伏了！</item>
+  </string-array>
+  <string-array name="str_task75">
+    <item>深入敌穴!</item>
+    <item>打败了烂嘴的前哨，它的爪牙也不见减少啊！</item>
+  </string-array>
+  <string-array name="str_task76">
+    <item>卡尔的新面孔！</item>
+    <item>烂嘴卡尔好久不见啊！就算你换了一套铠甲,我照样认得你！</item>
+  </string-array>
+  <string-array name="str_task77">
+    <item>乘胜追击!</item>
+    <item>卡尔战败又逃跑了！这次坚决不能再放过他了！拦我者死！</item>
+  </string-array>
+  <string-array name="str_task78">
+    <item>魔女潘多拉!</item>
+    <item>什么，她就是远近闻名的魔女潘多拉？兄弟们，咱们上!</item>
+  </string-array>
+  <string-array name="str_task80">
+    <item>深入腹地</item>
+    <item>到处都是山谷，卡尔的藏身之地选的真是隐蔽啊！</item>
+  </string-array>
+  <string-array name="str_task81">
+    <item>寻找魔窟</item>
+    <item>经过多年来的艰苦奋斗，终于我们也有实力去寻找烂嘴卡尔的老窝了！</item>
+  </string-array>
+  <string-array name="str_task82">
+    <item>潘多拉的魔盒</item>
+    <item>想不到潘多拉竟然不是这么容易打败的，不知道从哪里又冒出来这么多部队!？</item>
+  </string-array>
+  <string-array name="str_task83">
+    <item>烂嘴敢死队</item>
+    <item>前面挡道的这些部队都不要命了，他们人数众多，好在全是近战兵种。</item>
+  </string-array>
+  <string-array name="str_task84">
+    <item>近身攻击</item>
+    <item>这次又换全是远程部队进攻了！要诀就是尽快贴身战斗，注意兵种相克。</item>
+  </string-array>
+  <string-array name="str_task85">
+    <item>潘多拉幻像</item>
+    <item>什么？出现了这么多潘多拉？这...肯定是她释的魔法！</item>
+  </string-array>
+  <string-array name="str_task86">
+    <item>不死鸟杰克</item>
+    <item>真是怎么打也打不死啊，要打败他们还需要一点运气。</item>
+  </string-array>
+  <string-array name="str_task87">
+    <item>毁灭潘多拉</item>
+    <item>终于要抓到这个女魔头了，兄弟们不要犹豫啦！</item>
+  </string-array>
+  <string-array name="str_task88">
+    <item>杰克要塞</item>
+    <item>这里就是杰克的城堡了，打败了他离烂嘴卡尔就不远啦!</item>
+  </string-array>
+  <string-array name="str_task89">
+    <item>决战杰克兄弟</item>
+    <item>除掉了卡尔的左右手，咱们离成功就进了一大步！</item>
+  </string-array>
+  <string-array name="str_task90">
+    <item>天降恶梦</item>
+    <item>这身海盗的打扮...杰克老朋友，我们又见面了！</item>
+  </string-array>
+  <string-array name="str_task91">
+    <item>烂嘴亲卫队</item>
+    <item>这么多复仇天使？烂嘴卡尔派出他最精锐的部队了！</item>
+  </string-array>
+  <string-array name="str_task92">
+    <item>烂嘴铁甲团</item>
+    <item>这次是铁甲巨人部队！要挺住啊！</item>
+  </string-array>
+  <string-array name="str_task93">
+    <item>绝对零度！</item>
+    <item>卡尔手下的法师全出动了，咱们的弓箭手呢？</item>
+  </string-array>
+  <string-array name="str_task94">
+    <item>万箭齐发</item>
+    <item>骑士！呼叫我方铁面游侠！</item>
+  </string-array>
+  <string-array name="str_task95">
+    <item>铁蹄无情</item>
+    <item>寒冰法师们呢？准备好你们的法杖吧！</item>
+  </string-array>
+  <string-array name="str_task96">
+    <item>易如反掌</item>
+    <item>卡尔打晕了吧，竟然派来这么多送死的部队？！</item>
+  </string-array>
+  <string-array name="str_task97">
+    <item>折戟沉沙</item>
+    <item>我能想象到一会儿尸横遍野的惨状！</item>
+  </string-array>
+  <string-array name="str_task98">
+    <item>摧毁烂嘴卡尔</item>
+    <item>终于，到了说再见的时候了，让我们都像男人一样，在哪里开始就在哪里结束。</item>
+  </string-array>
+  <string-array name="str_task101">
+    <item>杰克的偷袭</item>
+    <item>海盗杰克来偷袭城堡了，他很善于打游击战！</item>
+  </string-array>
+  <string-array name="str_task102">
+    <item>野战突击队</item>
+    <item>把周围游荡的部队都消灭干净吧，这样能更好的保证国家的发展。</item>
+  </string-array>
+  <string-array name="str_task103">
+    <item>艰难前行</item>
+    <item>前进的道路是漫长曲折的，但是我们的信心百倍。</item>
+  </string-array>
+  <string-array name="str_task104">
+    <item>曙光再现</item>
+    <item>近战部队在前，远程部队垫后是基本布阵策略。</item>
+  </string-array>
+  <string-array name="str_task105">
+    <item>勇往无前</item>
+    <item>在实战中才能得到更多的经验。</item>
+  </string-array>
+  <string-array name="str_task106">
+    <item>巫毒之歌</item>
+    <item>使用萨满来为部队加速吧，这样就能无坚不摧了！</item>
+  </string-array>
+  <string-array name="str_task107">
+    <item>骑士无敌</item>
+    <item>有了这些快如闪电的部队，我们攻城略地就像探囊取物啦！</item>
+  </string-array>
+  <string-array name="str_task108">
+    <item>铁蹄扬尘</item>
+    <item>吹起我们进攻的号角，战场只是我们的游乐园！</item>
+  </string-array>
+  <string-array name="str_task112">
+    <item>招募：天使降临</item>
+    <item>要攻打烂嘴卡尔的堡垒就需要强大的军队，让天使降临吧！升级魔法大师圣殿到4级吧。</item>
+  </string-array>
+  <string-array name="str_task113">
+    <item>招募：疯狂电锯</item>
+    <item>这些铁甲巨人将会成为我们前进道路上披荆斩棘的利刃！</item>
+  </string-array>
+  <string-array name="str_task116">
+    <item>蓝皮风暴</item>
+    <item>这么多的蓝皮巨魔？快使用魔法来破坏敌阵！</item>
+  </string-array>
+  <string-array name="str_task117">
+    <item>英雄的力量</item>
+    <item>你刚才欺负了流浪兵团的小弟，他们带着新敌人来报仇啦！</item>
+  </string-array>
+  <string-array name="str_task118">
+    <item>战术运用</item>
+    <item>敌人虽多，但是咱们只要集中火力杀出一条血路就能直接摧毁他们的城堡！</item>
+  </string-array>
+  <string-array name="str_task119">
+    <item>斥候部队</item>
+    <item>看样子烂嘴卡尔派人来侦察咱们的实力了！</item>
+  </string-array>
+  <string-array name="str_task120">
+    <item>痛击!</item>
+    <item>别小看我们的实力，给他们点颜色看看！</item>
+  </string-array>
+  <string-array name="str_task121">
+    <item>小试牛刀</item>
+    <item>要是有这些精灵的帮助，让我们来杀杀敌人的锐气！</item>
+  </string-array>
+  <string-array name="str_task122">
+    <item>阵型！阵型！</item>
+    <item>一定要记住，近战部队更强壮，应该放在阵型靠前的位置。</item>
+  </string-array>
+  <string-array name="str_task123">
+    <item>指挥若定</item>
+    <item>在战场上一定要冷静，在必要的时候释放魔法，不要浪费英雄的魔力！</item>
+  </string-array>
+  <string-array name="str_task125">
+    <item>保护法师！</item>
+    <item>牧师是很弱小的单位，一定要放到队伍的后排，他们可没有铁盔铁甲。</item>
+  </string-array>
+  <string-array name="str_task126">
+    <item>新敌人来犯！萨满？</item>
+    <item>这些绿皮的家伙们在那蹦蹦跳跳干啥呢？难道是传说中的萨满法师！</item>
+  </string-array>
+  <string-array name="str_task127">
+    <item>嗜血术？！</item>
+    <item>敌人的速度变得很快？这都是因为他们的萨满能使用诡异的魔法！</item>
+  </string-array>
+  <string-array name="str_task128">
+    <item>夏日风暴</item>
+    <item>奇怪，刚才我还在嚼冰棍，怎么就下起雪来了？</item>
+  </string-array>
+  <string-array name="str_task129">
+    <item>寒冰融化</item>
+    <item>精灵射手能很好的克制这些寒冰法师，要不你试试？</item>
+  </string-array>
+  <string-array name="str_task130">
+    <item>留名千古吧！</item>
+    <item>您第一次保卫了帝国, 您的威名将流芳百世！能告诉我您的大名吗？</item>
+  </string-array>
+  <string-array name="str_task131">
+    <item>城堡布防</item>
+    <item>点击你的城堡，在弹出的按钮中选择布防，将你的部队布置在城堡前方，只要别人敢来欺负你,他们就会自动保卫城堡！</item>
+  </string-array>
+  <string-array name="str_task132">
+    <item>招募：快手忍者</item>
+    <item>听说从东面来了一群神秘的部队，他们使用奇怪的武器还蒙着脸。升级射手营地到3级就可以招募他们了。</item>
+  </string-array>
+  <string-array name="str_task133">
+    <item>蒙面大盗</item>
+    <item>哎呦！这些烦人的飞镖太讨厌了，快点来人干掉这些忍者吧！</item>
+  </string-array>
+  <string-array name="str_task134">
+    <item>僵尸入侵！</item>
+    <item>死去的战士变成了僵尸，还好我们有足够的弓箭手。</item>
+  </string-array>
+  <string-array name="str_task135">
+    <item>城堡大战僵尸</item>
+    <item>守卫城堡，干掉僵尸大军！</item>
+  </string-array>
+  <string-array name="str_task136">
+    <item>精灵风暴</item>
+    <item>强弓重弩?碧眼金发?这些飘逸的敌人是谁?</item>
+  </string-array>
+  <string-array name="str_task137">
+    <item>忍者风暴</item>
+    <item>嗖!嗖！好险啊，要不是我躲得快，耳朵就掉了！</item>
+  </string-array>
+  <string-array name="str_task139">
+    <item>建牢笼,抓奴隶!</item>
+    <item>打开建造按钮,修建一座牢笼,你就可以攻占别的玩家并抓来做奴隶给你打工啦!</item>
+  </string-array>
+  <string-array name="str_task141">
+    <item>修建：靶场营地</item>
+    <item>修建一个靶场营地,就可以招募这些喜欢住在树屋上的精灵们了。</item>
+  </string-array>
+  <string-array name="str_task142">
+    <item>修建：魔法学徒书馆</item>
+    <item>想成为一名巫师？那先要饱读经书！</item>
+  </string-array>
+  <string-array name="str_task144">
+    <item>修建：马厩</item>
+    <item>我喜欢骑兵，但是饲养这些四条腿的家伙们太累人了！</item>
+  </string-array>
+  <string-array name="str_task145">
+    <item>修建：魔法大师圣殿</item>
+    <item>看到这些高耸入云的书架我都晕倒了， 估计能读完这些书的人最后都变成白胡子老大爷了！</item>
+  </string-array>
+  <string-array name="str_task146">
+    <item>修建：机械试验室</item>
+    <item>叮叮当当！几点了？这些地精工作狂们就没有闲下来的一天么？</item>
+  </string-array>
+  <string-array name="str_task147">
+    <item>扩大版图1</item>
+    <item>想要成为帝国，就必须拥有开拓精神。那咱们就填海扩地吧！点击场景里转动的风车,花费一点钱就可以完成该任务。</item>
+  </string-array>
+  <string-array name="str_task148">
+    <item>报告！发现大金矿！</item>
+    <item>点击锤子图标，进入建造面板，选择金矿并修建它，就可以开掘黄金啦！</item>
+  </string-array>
+  <string-array name="str_task149">
+    <item>报告！发现水晶！</item>
+    <item>点击锤子图标，进入建造面板，选择水晶矿并修建它，就可以开掘水晶啦！</item>
+  </string-array>
+  <string-array name="str_task150">
+    <item>开掘珍惜资源</item>
+    <item>这些蓝色的晶体中蕴藏着魔法的力量，轻拿轻放！</item>
+  </string-array>
+  <string-array name="str_task152">
+    <item>SOS!英雄出动吧！</item>
+    <item>看到朋友处于危难之中怎么能不出手相助呢？当看到SOS图标点击好友城堡就可以帮好友赶跑敌人啦！</item>
+  </string-array>
+  <string-array name="str_task153">
+    <item>来啊，看看谁怕谁啊？</item>
+    <item>点击屏幕左边的盾牌图标，选择一个对手，你就可以和他得部队开战了！累计训练场积分就可以榜上有名，威震世界哦！</item>
+  </string-array>
+  <string-array name="str_task154">
+    <item>顺手牵羊不为偷</item>
+    <item>看到好友的资源心痒痒吧？既然来了就别客气了。</item>
+  </string-array>
+  <string-array name="str_task155">
+    <item>招募：钢弹铁轮</item>
+    <item>见识过它的人们给出这么一个评价：远程攻击的利器，杀人放火的佳品！</item>
+  </string-array>
+  <string-array name="str_task157">
+    <item>绝世凶器</item>
+    <item>地精秘传的机械铸造术重现人世，如噩梦般笼罩战场！凶残暴虐，势不可挡！</item>
+  </string-array>
+  <string-array name="str_task158">
+    <item>天降之怒</item>
+    <item>敌人的利箭藏匿在钢铁弹幕之中，收割着战士们的生命。</item>
+  </string-array>
+  <string-array name="str_task159">
+    <item>钢铁意志</item>
+    <item>铁骑冲锋，钢弹助阵。所到之处，皆是一片哀嚎！</item>
+  </string-array>
+  <string-array name="str_task160">
+    <item>钢铁咆哮</item>
+    <item>钢铁组合强势回归，势必再次掀起一场腥风血雨！</item>
+  </string-array>
+  <string-array name="str_task161">
+    <item>流星雨</item>
+    <item>许个愿吧！什么？愿望是活下去？这个真的很难……</item>
+  </string-array>
+  <string-array name="str_task162">
+    <item>巨人战队</item>
+    <item>高大的机甲混编强力魔法武装，巨人战队蓄势待发</item>
+  </string-array>
+  <string-array name="str_task163">
+    <item>地精的决心</item>
+    <item>杰克招募的地精兵团踏入战场，高科技兵种优势立显。</item>
+  </string-array>
+  <string-array name="str_task165">
+    <item>烂嘴的激励</item>
+    <item>卡尔身先士卒，率领自己的战士驻守在关隘之前，等待着敌人的到来！</item>
+  </string-array>
+  <string-array name="str_task166">
+    <item>杰克的杀意</item>
+    <item>曾经未尝一败的杰克在连番失利的情况下，心中的愤怒化作一股难以掌控的杀意，满是对鲜血的渴望。</item>
+  </string-array>
+  <string-array name="str_task167">
+    <item>魔女的迷雾</item>
+    <item>敌人的乱军之中总是闪现着一个陌生的身影，她到底是谁？？</item>
+  </string-array>
+  <string-array name="str_task168">
+    <item>战争的智慧</item>
+    <item>身经百战的英雄们用自己的方式告诉世人什么才是真正的战争之道。</item>
+  </string-array>
+  <string-array name="str_task169">
+    <item>改变签名！</item>
+    <item>点击主界面左上角的玩家头像图标，就可以打开用户信息面板。点击签名框就可以输入个性签名了，比如：请别偷我啊！在这里你还可以重置账户以及更换头像或密码。</item>
+  </string-array>
+  <string-array name="str_task170">
+    <item>武装我的英雄！</item>
+    <item>点击场景中金光闪闪的英雄石像，点击查看按钮，打开英雄面板，将得到的装备拖拽到英雄装备栏。看到了吗？你的英雄变帅了！</item>
+  </string-array>
+  <string-array name="str_task171">
+    <item>首次出征！</item>
+    <item>有了牢笼就可以抓奴隶了。点击场景中建好的牢笼，选择 一个倒霉的家伙，果断派出你的部队吧！</item>
+  </string-array>
+  <string-array name="str_task187">
+    <item>共患难</item>
+    <item>为朋友两肋插刀，在所不辞</item>
+  </string-array>
+  <string-array name="str_task188">
+    <item>共图大业</item>
+    <item>我相信这次一定可以搞定对手！</item>
+  </string-array>
+  <string-array name="str_task189">
+    <item>同富贵</item>
+    <item>帮人就是帮自己，对吧。</item>
+  </string-array>
+  <string-array name="str_task190">
+    <item>小小运输队</item>
+    <item>想运多少就运多少，再也不用担心没有黄金和水晶了！</item>
+  </string-array>
+  <string-array name="str_task191">
+    <item>暗藏伏兵</item>
+    <item>城堡的防御的力量再次得到提升了</item>
+  </string-array>
+  <string-array name="str_task192">
+    <item>强力支援</item>
+    <item>想要健康成长，没有保护是不行的。点击附城，选择布阵。在布阵界面中点击屏幕右侧的部队切换按钮，你就会发现主城的强力部队了！</item>
+  </string-array>
+  <string-array name="str_task193">
+    <item>齐心协力</item>
+    <item>团结一心，无往不利！</item>
+  </string-array>
+  <string-array name="str_task194">
+    <item>修建：时空门</item>
+    <item>魔法与科技的完美融合，时间与空间的交互重叠。</item>
+  </string-array>
+  <string-array name="str_task195">
+    <item>假面军团</item>
+    <item>新的势力正在崛起，神秘兵团首先行藏。</item>
+  </string-array>
+  <string-array name="str_task196">
+    <item>假面首领祖斯特</item>
+    <item>一袭黑衣的死神迎着血光露出淡淡的笑容，祖斯特出现！</item>
+  </string-array>
+  <string-array name="str_task197">
+    <item>黑衣皇家卫队</item>
+    <item>黑压压的一大片，这是在拍黑帮电影吗？</item>
+  </string-array>
+  <string-array name="str_task198">
+    <item>杰克归来？！</item>
+    <item>真的是杰克吗？他不是已经……</item>
+  </string-array>
+  <string-array name="str_task199">
+    <item>灵魂傀儡</item>
+    <item>即便就是杰克和卡尔活着的时候，一样是我们的手下败将！</item>
+  </string-array>
+  <string-array name="str_task200">
+    <item>灵魂升温</item>
+    <item>傀儡已经进化到第二形态了，还真是快呀！</item>
+  </string-array>
+  <string-array name="str_task201">
+    <item>灵魂乱舞</item>
+    <item>邪恶的力量粉碎了战灵身上最后的枷锁，巅峰的战意瞬间爆发！</item>
+  </string-array>
+  <string-array name="str_task202">
+    <item>娇艳的灵魂</item>
+    <item>卡尔和杰克之后是谁，你猜到了吗？</item>
+  </string-array>
+  <string-array name="str_task203">
+    <item>完全体的恐怖</item>
+    <item>潘多拉的完全形态，噩梦重温！</item>
+  </string-array>
+  <string-array name="str_task204">
+    <item>城堡布防</item>
+    <item>新的城堡，一切都要重新适应。安全第一，就从布防开始吧……</item>
+  </string-array>
+  <string-array name="str_task205">
+    <item>修建：步兵营地</item>
+    <item>初到附城，当务之急，是要武装自己，护卫城堡。第一步，当然是修建兵营了！</item>
+  </string-array>
+  <string-array name="str_task206">
+    <item>斗魂重燃</item>
+    <item>不错不错，看看附城训练场里的对手和主城的有什么不同！</item>
+  </string-array>
+  <string-array name="str_task207">
+    <item>异域藏金</item>
+    <item>什么，发现金矿？看来选择这里当附城真是赚到了！</item>
+  </string-array>
+  <string-array name="str_task208">
+    <item>修建：铁匠铺</item>
+    <item>叮叮当当！听起来倒是挺热闹！</item>
+  </string-array>
+  <string-array name="str_task209">
+    <item>升级短脚步兵</item>
+    <item>快点集合了！全员准备，集体换装。点击铁匠铺，选择查看，再按一下升级按钮。如果你的资源足够，就果断的开始吧！</item>
+  </string-array>
+  <string-array name="str_task210">
+    <item>修建：风神殿</item>
+    <item>我们的口号是：更快、更远、更准确！</item>
+  </string-array>
+  <string-array name="str_task211">
+    <item>升级精灵射手</item>
+    <item>按照“风神殿、查看、升级、开始升级”的顺序点击屏幕，你就可以拥有高阶的精灵射手了。不过除了这些弓箭，还真不知道他们喜欢什么……</item>
+  </string-array>
+  <string-array name="str_task212">
+    <item>升级铁匠铺</item>
+    <item>哦？添置了新的设备，比之前看起来专业多了！</item>
+  </string-array>
+  <string-array name="str_task213">
+    <item>升级蓝皮巨魔</item>
+    <item>有变化吗？为什么皮肤看起来还是蓝色的？</item>
+  </string-array>
+  <string-array name="str_task214">
+    <item>升级短脚步兵</item>
+    <item>呵呵呵呵……再上战场的话，一定会让敌人大跌眼镜的！</item>
+  </string-array>
+  <string-array name="str_task215">
+    <item>升级风神殿</item>
+    <item>其实再向武器内注入一点风元素也没什么，最多就是再快点嘛！</item>
+  </string-array>
+  <string-array name="str_task216">
+    <item>升级快手忍者</item>
+    <item>也许你看不见，但是风就在我的手里。</item>
+  </string-array>
+  <string-array name="str_task217">
+    <item>升级精灵射手</item>
+    <item>当你看到天际突然变得黑压压一片的时候，不要惊慌，那有可能只是一阵箭雨而已。</item>
+  </string-array>
+  <string-array name="str_task218">
+    <item>修建：魔法祭坛</item>
+    <item>学习、进修、啃书本什么的从来都是法师的强项！</item>
+  </string-array>
+  <string-array name="str_task219">
+    <item>升级白袍牧师</item>
+    <item>时间可以治愈一切！我们能做的，就是尽力缩短这段时间。</item>
+  </string-array>
+  <string-array name="str_task220">
+    <item>升级铁匠铺</item>
+    <item>让钢与铁的撞击来的更猛烈些吧！</item>
+  </string-array>
+  <string-array name="str_task221">
+    <item>升级铁面游侠</item>
+    <item>当我们的铁蹄再次踏上这片国土之时，大地必将为之震动！</item>
+  </string-array>
+  <string-array name="str_task222">
+    <item>升级短脚步兵</item>
+    <item>原来力量的滋味是这样的美妙呀……</item>
+  </string-array>
+  <string-array name="str_task223">
+    <item>升级魔法祭坛</item>
+    <item>当魔法已经变成一种艺术的时候，带给人们的恐怖就难以用语言去形容了。</item>
+  </string-array>
+  <string-array name="str_task224">
+    <item>升级寒冰法师</item>
+    <item>让柔弱的水变成坚硬的冰是一份很有成就感的工作。</item>
+  </string-array>
+  <string-array name="str_task225">
+    <item>升级风神殿</item>
+    <item>敌人还没有看到我们在哪的时候，就已经身首异处了！</item>
+  </string-array>
+  <string-array name="str_task226">
+    <item>升级双斧狼骑</item>
+    <item>我感觉到体内的血液在沸腾，一定是先祖赐予我新的力量！</item>
+  </string-array>
+  <string-array name="str_task227">
+    <item>升级魔法祭坛</item>
+    <item>通向魔法大师的道路上，还是有一些捷径可寻的。</item>
+  </string-array>
+  <string-array name="str_task228">
+    <item>升级顽皮萨满</item>
+    <item>你想变得更快？我想我有办法帮助你！</item>
+  </string-array>
+  <string-array name="str_task229">
+    <item>新武器</item>
+    <item>你有信心战胜配备了全新武器的短脚步兵团吗？</item>
+  </string-array>
+  <string-array name="str_task230">
+    <item>魔法箭士</item>
+    <item>小心，对方精灵射手的箭上附了攻击型魔法！</item>
+  </string-array>
+  <string-array name="str_task231">
+    <item>枪道高手</item>
+    <item>换了杆长枪我一样认识你！</item>
+  </string-array>
+  <string-array name="str_task232">
+    <item>破风手里剑</item>
+    <item>没有人可以快过我的手里剑，绝对没有！</item>
+  </string-array>
+  <string-array name="str_task233">
+    <item>颤抖的大地</item>
+    <item>刚刚完成训练的高阶骑兵飞驰而过，土木砂石为之跃动。</item>
+  </string-array>
+  <string-array name="str_task234">
+    <item>冰封浩劫</item>
+    <item>沉睡在天地间的冰精灵呀，听我召唤，凝结一体。冰封浩劫！</item>
+  </string-array>
+  <string-array name="str_task235">
+    <item>凶兽现世</item>
+    <item>狼族崛起，望月啸天！</item>
+  </string-array>
+  <string-array name="str_task236">
+    <item>尸海巨轮</item>
+    <item>铁轮过境，血雨腥风，尸积如海。</item>
+  </string-array>
+  <string-array name="str_task237">
+    <item>双翼遮天</item>
+    <item>神圣的大天使张开双翼，将愤怒与仇恨倾注到这雷霆一击之中！</item>
+  </string-array>
+  <string-array name="str_task238">
+    <item>另一个驾驶员</item>
+    <item>高端的战斗机甲自然会由更高明的驾驶员来操作了。</item>
+  </string-array>
+  <string-array name="str_task239">
+    <item>难缠的对手</item>
+    <item>不是吧，高阶牧师？！看来想要消灭敌人没有那么容易了！</item>
+  </string-array>
+  <string-array name="str_task240">
+    <item>急速之王</item>
+    <item>他们不是战士，但是当他们出现在战场上的时候，绝对比战士更可怕！</item>
+  </string-array>
+  <string-array name="str_task241">
+    <item>舞动的元素精灵</item>
+    <item>战争一直在变，但是元素精灵强大的力量是不变的！</item>
+  </string-array>
+  <string-array name="str_task242">
+    <item>骑士的骄傲</item>
+    <item>胜利是骑士唯一的信念！</item>
+  </string-array>
+  <string-array name="str_task243">
+    <item>来自云端的突袭</item>
+    <item>自下而上，自上而下。这些收割生命的利器从未停歇过。</item>
+  </string-array>
+  <string-array name="str_task244">
+    <item>圣眷之力</item>
+    <item>信仰不灭，圣力不熄！</item>
+  </string-array>
+  <string-array name="str_task245">
+    <item>钢铁城墙</item>
+    <item>以钢铁之躯构筑不倒之城，敌人难进寸步。</item>
+  </string-array>
+  <string-array name="str_task246">
+    <item>武力全开</item>
+    <item>敌人全力输出，实力不容小觑。</item>
+  </string-array>
+  <string-array name="str_task247">
+    <item>枪王之王</item>
+    <item>可攻可守，枪之王者。</item>
+  </string-array>
+  <string-array name="str_task248">
+    <item>圣魔之光</item>
+    <item>魔法的光芒闪耀，可以救人也可以杀人。</item>
+  </string-array>
+  <string-array name="str_task249">
+    <item>住有所居</item>
+    <item>点击锤子图标，找到红房子。想要增加人口上限，这是最直接的途径。</item>
+  </string-array>
+  <string-array name="str_task250">
+    <item>驱除强盗</item>
+    <item>城边的格兰村一直受到强盗的骚扰，村长向我们发出了请求，希望能将强盗赶走。</item>
+  </string-array>
+  <string-array name="str_task251">
+    <item>错愕</item>
+    <item>讨伐过程中，发现强盗中很多是原帝国的子民，一定要调查一下这个原因。</item>
+  </string-array>
+  <string-array name="str_task252">
+    <item>帝国的流民</item>
+    <item>原来在拉里的暴行下，这些百姓走投无路，只得出来落草为寇。打到大本营，与他们的头领谈谈。</item>
+  </string-array>
+  <string-array name="str_task253">
+    <item>踏上征途</item>
+    <item>击败他们的头领，证明你的实力。他们愿意随你一起讨伐拉里。</item>
+  </string-array>
+  <string-array name="str_task254">
+    <item>拉里的部队</item>
+    <item>有人发现，铁木林中驻扎一支拉里的部队，去探查一下。</item>
+  </string-array>
+  <string-array name="str_task255">
+    <item>收集装备</item>
+    <item>他们的部队里的资源真是丰富,抢一个技能碎片出来.</item>
+  </string-array>
+  <string-array name="str_task256">
+    <item>暴君的杀戮</item>
+    <item>他们居然在这里屠杀无辜的人！必须阻止他们！</item>
+  </string-array>
+  <string-array name="str_task257">
+    <item>调查原因</item>
+    <item>白水河爆发了奇怪的传染病，但拉里的部队却没受到影响，其中必有蹊跷。</item>
+  </string-array>
+  <string-array name="str_task258">
+    <item>鬼鬼祟祟的部队</item>
+    <item>真的是拉里的部队在捣鬼。但他们在做什么？去查看一下。</item>
+  </string-array>
+  <string-array name="str_task259">
+    <item>灵魂献祭</item>
+    <item>竟然是邪恶的祭祀仪式！用人的灵魂献祭，拉里在和什么势力合作？一定要阻止他的阴谋！</item>
+  </string-array>
+  <string-array name="str_task260">
+    <item>魔物巨猿</item>
+    <item>白水河居然驻扎着魔物！击败他，不能让他逃到其它地方。</item>
+  </string-array>
+  <string-array name="str_task261">
+    <item>清理白水河</item>
+    <item>白水河还有一些小部队，一定要把它们消灭干净。</item>
+  </string-array>
+  <string-array name="str_task262">
+    <item>目标：不冻港！</item>
+    <item>不冻港是帝国的第一大港口，控制了不冻港，就可以阻断帝国资源的补给。首先打开不冻港的外围防御。</item>
+  </string-array>
+  <string-array name="str_task263">
+    <item>攻入控制地</item>
+    <item>不冻港的城墙守卫装备精良，实力不俗，击败他们就可以进攻到控制地了。</item>
+  </string-array>
+  <string-array name="str_task264">
+    <item>占领不冻港</item>
+    <item>占领港口控制室，这里似乎有没见过的角色出现。</item>
+  </string-array>
+  <string-array name="str_task265">
+    <item>保护胜利果实</item>
+    <item>清理一下周边的剩余敌军，保证不冻港的安全。</item>
+  </string-array>
+  <string-array name="str_task266">
+    <item>诡异的洛枫大道</item>
+    <item>洛枫大道一片死气沉沉，不知道拉里在这里做什么，快去探查一番。</item>
+  </string-array>
+  <string-array name="str_task267">
+    <item>为何不应战？</item>
+    <item>洛枫大道每个要塞的守卫都坚守不出，这不符合他们的一贯策略，也许是想保护些什么。一定要打入洛枫大道内部。</item>
+  </string-array>
+  <string-array name="str_task268">
+    <item>找到瘟疫的源头</item>
+    <item>原来这里就是瘟疫的源头！破坏祭祀，抓住巫师，就能知道拉里究竟想要做些什么。</item>
+  </string-array>
+  <string-array name="str_task269">
+    <item>坚守阵地</item>
+    <item>敌方派出多股小部队，试图破坏我们在洛枫大道的布防。必须要阻止他们！</item>
+  </string-array>
+  <string-array name="str_task270">
+    <item>巫师的余党</item>
+    <item>还有效忠巫师的人在试图恢复祭祀，让他们邪恶的教义和他们一起受到惩罚吧！</item>
+  </string-array>
+  <string-array name="str_task271">
+    <item>再回暮雪城</item>
+    <item>终于回到了暮雪城，如此熟悉的地方。速度拔掉他们的前哨，奇袭城堡。</item>
+  </string-array>
+  <string-array name="str_task272">
+    <item>反目成仇</item>
+    <item>兵临城下，威廉的旧部出来应战。既然他已经效忠拉里，那么只能在战场上决一胜负了。</item>
+  </string-array>
+  <string-array name="str_task273">
+    <item>潘多拉！</item>
+    <item>拉里放出了潘多拉！真是愚蠢！打败潘多拉放出的魔兵，不能让他们跑到暮雪城以外去！</item>
+  </string-array>
+  <string-array name="str_task274">
+    <item>清理魔兵</item>
+    <item>潘多拉放出了很多魔兵，将他们全部清除掉。</item>
+  </string-array>
+  <string-array name="str_task275">
+    <item>追击潘多拉</item>
+    <item>追寻潘多拉到了百叶泉，她在入口处留下了一支部队试图阻止我们前进，消灭它。</item>
+  </string-array>
+  <string-array name="str_task276">
+    <item>潘多拉的魔法</item>
+    <item>潘多拉的魔军越来越强，看来必须要尽快打败她才可以。</item>
+  </string-array>
+  <string-array name="str_task277">
+    <item>强大的魔军</item>
+    <item>潘多拉留下了两只魔狼，打败他们后继续追赶潘多拉。</item>
+  </string-array>
+  <string-array name="str_task278">
+    <item>削弱她的实力</item>
+    <item>击败潘多拉的后援部队，要尽量削弱她的实力。</item>
+  </string-array>
+  <string-array name="str_task279">
+    <item>火溪谷的追击</item>
+    <item>潘多拉竟然派副官守在这里，看来是想阻止我们进入火溪谷。邪恶所不想被打扰的事情，必定是邪恶中的邪恶！击败副官，不能让潘多拉得逞！</item>
+  </string-array>
+  <string-array name="str_task280">
+    <item>继续追击</item>
+    <item>发现了潘多拉的踪迹，尽快打败前面的部队，追过去吧。</item>
+  </string-array>
+  <string-array name="str_task281">
+    <item>魔法士兵</item>
+    <item>潘多拉释放魔法召唤了更多的魔兵，她在拖延时间。不管她的目的是什么，必须要打败眼前的魔军。</item>
+  </string-array>
+  <string-array name="str_task282">
+    <item>阻止通道打开！</item>
+    <item>潘多拉正在打开魔界的通道！打败她的部队，不能让通道打开！</item>
+  </string-array>
+  <string-array name="str_task283">
+    <item>炎热的火溪谷</item>
+    <item>通道虽然被关闭了，但关闭前还是有很多魔物来到了人间。让他们的头颅融化在火溪谷！</item>
+  </string-array>
+  <string-array name="str_task284">
+    <item>调查黑雪山</item>
+    <item>好在及时的关闭了通道，但似乎在黑雪山上有东西出现，去探查一下。</item>
+  </string-array>
+  <string-array name="str_task285">
+    <item>魔龙降临</item>
+    <item>虽然阻止了魔神的降临，但可怕的魔龙还是来到了这里。击败旁边的小部队，尽快的赶过去。</item>
+  </string-array>
+  <string-array name="str_task286">
+    <item>争分夺秒</item>
+    <item>魔焰滔天！拖的越久，灾难就越大。不要恋战，尽快消灭黑雪山上的魔军，一路冲到魔龙跟前吧！</item>
+  </string-array>
+  <string-array name="str_task287">
+    <item>决战前夕</item>
+    <item>离雪封崖很近了，已经能看到魔龙庞大的身躯！不能让魔龙再次打开魔界通道。一鼓作气杀过去，跟魔龙作最后的决战吧。</item>
+  </string-array>
+  <string-array name="str_task288">
+    <item>突围</item>
+    <item>虽然已经非常疲惫，但是时间不多，突破第一圈守卫，向巢穴的腹地进攻。</item>
+  </string-array>
+  <string-array name="str_task289">
+    <item>趁他病要他命！</item>
+    <item>刚降临到人间的魔龙还很虚弱，一定要在力量恢复前赶到，否则谁也无法阻止他的觉醒。</item>
+  </string-array>
+  <string-array name="str_task290">
+    <item>无尽的战斗</item>
+    <item>魔龙在不停的制造魔军，以此来拖延时间。但也不能让这些魔兵离开雪封崖！</item>
+  </string-array>
+  <string-array name="str_task291">
+    <item>继续无尽的战斗</item>
+    <item>魔军的数量太恐怖了。不打败魔龙魔兵还会继续出现，直接杀入魔龙的宫殿吧！</item>
+  </string-array>
+  <string-array name="str_task292">
+    <item>对决！人魔之战！</item>
+    <item>在它的力量还没有完全恢复前，将宝剑插入魔龙的胸口，结束它邪恶的生命吧！</item>
+  </string-array>
+  <string-array name="str_task293">
+    <item>修建：研究所</item>
+    <item>在这里工作的人都很奇怪，一天到晚念叨着产量、速度之类的东西……</item>
+  </string-array>
+  <string-array name="str_task294">
+    <item>修建仓库</item>
+    <item>防止邪恶势力过来掠夺资源，我们需要建造一个仓库。仓库可以用来存放一些资源，防止被抢夺。</item>
+  </string-array>
+  <string-array name="str_task295">
+    <item>仓库升级</item>
+    <item>仓库升级之后，容量会获得提升，能更大限度的保护资源。请将仓库升到2级吧。</item>
+  </string-array>
+  <string-array name="str_task296">
+    <item>修建：炼金屋</item>
+    <item>想让你的武器盔甲变得光彩夺目吗？炼金屋绝对是你的不二之选!</item>
+  </string-array>
+  <string-array name="str_task297">
+    <item>合成初体验</item>
+    <item>第一次上手，还是从简单的开始吧！</item>
+  </string-array>
+  <string-array name="str_task298">
+    <item>越变越大</item>
+    <item>大了！大了!合成后的宝石真的变大了!</item>
+  </string-array>
+  <string-array name="str_task299">
+    <item>另一块宝石</item>
+    <item>如果成功了,别人就再也看不出它曾经的样子了!</item>
+  </string-array>
+  <string-array name="str_task300">
+    <item>更多的黄金</item>
+    <item>一个小时的黄金产量就能增加这么多，那么一百个小时的话……</item>
+  </string-array>
+  <string-array name="str_task301">
+    <item>瞬间移动？！</item>
+    <item>我闪、我闪、我再闪！</item>
+  </string-array>
+  <string-array name="str_task302">
+    <item>加固城墙</item>
+    <item>城墙越坚固，守起来才越安心！</item>
+  </string-array>
+  <string-array name="str_task303">
+    <item>灵光初现</item>
+    <item>只要把宝石镶嵌到战具上，就会有光发出哦！</item>
+  </string-array>
+  <string-array name="str_task304">
+    <item>社交第一步</item>
+    <item>加个好友，相互拜访一下，社交圈的新贵就此诞生了!</item>
+  </string-array>
+  <string-array name="str_task305">
+    <item>赏金斗士1</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task306">
+    <item>建造大使馆</item>
+    <item>建立帝国和联盟间的羁绊,从此不再是一个人战斗!</item>
+  </string-array>
+  <string-array name="str_task307">
+    <item>帝国号起航</item>
+    <item>财富！名声！权力！帝国号统统可以帮你实现。也许你可以上船试试自己的运气……</item>
+  </string-array>
+  <string-array name="str_task308">
+    <item>升级步兵营地</item>
+    <item>选择步兵营地，点击升级按钮，然后在招募面板里你就可以招募新人了!</item>
+  </string-array>
+  <string-array name="str_task309">
+    <item>联盟新势力</item>
+    <item>团结志同道合的伙伴，建立真正强大的联盟！</item>
+  </string-array>
+  <string-array name="str_task310">
+    <item>时间魔法</item>
+    <item>除了魔酒之外,魔法师发明的沙漏也能让时间飞速前进哟！</item>
+  </string-array>
+  <string-array name="str_task311">
+    <item>赏金斗士2</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!!</item>
+  </string-array>
+  <string-array name="str_task312">
+    <item>赏金斗士3</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task313">
+    <item>赏金斗士4</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!!</item>
+  </string-array>
+  <string-array name="str_task314">
+    <item>赏金斗士5</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task315">
+    <item>赏金斗士6</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!!</item>
+  </string-array>
+  <string-array name="str_task316">
+    <item>赏金斗士7</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task317">
+    <item>赏金斗士8</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task318">
+    <item>赏金斗士9</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task319">
+    <item>赏金斗士10</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task320">
+    <item>赏金斗士11</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!!</item>
+  </string-array>
+  <string-array name="str_task321">
+    <item>赏金斗士12</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!!</item>
+  </string-array>
+  <string-array name="str_task322">
+    <item>赏金斗士13</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!</item>
+  </string-array>
+  <string-array name="str_task323">
+    <item>赏金斗士14</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!!</item>
+  </string-array>
+  <string-array name="str_task324">
+    <item>赏金斗士15</item>
+    <item>进行训练,老骆驼课堂,实战演练,战争的胜利一定不能缺少平时的积累!!</item>
+  </string-array>
+  <string-array name="str_task325">
+    <item>顺手牵羊不为偷</item>
+    <item>看到好友的士兵心痒痒吧？既然来了就别客气了。</item>
+  </string-array>
+  <string-array name="str_task326">
+    <item>越快越好</item>
+    <item>不想把时间浪费在等待上？点击建筑，选择加速吧！</item>
+  </string-array>
+  <string-array name="str_task327">
+    <item>民心所向</item>
+    <item>慕名来投的居民越来越多，还是多造一些红房子吧。</item>
+  </string-array>
+  <string-array name="str_task328">
+    <item>急速扩军</item>
+    <item>我们需要尽快招募更多的士兵！也许增加步兵营地的数量是个不错的选择。</item>
+  </string-array>
+  <string-array name="str_task329">
+    <item>富饶之城</item>
+    <item>又发现一处金矿，富甲一方的梦想指日可待了！</item>
+  </string-array>
+  <string-array name="str_task330">
+    <item>扩大版图2</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task331">
+    <item>升级靶场营地</item>
+    <item>先升级靶场营地，来自东方的神秘战士随后就到！</item>
+  </string-array>
+  <string-array name="str_task332">
+    <item>加速开采</item>
+    <item>为金矿添加新的设施，每天就可以采集更多黄金了！</item>
+  </string-array>
+  <string-array name="str_task333">
+    <item>升级魔法学徒书馆</item>
+    <item>书馆的藏书又丰富了！</item>
+  </string-array>
+  <string-array name="str_task334">
+    <item>升级魔法学徒书馆</item>
+    <item>新的书馆落成后，就会有大批的寒冰法师来这里担任魔法指导了！</item>
+  </string-array>
+  <string-array name="str_task335">
+    <item>升级马厩</item>
+    <item>新的喂养设备让那些小马驹可以更快的成长。</item>
+  </string-array>
+  <string-array name="str_task336">
+    <item>升级马厩</item>
+    <item>巨狼的后裔们需要更宽敞的地方休憩，之前的马厩已经不行了！</item>
+  </string-array>
+  <string-array name="str_task337">
+    <item>扩大版图3</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task338">
+    <item>扩大版图4</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task339">
+    <item>扩大版图5</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task340">
+    <item>扩大版图6</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task341">
+    <item>扩大版图7</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task342">
+    <item>扩大版图8</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task343">
+    <item>扩大版图9</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task344">
+    <item>扩大版图10</item>
+    <item>属于帝国的土地越来越多了！</item>
+  </string-array>
+  <string-array name="str_task345">
+    <item>英雄之证</item>
+    <item>真正的英雄，在关键时刻能够扭转战局、决定成败。</item>
+    <item>"英雄是核心的战斗力，英雄在合适的位置上，就能发挥更大的作用；
+铁牙怒兽非常强壮，可以在前面扛着；双刃狂徒也是近战型英雄，让他在前面冲锋陷阵吧；影翼魅魔是远程英雄，记得前面要放兵保护好她。"</item>
+  </string-array>
+  <string-array name="str_task346">
+    <item>近战组合</item>
+    <item>一前一后，攻守有序。</item>
+    <item>"短脚步兵的攻击距离为1，蓝皮巨魔的攻击距离为2；蓝皮巨魔需要放到短脚步兵后面哦！ 
+只需要前排短脚步兵，后排蓝皮巨魔，就可轻松过关。
+温馨提示：把兵拖到屏幕最上方，可以整排快捷布兵。"</item>
+  </string-array>
+  <string-array name="str_task347">
+    <item>远程战法</item>
+    <item>长箭猛地跳出猎弓的臂弯，用力撕扯着空气，向着目标俯冲而去。</item>
+    <item>"我来给你介绍一下精灵射手吧，它的攻击距离为5，适合放在后排；
+先放短脚步兵跟蓝皮巨魔，后面放一排精灵射手试试，一定打的敌人落花流水。"</item>
+  </string-array>
+  <string-array name="str_task348">
+    <item>分裂攻击</item>
+    <item>效率是我们生存的唯一准则！</item>
+    <item>"忍者的手里剑可以同时攻击3个目标，打短脚步兵是很好的选择；
+第一排短脚步兵，第二排蓝皮巨魔，第三排放忍者，可以轻松的消灭对手。"</item>
+  </string-array>
+  <string-array name="str_task349">
+    <item>生命给养者</item>
+    <item>她们吟诵光明，挥舞魔杖，修复着残缺的躯体，抚慰着叹息的灵魂。</item>
+    <item>"有了白袍牧师的辅助，相同的士兵作战能力就完全不一样了。
+我们只需要1排短脚步兵+1排白袍牧师，就可以战胜对手。"</item>
+  </string-array>
+  <string-array name="str_task350">
+    <item>冲阵先锋</item>
+    <item>踏着敌人的尸体，向着胜利的荣耀奋勇前进吧！</item>
+    <item>"骑士是步兵天生的克星，让铁面游侠出来迎战这群短脚步兵吧。
+白袍牧师能够帮助加血，可以派一队牧师跟随在铁面游侠后面进行治疗。"</item>
+  </string-array>
+  <string-array name="str_task351">
+    <item>优势组合</item>
+    <item>面对强大的敌人，充分发挥出每个兵种最大的优势吧！</item>
+    <item>"敌人是强悍的铁面游侠，稍不留神可能就会被敌人消灭。
+可以试试铁面游侠+白袍牧师+精灵射手这3种兵的组合。"</item>
+  </string-array>
+  <string-array name="str_task352">
+    <item>破法之道</item>
+    <item>只要不穿上笨重的金属铠甲，那些只会仍冰块的法师也没什么可怕的……</item>
+    <item>"寒冰法师是魔法攻击，会克制重甲的铁面游侠。蓝皮巨魔和精灵射手是穿刺攻击，正好克制寒冰法师的布甲；
+最前面放一排蓝皮巨魔，后面多放几排精灵射手，拿下寒冰法师不在话下。"</item>
+  </string-array>
+  <string-array name="str_task353">
+    <item>以寡敌众</item>
+    <item>只要找到正确的方法，敌人来的再多也不用害怕！</item>
+    <item>"对手熟悉吗？别着急，老骆驼教你一招，保证你会惊讶的；
+把精灵射手放在第4排，然后后面放一排白袍牧师。开战！下面就是见证奇迹的时刻！"</item>
+  </string-array>
+  <string-array name="str_task354">
+    <item>击败小波部队！</item>
+    <item>流浪军团又来打劫啦！记得派上左下角的英雄，可以助你一臂之力哦！</item>
+    <item>国王陛下，不得不说你是一位出色的战斗指挥，接下来由你独自去面对一些挑战吧，老骆驼会在你需要的时候再次出现。</item>
+  </string-array>
+  <string-array name="str_task356">
+    <item>加速造兵</item>
+    <item>使用魔酒或魔法沙漏，可以加速招募士兵，赶快去加速招募短脚步兵吧！点击步兵营地，选择加速即可。</item>
+  </string-array>
+  <string-array name="str_task357">
+    <item>寻找星银铁</item>
+    <item>击败魔龙后，世界得到了短暂的平静。但魔族通道还没有被关闭，魔族还在准备向人界进发。于是英雄们踏上了找寻关闭通道的圣器——星银铁。(副本封印之路每一关都会掉落符文碎片)</item>
+  </string-array>
+  <string-array name="str_task358">
+    <item>营救</item>
+    <item>在前往碎石营地的路上，听到了有人在呼救。不能坐视不理。(副本封印之路每一关都会掉落符文碎片)</item>
+  </string-array>
+  <string-array name="str_task359">
+    <item>击败石头人</item>
+    <item>众人决定先帮助布洛克拯救村庄。但要去往边缘小镇，还要先解决掉挡在路上的岩石巨人。</item>
+  </string-array>
+  <string-array name="str_task360">
+    <item>向城镇进发</item>
+    <item>镇上的居民已经被魔族抓走了，时间紧迫，所谓擒贼先擒王，要尽快找到他们头目。(副本封印之路每一关都会掉落符文碎片)</item>
+  </string-array>
+  <string-array name="str_task361">
+    <item>堕落之血</item>
+    <item>终于发现了魔族头目藏在城镇大厅，但是完全不知道他的真实面目。城镇大厅周围弥漫的不详的气息，看来一场恶战即将到来。(副本封印之路每一关都会掉落符文碎片)</item>
+  </string-array>
+  <string-array name="str_task362">
+    <item>向导</item>
+    <item>拯救了村庄后，布洛克为了表示感激，愿意成为向导。死水潭遍布陷阱，要提高警惕，击败来犯的所有部队。</item>
+  </string-array>
+  <string-array name="str_task363">
+    <item>死水潭的守护者</item>
+    <item>想要去紫晶矿山取得星银铁，就要通过这片死水潭，但面前的沼龙挡住了唯一的出口，不得不面对这个巨大的毒物了。</item>
+  </string-array>
+  <string-array name="str_task364">
+    <item>星银铁的秘密</item>
+    <item>在布洛克的引导下，顺利的来到了紫晶矿山的内部。在大家讨论如何将星银铁锻造成锁链时，布洛克说出了熔炼星银铁的方法……</item>
+  </string-array>
+  <string-array name="str_task365">
+    <item>蛇发女妖</item>
+    <item>星银铁是紫晶矿山的稀有矿藏，而占领这里的美杜莎看来并不希望和其他人分享。为了封锁魔族通道，只能打败美杜莎。</item>
+  </string-array>
+  <string-array name="str_task366">
+    <item>深入熔岩峡谷</item>
+    <item>没想到被布洛克摆了一道，实在太大意了，好在梦娜留了一手。接下来就要快速找到真红之炎的位置。</item>
+  </string-array>
+  <string-array name="str_task367">
+    <item>混沌法师</item>
+    <item>终于发现了真红之炎的位置，但从魔族的数量来看，他们绝不想我们赶到哪里。或许布洛克也在哪里……</item>
+  </string-array>
+  <string-array name="str_task368">
+    <item>升级红瓦房</item>
+    <item>更大的房子才能为帝国吸引更多的子民!</item>
+  </string-array>
+  <string-array name="str_task369">
+    <item>升级红瓦房</item>
+    <item>改善国民生活品质是没有止境的!强大帝国,从改善人民居住条件开始!</item>
+  </string-array>
+  <string-array name="str_task370">
+    <item>补充军队</item>
+    <item>战斗中消耗大量的士兵,需要在城中不停的补充.</item>
+  </string-array>
+  <string-array name="str_task371">
+    <item>蓝皮教程</item>
+    <item>蓝皮巨魔，2格距离的作战单位，让我们来了解一下他的使用方法吧</item>
+    <item>"蓝皮是一个攻击距离2格的兵种，有着不错的穿刺攻击伤害，但是身板也比较脆弱
+快看你的敌人将蓝皮放到阵型的前方，赶紧消灭他们"</item>
+  </string-array>
+  <string-array name="str_task372">
+    <item>弓箭手教程</item>
+    <item>精灵射手，潇洒又飘逸的精灵，他们可以很精准的打击敌人，重伤布甲单位</item>
+    <item>"精灵射手是一个远程输出单位，有着5格攻击距离的穿刺攻击
+将他放在后排能够补充你队伍的输出"</item>
+  </string-array>
+  <string-array name="str_task373">
+    <item>忍者教程</item>
+    <item>快手忍者，他们的手速非常惊人，可以一次甩出3个飞镖，他们的普通攻击可以有效的打击短脚步兵</item>
+    <item>"忍者是一个4格攻击距离，并且一次能攻击3目标的兵种，普通攻击一直都是步兵的噩梦
+解决掉前排步兵后，后排射手非常脆弱。你应该怎么做了吧"</item>
+  </string-array>
+  <string-array name="str_task374">
+    <item>牧师教程</item>
+    <item>牧师是辅助兵种，她可以为士兵和英雄们恢复生命值</item>
+    <item>白袍牧师是一种辅助单位，她并没有攻击力，但可以治疗你的士兵。牧师本身很脆弱，注意保护好</item>
+  </string-array>
+  <string-array name="str_task375">
+    <item>综合教程</item>
+    <item>来吧！老骆驼的试炼开始了！</item>
+    <item>"展现你的学习成果的时候到了，让你的布阵输出最大化
+按照兵种的攻击距离远近依次排列，尽量让所有兵种同时输出"</item>
+  </string-array>
+  <string-array name="str_task376">
+    <item>铁面游侠教程</item>
+    <item>铁面游侠，他的重型护甲，是普通攻击的克星，铁骑可以轻松的碾压步兵，让我们来感受一下这些铁骑的强大吧！</item>
+    <item>"哈哈哈哈，恭喜你获得了一种新兵种，铁面游侠
+他可以轻松碾碎步兵，普通攻击无法对铁甲造成很高的伤害"</item>
+  </string-array>
+  <string-array name="str_task377">
+    <item>法师教程</item>
+    <item>寒冰法师，强力的法师单位，他们可以将目标冰冻，他的魔法攻击可是铁骑的噩梦</item>
+    <item>"寒冰法师是强大的法师单位，他的魔法攻击可以穿透重甲给重甲单位沉重的打击
+寒冰的法师攻击还带有减速效果"</item>
+  </string-array>
+  <string-array name="str_task378">
+    <item>射手教程2</item>
+    <item>法师果然很强大。那么让我们来解决他们吧</item>
+    <item>快看，那些是高级的法师单位，他们是铁面游侠的噩梦，但是我们也有他们的噩梦，精灵射手。</item>
+  </string-array>
+  <string-array name="str_task379">
+    <item>狼骑教程</item>
+    <item>5个距离的超远输出单位，双斧狼骑！他可以对轻型护甲造成毁灭性的伤害！</item>
+    <item>看看这种战力十足的兽族狼骑，他是一个普通攻击单位，拥有5格的攻击距离，可以对轻甲单位造成毁灭性的伤害</item>
+  </string-array>
+  <string-array name="str_task380">
+    <item>萨满教程</item>
+    <item>顽皮萨满也是一种辅助单位，他可以增加前方士兵的攻击速度，跟着老骆驼一起体验一下吧！</item>
+    <item>萨满是辅助兵种，没有攻击力，但是他可以提高其他单位和英雄的攻击速度</item>
+  </string-array>
+  <string-array name="str_task381">
+    <item>钢弹铁轮教程</item>
+    <item>钢弹铁轮强大的破坏力令人发指。攻击可以依次向后弹射到三个单位，可以有效的打击到后方脆弱的辅助单位</item>
+    <item>"重型单位来啦，钢弹铁轮，攻击会弹射到目标后面的单位
+攻击为穿刺伤害，他可以轻松的对后方的布甲单位造成伤害"</item>
+  </string-array>
+  <string-array name="str_task382">
+    <item>天使教程</item>
+    <item>复仇天使！他的魔法攻击带有溅射效果，溅射目标周围的所有单位。对付重甲部队有非常好的效果</item>
+    <item>复仇天使的溅射伤害可以很好的打击骑士目标周围的单位，当然你也可以用它溅射后排的辅助单位和其他单位</item>
+  </string-array>
+  <string-array name="str_task383">
+    <item>综合教程2</item>
+    <item>是时候展现你自己的布阵实力了！</item>
+    <item>来吧，高级兵种之间的对决，让我来看看你的实力</item>
+  </string-array>
+  <string-array name="str_task384">
+    <item>电锯铁人教程</item>
+    <item>电锯铁人，生存能力强大体现在他的高血量和高护甲上。非常好的肉盾单位</item>
+    <item>机器人来啦，好像很现代的样子，电锯是拥有高护甲高血量的重甲单位，是很好的肉盾，活用他们吧</item>
+  </string-array>
+  <string-array name="str_task385">
+    <item>挑战任务1</item>
+    <item>真正的挑战来了，愿老骆驼与你同在！</item>
+    <item>是时候展现真正的技术了，漂亮的干掉你的敌人!</item>
+  </string-array>
+  <string-array name="str_task386">
+    <item>挑战任务2</item>
+    <item>迎接新的挑战吧！</item>
+  </string-array>
+  <string-array name="str_task387">
+    <item>挑战任务3</item>
+    <item>老骆驼准备的毕业考试！</item>
+  </string-array>
+  <string-array name="str_task388">
+    <item>调整英雄属性</item>
+    <item>在战火中洗礼的英雄会变得更强,但需要你来选择如何成长.前往英雄祭坛调整英雄属性.</item>
+  </string-array>
+  <string-array name="str_task389">
+    <item>撤出布防</item>
+    <item>若进攻时士兵不够用,那么也可以将城堡中防守的士兵调出来.</item>
+  </string-array>
+  <string-array name="str_task390">
+    <item>技能威力</item>
+    <item>技能可以大大提升英雄的实力，请去商店购买一个“末日灼烧”技能吧！</item>
+  </string-array>
+  <string-array name="str_task391">
+    <item>加速升级</item>
+    <item>想让城堡更快发展么，试试双倍经验卡的效果！</item>
+  </string-array>
+  <string-array name="str_task392">
+    <item>装饰城堡</item>
+    <item>人口似乎不够用了……建造一个白石柱子，美化城堡景观，还能增加人口和城防！</item>
+  </string-array>
+  <string-array name="str_task393">
+    <item>吸血神器</item>
+    <item>英雄不小心战死了？试试吸血神器“血印挂件”吧，给英雄增加吸血能力，想死都难。</item>
+  </string-array>
+  <string-array name="str_task394">
+    <item>开采魔晶</item>
+    <item>魔晶石蕴含神气的魔力，士兵升级、科技升级都需要它，魔晶矿值得拥有。</item>
+  </string-array>
+  <string-array name="str_task395">
+    <item>进军！魔界大门！</item>
+    <item>屠龙之战已经过去许久，但魔族从未放弃从魔界大门入侵的计划。英雄们决定从大门反攻，将魔族的入侵计划彻底覆灭。</item>
+  </string-array>
+  <string-array name="str_task396">
+    <item>激战！</item>
+    <item>不出所料，在魔界大门遇到了魔族激烈的防守。但魔族的阻挠终究会变为徒劳。</item>
+  </string-array>
+  <string-array name="str_task397">
+    <item>建立魔界营地</item>
+    <item>在英勇的战斗后，终于占领了魔界大门，简历了远征的营地。</item>
+  </string-array>
+  <string-array name="str_task398">
+    <item>寻找结界</item>
+    <item>多罗罗释放的魔法让很多士兵无法战斗，英雄们需要找到支持他释放魔法的结界。</item>
+  </string-array>
+  <string-array name="str_task399">
+    <item>击破魔塔</item>
+    <item>越接近结界的释放点，法力越强。但打破这些魔塔，便能继续前进了。</item>
+  </string-array>
+  <string-array name="str_task400">
+    <item>误闯禁地</item>
+    <item>在幻境森林中掉进了多罗罗的陷阱，由于幻虫的存在，军队的部署完全暴露在多罗罗的眼前</item>
+  </string-array>
+  <string-array name="str_task401">
+    <item>撤出幻境森林</item>
+    <item>得知幻境森林会增强幻虫的能力后，决定先撤离再作打算</item>
+  </string-array>
+  <string-array name="str_task402">
+    <item>困境</item>
+    <item>即便离开了环境森林，依然没有摆脱幻虫的影响。必须找到魔军的破绽突围。</item>
+  </string-array>
+  <string-array name="str_task403">
+    <item>为荣耀而战</item>
+    <item>在危难关头，骑士们做出了出乎意料的选择……</item>
+  </string-array>
+  <string-array name="str_task404">
+    <item>突破溶血山</item>
+    <item>攻占溶血山，就可以封锁魔军骚扰魔界大门的一切可能。为了人间界的安定，为了牺牲的伙伴，必须胜利。</item>
+  </string-array>
+  <string-array name="str_task405">
+    <item>最后的战役</item>
+    <item>多罗罗终于亲自出战，击败多罗罗，便赢得战争的胜利。</item>
+  </string-array>
+  <string-array name="task_daily0">
+    <item>首次进入游戏</item>
+    <item>君主就是要每天视察自己的帝国!</item>
+  </string-array>
+  <string-array name="task_daily1">
+    <item>招募士兵</item>
+    <item>保证军队的规模,是强国的基本条件!</item>
+  </string-array>
+  <string-array name="task_daily2">
+    <item>宝石合成</item>
+    <item>将几颗宝石的精华汇聚一起,将出现更高品质的宝石!</item>
+  </string-array>
+  <string-array name="task_daily3">
+    <item>挑战屠龙之路</item>
+    <item>挑战屠龙之路的乱军魔兽,得魔晶石和装备碎片!</item>
+  </string-array>
+  <string-array name="task_daily4">
+    <item>进攻其他玩家</item>
+    <item>发兵讨伐其他帝国,抓奴隶,抢资源!</item>
+  </string-array>
+  <string-array name="task_daily5">
+    <item>协防好友</item>
+    <item>派兵协助好友防守,友军的城池也要固若金汤!</item>
+  </string-array>
+  <string-array name="task_daily6">
+    <item>复仇</item>
+    <item>无论自己的仇人还是好友的仇人,统统都要惩罚!</item>
+  </string-array>
+  <string-array name="task_daily7">
+    <item>训练场胜利</item>
+    <item>训练场的荣耀,就是用不断的胜利堆砌而来的!</item>
+  </string-array>
+  <string-array name="task_daily8">
+    <item>加速生产</item>
+    <item>魔法可以穿越时间,直接达到完成的那一刻.</item>
+  </string-array>
+  <string-array name="task_daily9">
+    <item>发布帝国</item>
+    <item>收起操作图标,用右上角的相机,将你的帝国分享给所有人~</item>
+  </string-array>
+  <string-array name="task_daily10">
+    <item>发布邀请码</item>
+    <item>点击你的头像,点击邀请码,让更多的好友一起来小小帝国!</item>
+  </string-array>
+  <string-array name="task_daily11">
+    <item>帮助好友加速</item>
+    <item>友军的生产力也要加快再快更快!</item>
+  </string-array>
+  <string-array name="task_daily12">
+    <item>解救好友</item>
+    <item>友军被困,必须要挥军解救!</item>
+  </string-array>
+  <string-array name="task_daily13">
+    <item>邀请好友助攻</item>
+    <item>独自作战太孤独,不如叫上战友,一起征战沙场!</item>
+  </string-array>
+  <string-array name="task_daily14">
+    <item>助攻好友</item>
+    <item>接受友军的助攻邀请,帮助他一起摧城拔寨!</item>
+  </string-array>
+  <string-array name="task_daily15">
+    <item>收获黄金</item>
+    <item>帝国的良好运转要确保黄金产量足够.</item>
+  </string-array>
+  <string-array name="task_daily16">
+    <item>收获水晶</item>
+    <item>水晶不仅是奢侈品,还是保证帝国发展的必须资源.</item>
+  </string-array>
+  <string-array name="str_task355">
+    <item>铁面杀手</item>
+    <item>带着铁盔的骑士整装待发,我们肃颜以对。</item>
+    <item>"英明的国王，你的能力已经足以带领部队去征战了，老骆驼为你感到骄傲！
+后面的挑战，就由你独立去完成了，老骆驼只能帮助到这里了。我期待着你创造出更多的传奇。"</item>
+  </string-array>
+  <string-array name="str_task406">
+    <item>修建宠物栏</item>
+    <item>英雄不会在战场上不在孤单，给宠物们建造一个家吧！</item>
+  </string-array>
+  <string-array name="task_daily17">
+    <item>挑战封印之路</item>
+    <item>挑战封印之路，金色的埃及套装等你拿！</item>
+  </string-array>
+  <string-array name="task_daily18">
+    <item>挑战远征之路</item>
+    <item>反攻魔界，护卫大旗，给宠物宝宝打粮食！</item>
+  </string-array>
+  <string-array name="task_daily19">
+    <item>宠物</item>
+    <item>宠物</item>
+  </string-array>
+  <string-array name="task_daily20">
+    <item>帝国战场</item>
+    <item>火热的战场，指挥官们策略的碰撞！</item>
+  </string-array>
+  <string-array name="str_task407">
+    <item>平行世界</item>
+    <item>魔界居然是现世的投影，一切都与现世那么一样，又完全不一样。这里便是魔王的大本营。</item>
+  </string-array>
+  <string-array name="str_task408">
+    <item>再访铁木林</item>
+    <item>连地理的划分和名字都与现世一致，猜测这就是魔族对现世的渴望吧，各处都有重兵把守。</item>
+  </string-array>
+  <string-array name="str_task409">
+    <item>疲于应战</item>
+    <item>每一个据点的守卫都是曾经的对手，但他们却如同新生一般，并不记的那些事，这些战斗看起来无穷无尽。</item>
+  </string-array>
+  <string-array name="str_task410">
+    <item>轻车熟路</item>
+    <item>果然是和以前一样的路线就可以攻克不冻港，但这里的魔族居民只是远远的围着我们，充满了敌意。</item>
+  </string-array>
+  <string-array name="str_task411">
+    <item>同一个人</item>
+    <item>斥候带回的信息让人大吃一惊，暮雪城的守卫竟然也叫作为拉里！这里难道不仅仅是平行世界么？</item>
+  </string-array>
+  <string-array name="str_task412">
+    <item>魔界的真像</item>
+    <item>拉里也如曾经一样战败，他在自尽前说出了让人震惊的事情--魔界是现世人心的空间，魔物是欲望的化身，真神将带领欲望回到现世，人心渴望被统治。</item>
+  </string-array>
+  <string-array name="str_task413">
+    <item>打通的空间</item>
+    <item>百叶泉底找到了古石板，预言现世欲望膨胀，魔界将不断扩张，最终打通与现世的屏障，这就是多克入侵的空间裂缝。我们究竟是为何而战？</item>
+  </string-array>
+  <string-array name="str_task414">
+    <item>冷静</item>
+    <item>威廉在绝望的时刻保持了冷静，魔物们行为有序，必定有人在背后指挥，无论如何先要找出指挥官。</item>
+  </string-array>
+  <string-array name="str_task415">
+    <item>傲慢的黑龙</item>
+    <item>梦露的记忆苏醒了，想起多克的真身就是古神黑龙，而它认为现世欲望的膨胀太过丑恶，于是支配魔界要重启现世。</item>
+  </string-array>
+  <string-array name="str_task416">
+    <item>自由才是正义</item>
+    <item>古神也没有资格审判，更没有资格决定现世的存留。正义是不会失败的，黑龙多克自负的恶行必须制止</item>
+  </string-array>
+  <string-array name="runatt">
+    <item>冲刺</item>
+    <item>直接冲到敌对目标面前，有概率造成目标昏眩</item>
+  </string-array>
+  <string-array name="crazy">
+    <item>狂暴</item>
+    <item>提高攻击力和攻击速度</item>
+  </string-array>
+  <string-array name="explosion">
+    <item>自爆</item>
+    <item>死亡时自身爆炸,对周围敌方目标造成伤害</item>
+  </string-array>
+  <string-array name="antinormal">
+    <item>普通护盾</item>
+    <item>增强对普通攻击的抵抗力</item>
+  </string-array>
+  <string-array name="antisting">
+    <item>穿刺护盾</item>
+    <item>增强对穿刺攻击的抵抗力</item>
+  </string-array>
+  <string-array name="antimagic">
+    <item>魔法护盾</item>
+    <item>增强对魔法攻击的抵抗力</item>
+  </string-array>
+  <string-array name="antihero">
+    <item>英雄护盾</item>
+    <item>增强对英雄攻击的抵抗力</item>
+  </string-array>
+  <string-array name="throughAttack">
+    <item>穿云箭</item>
+    <item>每次攻击有概率对自身前方所有敌对单位造成伤害.</item>
+  </string-array>
+  <string-array name="multipleAttack">
+    <item>多重幻象</item>
+    <item>每次攻击有概率最多可同时攻击6个单位.</item>
+  </string-array>
+  <string-array name="poisonAttack">
+    <item>撕裂</item>
+    <item>每次攻击有概率造成目标流血效果.</item>
+  </string-array>
+  <string-array name="doubleAttack">
+    <item>连弹</item>
+    <item>攻击时有几率额外连发一次炮弹.</item>
+  </string-array>
+  <string-array name="groupheal">
+    <item>群体治疗</item>
+    <item>有几率治疗周围所有单位</item>
+  </string-array>
+  <string-array name="boltArrow">
+    <item>闪电箭</item>
+    <item>进场后会发射一道闪电箭，之后过一段时间释放一次</item>
+  </string-array>
+  <string-array name="iceBomb">
+    <item>冰弹</item>
+    <item>有几率使多个敌人受到冷冻效果</item>
+  </string-array>
+  <string-array name="angelShield">
+    <item>天使护盾</item>
+    <item>对天使最前方的单位加护盾，使其在一段时间内免疫晕眩、冰冻、虚弱和中毒效果。</item>
+  </string-array>
+  <string-array name="firegun">
+    <item>火焰枪</item>
+    <item>有几率对布甲士兵造成额外伤害。</item>
+  </string-array>
+  <string-array name="damageShield">
+    <item>熔岩护甲</item>
+    <item>血量在一定值以下后，受到的任何伤害时，会按比例对前方的单位造成伤害。</item>
+  </string-array>
+  <string-array name="fever">
+    <item>狂热</item>
+    <item>每隔一定时间释放一次技能，使周围的士兵单位提升攻击力（英雄和辅助单位不生效）。</item>
+  </string-array>
+  <string-array name="curse">
+    <item>诅咒</item>
+    <item>攻击时有几率给对方士兵附加诅咒效果，生效时会降低对方格挡和闪避概率。</item>
+  </string-array>
+  <string-array name="str_footman">
+    <item>短脚步兵</item>
+    <item>近身格斗单位</item>
+  </string-array>
+  <string-array name="str_hero_orc">
+    <item>铁牙怒兽</item>
+    <item>数次带领部队入侵人类和精灵王国的兽族不朽传奇 因失去了下颚而装上了铁牙 擅长防御 推荐放在阵型的前方</item>
+  </string-array>
+  <string-array name="str_archer">
+    <item>精灵射手</item>
+    <item>远距离攻击单位</item>
+  </string-array>
+  <string-array name="str_knight">
+    <item>铁面游侠</item>
+    <item>高速移动单位</item>
+  </string-array>
+  <string-array name="str_troll">
+    <item>蓝皮巨魔</item>
+    <item>中距离格斗单位</item>
+  </string-array>
+  <string-array name="str_prophet">
+    <item>寒冰法师</item>
+    <item>能使目标减速的远程魔法单位</item>
+  </string-array>
+  <string-array name="str_robot">
+    <item>电锯铁人</item>
+    <item>巨型近身格斗单位</item>
+  </string-array>
+  <string-array name="str_priest">
+    <item>白袍牧师</item>
+    <item>治疗型单位</item>
+  </string-array>
+  <string-array name="str_shaman">
+    <item>顽皮萨满</item>
+    <item>辅助攻击单位能加快附近单位的攻击速度</item>
+  </string-array>
+  <string-array name="str_wolf_rider">
+    <item>双斧狼骑</item>
+    <item>快速远程攻击单位</item>
+  </string-array>
+  <string-array name="str_archangel">
+    <item>复仇天使</item>
+    <item>高级群攻魔法单位</item>
+  </string-array>
+  <string-array name="str_hero_sparta">
+    <item>双刃狂徒</item>
+    <item>300年前曾是人类帝国的王子 脸上的伤疤是与兽人恶战时留下的印记 擅长进攻 推荐放在阵型的中间</item>
+  </string-array>
+  <string-array name="str_hero_witch">
+    <item>影翼魅魔</item>
+    <item>穿梭于影缝狭间的堕落幽灵 吞噬灵魂是她唯一的嗜好 远程攻击 推荐放在阵型的后排位置</item>
+  </string-array>
+  <string-array name="str_zombshoter">
+    <item>无头僵尸</item>
+  </string-array>
+  <string-array name="str_ninja">
+    <item>快手忍者</item>
+    <item>可远程攻击多个目标的单位</item>
+  </string-array>
+  <string-array name="str_glaivethrower">
+    <item>钢弹铁轮</item>
+    <item>发射能弹跳的铁球</item>
+  </string-array>
+  <string-array name="str_tub">
+    <item>木桶</item>
+  </string-array>
+  <string-array name="str_rock">
+    <item>巨石</item>
+  </string-array>
+  <string-array name="str_thief">
+    <item>巨狼战士</item>
+  </string-array>
+  <string-array name="str_thiefrider">
+    <item>巨狼骑兵</item>
+  </string-array>
+  <string-array name="str_wolf">
+    <item>化影巨狼</item>
+  </string-array>
+  <string-array name="str_gun">
+    <item>海龙巨炮</item>
+  </string-array>
+  <string-array name="str_fish">
+    <item>湖沼祭师</item>
+  </string-array>
+  <string-array name="str_monkey">
+    <item>狂暴巨猿</item>
+  </string-array>
+  <string-array name="str_dorck">
+    <item>魔龙多克</item>
+  </string-array>
+  <string-array name="str_bomb">
+    <item>炸弹</item>
+  </string-array>
+  <string-array name="str_rockman">
+    <item>岩石巨人</item>
+  </string-array>
+  <string-array name="str_darkrider">
+    <item>黑暗圣堂</item>
+  </string-array>
+  <string-array name="str_blackdorck">
+    <item>剧毒沼龙</item>
+  </string-array>
+  <string-array name="str_medusa">
+    <item>美杜莎</item>
+  </string-array>
+  <string-array name="str_muscleman">
+    <item>魔导巨像</item>
+  </string-array>
+  <string-array name="str_mummy">
+    <item>千年古尸</item>
+  </string-array>
+  <string-array name="str_deadarch">
+    <item>骷髅射手</item>
+  </string-array>
+  <string-array name="str_mummydog">
+    <item>木乃伊犬</item>
+  </string-array>
+  <string-array name="str_footman2">
+    <item>魔盾兵</item>
+    <item>近身格斗单位</item>
+  </string-array>
+  <string-array name="str_troll2">
+    <item>丛林巨魔</item>
+    <item>中距离格斗单位</item>
+  </string-array>
+  <string-array name="str_knight2">
+    <item>暗夜骑士</item>
+    <item>高速移动单位</item>
+  </string-array>
+  <string-array name="str_robot2">
+    <item>疯狂电锯</item>
+    <item>巨型近身格斗单位</item>
+  </string-array>
+  <string-array name="str_archer2">
+    <item>穿云箭手</item>
+    <item>远距离攻击单位</item>
+  </string-array>
+  <string-array name="str_ninja2">
+    <item>千手忍者</item>
+    <item>可远程攻击多个目标的单位</item>
+  </string-array>
+  <string-array name="str_wolf_rider2">
+    <item>嗜血狼骑</item>
+    <item>快速远程攻击单位</item>
+  </string-array>
+  <string-array name="str_glaivethrower2">
+    <item>暴力钢弹</item>
+    <item>发射能弹跳的铁球</item>
+  </string-array>
+  <string-array name="str_priest2">
+    <item>神圣牧师</item>
+    <item>治疗型单位</item>
+  </string-array>
+  <string-array name="str_prophet2">
+    <item>大法师</item>
+    <item>能使目标减速的远程魔法单位</item>
+  </string-array>
+  <string-array name="str_shaman2">
+    <item>萨满祭司</item>
+    <item>能加快附近单位攻击速度</item>
+  </string-array>
+  <string-array name="str_archangel2">
+    <item>守护天使</item>
+    <item>高级群攻魔法单位</item>
+  </string-array>
+  <string-array name="str_captain">
+    <item>守护兽</item>
+  </string-array>
+  <string-array name="str_civilian">
+    <item>军旗</item>
+    <item>每只部队的象征，如果所有军旗被摧毁会导致战斗失败。可以给周围的士兵加血。</item>
+  </string-array>
+  <string-array name="str_civilian2">
+    <item>三军司命旗</item>
+    <item>指挥部的象征，任何一面被摧毁会导致战斗失败。可以给周围士兵增加攻击速度。</item>
+  </string-array>
+  <string-array name="str_frozentrap">
+    <item>冰冻陷阱</item>
+    <item>当有士兵站在陷阱上时，会冰冻周围敌我双方士兵。</item>
+  </string-array>
+  <string-array name="str_poisiontrap">
+    <item>猛毒陷阱</item>
+    <item>当有士兵站在陷阱上时，会让周围敌我双方士兵中毒。</item>
+  </string-array>
+  <string-array name="str_weaktrap">
+    <item>虚弱陷阱</item>
+    <item>当有士兵站在陷阱上时，会让周围敌我双方士兵虚弱。</item>
+  </string-array>
+  <string-array name="str_firetrap">
+    <item>火焰陷阱</item>
+    <item>当有士兵站在陷阱上时，会对周围敌我双方士兵造成伤害并打断攻击。</item>
+  </string-array>
+  <string-array name="str_oiltank">
+    <item>油桶</item>
+    <item>油桶描述</item>
+  </string-array>
+  <string-array name="str_dololo">
+    <item>狂暴的多罗罗</item>
+    <item>幻术师多罗罗</item>
+  </string-array>
+  <string-array name="str_orc_gun">
+    <item>矮人投掷者</item>
+    <item>远程攻击单位</item>
+  </string-array>
+  <string-array name="str_orc_dragon">
+    <item>熔岩龙</item>
+    <item>近身战斗单位</item>
+  </string-array>
+  <string-array name="str_orc_gun2">
+    <item>火焰投掷者</item>
+    <item>远程攻击单位</item>
+  </string-array>
+  <string-array name="str_orc_dragon2">
+    <item>岩浆龙</item>
+    <item>近身战斗单位</item>
+  </string-array>
+  <string-array name="str_skull">
+    <item>骷髅法师</item>
+    <item>远程攻击单位</item>
+  </string-array>
+  <string-array name="str_skull2">
+    <item>死灵巫师</item>
+    <item>远程攻击辅助单位</item>
+  </string-array>
+  <string-array name="str_ghost">
+    <item>亡灵刺客</item>
+    <item>远程攻击单位</item>
+  </string-array>
+  <string-array name="str_ghost2">
+    <item>骸骨杀手</item>
+    <item>远程攻击单位</item>
+  </string-array>
+  <string-array name="str_fire_gui">
+    <item>火焰龟</item>
+  </string-array>
+  <string-array name="str_fire_gaint">
+    <item>熔岩巨人</item>
+  </string-array>
+  <string-array name="str_fire_dragon">
+    <item>黑塔之王</item>
+  </string-array>
+  <string-array name="str_dorck1">
+    <item>黑龙多克</item>
+  </string-array>
+</resources>
