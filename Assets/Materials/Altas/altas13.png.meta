@@ -1,0 +1,7079 @@
+fileFormatVersion: 2
+guid: aca6b606aaf84ba4aa0ea7f78cb002c2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: altas13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e7a5025a223a4182b4bab5fe6eb4a
+      internalID: -1782929284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 963
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea13cca24c91f1439f61a05f68a4625
+      internalID: 2034001184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847622a32b7cd0e4b93fa0e95ecbe068
+      internalID: 1702440272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3234640200845694e93ff0d589ba0b1d
+      internalID: -594443815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7cd557c6d83045aaef925634209f5
+      internalID: 293199023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9692863bebc0c4da40ddca3594b01d
+      internalID: 131077100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f7f79d9595be44e9826e08c841f15b
+      internalID: 1026174415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff872bfaea949a1419abe75e79163615
+      internalID: 1090828703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb984cc7ee521d4997457afc971874e
+      internalID: 127226885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170cc791adf041748b3779225f7900a9
+      internalID: 1009609682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1c1e41a03b63f428114975e01d753c
+      internalID: -475408682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804403cf0e603b04e9aba29a6c1491d9
+      internalID: 1517832504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_12
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353dd46605661a44ba2989f4722a7f58
+      internalID: -369451401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_13
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de15022c29682e449707cb301e9b66d
+      internalID: 843505538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cfda79ffef2e74d91d82f39e7c0c2a
+      internalID: 1640614466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_15
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6d312bc2957ec4a95994ae026f1878
+      internalID: -356183805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_16
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69186c8e7242c44cb7ec3697181d91c
+      internalID: -594820742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d8c6b0749954c4cbf8c5e76e7c047c
+      internalID: -2005608340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb4f12df630bd4182a6680e5585bc0
+      internalID: 1018546087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d568fcafdb1996f47b97c3f6c97ae1dd
+      internalID: 1707337019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa07b2d3240554dbbd05d502f46204
+      internalID: 592509643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761fba8b63a03f4fb101690e9263148
+      internalID: 570197484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b45602e414c2429058f82c6bedee9
+      internalID: 2003566531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6efaa7d15dfc648bb6d5880a9eef47
+      internalID: -459859349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c95aaa2a58f5204f83b0ac382f1c0ce
+      internalID: -190131972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ce6851d8f5d934681c2ee7aad71745
+      internalID: 2056292182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237784507c0a85247bb4f9ed467fef24
+      internalID: -2019247326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3f0ccd5eca60944921e5cb221ed87a
+      internalID: -2095176932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b4d658f0531841af2ad00dc7af885
+      internalID: -673140060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_29
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024db707ebb97d41bc868606405a55b
+      internalID: 516295769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182517ab137c478459d124f982b7a79f
+      internalID: 583442285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_31
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e706b306a317551489f18a10370839b7
+      internalID: 866667479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_32
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5055e98116a344cb6d89563cb38206
+      internalID: -1167673887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_33
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f3420dd3cd07b4db5c5b13217c227b
+      internalID: 75130115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd937ccbc870ad4283a9d794728c854
+      internalID: -47705036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_35
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 906
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2168b904289d4e97006cc6e1a6d3c
+      internalID: -837014774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74491577eed7844887881c9709a634c
+      internalID: 1935285457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e093bb094b090fa45aede89b5a7f462d
+      internalID: -542158698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27615139853d15b4e9446e2ceb46fd8f
+      internalID: 1964665306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20ab73c496ed7c4783bafc351945332
+      internalID: -1317050896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47eaf305374c8b44b45016106ce56d6
+      internalID: 1411557986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d5d8aa1660ca846998b050ab1feca7
+      internalID: -709551107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04402639a01e3b4781c155b1f04bec9
+      internalID: -1207068935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_43
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3173b758726ba5649af341a2c1db2d8c
+      internalID: -1882600711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c02f4f5469d948bd1bb8f467dca90
+      internalID: 1958644263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b5ce181b05a6f4387ba2a9f518a758
+      internalID: -2143359433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb15476f842d2409b14fb3353f780c
+      internalID: -1759609010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc321ba79d4b8e74886364d520e505d6
+      internalID: 882557594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48708d2d3661504479dbd99522af6525
+      internalID: -338629650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_49
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d0afb36a2b6a418ab438262e55e6c
+      internalID: -938070453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_50
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9b1934b805734d99624b5729896a9
+      internalID: -663352181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_51
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbffd4ce05dc5324ebbf51d4ed1aed10
+      internalID: 1560040891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6aed78e6f7fa4782a90c052ff6e4b
+      internalID: -1149507956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_53
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 850
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae526ea1b2986ad40a26d4bb15abbd58
+      internalID: 1150504384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc51744b9d50a0348b9c22e1a2c8990f
+      internalID: -1916267964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc87a1607dc09438fc08221cbdc03e
+      internalID: -412046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b154b48c01d394f9a8f79a6e13a0c1
+      internalID: 1646951261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fdf3a3491ee648be26a658107950d
+      internalID: -1994923166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b24e72906a9c144197425e9788b38fc
+      internalID: 851087515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a133321919ea78f44bd9f1b43c4f6c02
+      internalID: 1850675700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60396fcc14a2e7e4a8b7af25c87ca033
+      internalID: -749185479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_61
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15072aee9e2504794650187554ded8
+      internalID: -808189887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a4ba13f22783e45a81e1e8ce5ce3df
+      internalID: 1215169385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11e98d0bbb4f848ac4fc4d0a0ace37
+      internalID: -1616829227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e423f99e6fe38438c32cd00c3494fa
+      internalID: -2064077353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_65
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a096426fa9f857149adc47ad5d2da441
+      internalID: -1879263480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9040c497218b2943bf8c3a993594f7f
+      internalID: -1392890808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_67
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb1be87335f0b40b932c6f5d4af4e9
+      internalID: -379310895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_68
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ddf8ecad02844391328c59ea85f2f
+      internalID: -418652099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_69
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c037c50a3e3d284fa37edf5f829f90c
+      internalID: 1771755251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_70
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd757c6ee35e14bb9adc29f8c1dc09
+      internalID: 2146306976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_71
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 794
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ba847f623cd424587422dfdc0e662e
+      internalID: -1753045731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ea9e1d27be1c5498157ccfd9bc81fa
+      internalID: -1831275328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8757b25d0824c2943924cb5c8212d05f
+      internalID: -875496057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e74121a6dad364e8c62f8629d26fd8
+      internalID: -1932517971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c354f9cdb1740f459cc6e28e283c406
+      internalID: -338040934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6543bf2e278a84aaa9ee430dd14c7c
+      internalID: -26316655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4805c1e0c75da841901ae84fd6d6756
+      internalID: 498255905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_78
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb299df81dc9a3468e5efb3a2885899
+      internalID: 1915282528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f8beb7dae18f545967dcd7384c0a9f
+      internalID: -1224068217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_80
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f17ee4d23d8ea4b904eeb4521f58e3
+      internalID: 551131268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_81
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211e55e1848ccbe4a9a2049f031b92b5
+      internalID: 428631056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_82
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def813fc0894964f99c9f07233f0306
+      internalID: -318050980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_83
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea59d7c6c0b59043acf1f8e015fd83d
+      internalID: 295759662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e41cb450453e409c05539bc4b2e4e
+      internalID: -2002557858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_85
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4079d14347aa409408a9e7b708049866
+      internalID: -19668672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_86
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc7edf181061246a95c643485a1ff6
+      internalID: -654552233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_87
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7da3ebc92eeca43a697d3dcb7ddb5c
+      internalID: 1705536509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_88
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655b926679672ef43b0265ea30b590f3
+      internalID: 1957539661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_89
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 738
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8274c25b5bf5ba846ac8ff9c8128f6fc
+      internalID: 381360427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c789b03063c24ebf90bd58b74226c
+      internalID: -485009702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb5c38ec096834a94cfc9f4136fc2e
+      internalID: -1551553252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0518daa111d36458f7d2486e235ca8
+      internalID: -1542213579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefad7bf4acaa0249ab6d3bbb721ae7a
+      internalID: 1658737664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21104bcd791ed84c94f0f1dec152dae
+      internalID: 2121010716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2dfebb889aa343a33312cf2e64df1
+      internalID: 488528761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88783165241fa04ea3a2e92a79e1388
+      internalID: -1418765781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa3c03267f4d8846abac50e19612182
+      internalID: -1978094762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e650f0c2b383489dc44df9cf58073
+      internalID: -1255675677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_99
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03904c8f5fb15ee46b9d88df0719c1d1
+      internalID: 669233019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_100
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e31799a104ffd24ab8cfd5f42202d1e
+      internalID: 497450434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_101
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dd2869247506a4db53b02022ea8935
+      internalID: 1476447866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e5a03de9a6f1409d2d8339c6bc165
+      internalID: 1545254432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_103
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3129e12519898f4f836c9ba30a09f1c
+      internalID: 495270388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_104
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c39063e57f00ae44af569bd0ec9e51a
+      internalID: -1943867882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_105
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160df404b71e7444cb04b0c19fa98030
+      internalID: 390319811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_106
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a34d96a3fc8154b91a793f2970961f
+      internalID: -1983969077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_107
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 682
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6fce2884a17a4ca1a061c1376b11b
+      internalID: 240268140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac42172834c55741aaa58c15cd024b5
+      internalID: 523422791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_109
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fe5b67ad45a647a599d2352a80634
+      internalID: -1316507576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a01cac3b6d0447b409fb8a3ee63e7
+      internalID: -1838287416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_111
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c78657992b794fadea8fb49aabbb6
+      internalID: 534943622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8544a5fe8b8ce64f8c51769c40fc62d
+      internalID: -1601267486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b44818ba693d4bb72116c0f33dc2b
+      internalID: 934336547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf4dcb9a375c73428808b377499417b
+      internalID: -1700618481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_115
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872aa2b3d6b5fc145934a4301719de20
+      internalID: -145550875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e738e9c9234d247acffdae13089ac2
+      internalID: 819609177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_117
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980e28d6fcf079d42aebc3795c596b5c
+      internalID: 1318320725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_118
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2f0a7ca5da7e488701d99108ee030
+      internalID: -1159753030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_119
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca3f26da181354fa9679a9c908555d
+      internalID: -1477887257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_120
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779989f749bff346842d62502cef7db
+      internalID: 1834137581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_121
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fbbeab65b7c045b97b0e39daab562
+      internalID: 2111813741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_122
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26fc1bdbba9ba4a83c2b3ddecaa499
+      internalID: 1527478860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_123
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3bd7cac9d6a645a6e93f5aa9cfcbc
+      internalID: -1526128961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_124
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d97a1d30bdae64bb50650bfa751e9f
+      internalID: -1323607608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_125
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 626
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b259b904ccee944ea19720fbc5c79c7
+      internalID: -1373868520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426413e198234f48a6326cf7e303d17
+      internalID: -1205859852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482512e23885a6e49b9d7407459f5b07
+      internalID: -1323157474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd94024a51af04f8653ad59068d906
+      internalID: -620460509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_129
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ba3ad1df0f72468a384270950aa5c
+      internalID: -1617890919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_130
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9194a90a17d1044bcbff33d68a4db9
+      internalID: -1476853236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_131
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e0076a2688ad4bb88f694dfb24e38
+      internalID: -901344607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57cfb4555c2c534d93292ce47816e32
+      internalID: -1110352061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_133
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f39c9dbc2857941b8c2e589225988a
+      internalID: 865044233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21298eb215e03b443aa747d9c71cf333
+      internalID: 1655771600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_135
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c8a3ba18c39bf4882b98a6b0ad06a9
+      internalID: -1735435540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_136
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2e1d70ceeaa35498b6d21bfb808dd8
+      internalID: 1372589919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_137
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb00aae73e84df41acdc92210ea04ab
+      internalID: 1604273969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_138
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ee9665c394469459751505bb15f5f0
+      internalID: -372295813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_139
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae6f28f70c3df4494a6b2a1729f59f
+      internalID: 1241065503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_140
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c79b4b4b98b9a64eae1ccf3d0aabff0
+      internalID: 1224447856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_141
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d775d6157ab71146bfcf95e3551f993
+      internalID: -497592395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3939c05231301df488bc16a6a855d8a4
+      internalID: 1132831206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_143
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa61eb4136d2c045b8d7f783cdedf7f
+      internalID: 1764690374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca031ba0a335a0d4dab697191aa9a85d
+      internalID: 890521126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_145
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05f9aa34cc1014fbca1e7bc7cd7b99
+      internalID: -1265878133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeca5afea3cbee4d8038d81a863705e
+      internalID: -574116073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_147
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5048cd2606ec6a244b948f909392ebee
+      internalID: 945046780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862270539f1f4984fa062bc7143be8fb
+      internalID: -1081165077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_149
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f150ff5de107549b2c465200fea0e4
+      internalID: 374753611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_150
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815458cbc2e0fc418cf8b38543b0c52
+      internalID: 212828327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_151
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380b0c2f9716409419e09c1f8596ddb2
+      internalID: 498312883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_152
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a356b69fb13be74098804e727e9b283
+      internalID: 1728004928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_153
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164b5794355a8448b5df98fdef22d06
+      internalID: 1100730596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_154
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f7738c988d5c5459056415559d10c5
+      internalID: 1941138666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_155
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61b1089636ab547b857964b6c86099
+      internalID: 1083157791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_156
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28859935d0139ac4db984fcb0d05042b
+      internalID: 97980238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_157
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2298e02fe62b45c4d9e5f2fc469967f1
+      internalID: -1359694239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_158
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e54aa69191b6b44a85f5cf01acf50e
+      internalID: -667365982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_159
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6462e3639c347479de83414c68ff36
+      internalID: 738548308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_160
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d846332966b974dac7e08fd2233d9e
+      internalID: -757132024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_161
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 514
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0f9e7e95ecc443a2b8e18e701c9c0
+      internalID: -848641515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f18e18fc1a554cb9c842777c12b4b
+      internalID: 1415140200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_163
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0853c6ecb3be4990163246830943e
+      internalID: 1490964706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_164
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0350963becf07b4fa599c96bd5b2564
+      internalID: 248250345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_165
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981b037d6ad1acd4d8400edc2b47ee67
+      internalID: 972550080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f28547bd38c7e49b2348248f83411c
+      internalID: -1011908945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_167
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b492095e7c0649b196753bc1a9a64
+      internalID: 1125262497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4370925f360249f409b7762eb00e755c
+      internalID: 874776836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_169
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f7d26f0e24afb4da9d9e89d47848ad
+      internalID: -180723060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_170
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dadf8bd816ba7947854f8ce888c412a
+      internalID: 203474343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_171
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed5368281355841910de4b4b6e6f10
+      internalID: 838984285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_172
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bdf8a33a3e374ba99cff10324aafe
+      internalID: 417755126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_173
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faeb4b976a023242abb67af4568bc77
+      internalID: -1032890242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee553454d6110f6438380fc065de7453
+      internalID: 1286682202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_175
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d25d678feac943b6bf144025f5e2a
+      internalID: -397477383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_176
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378a4cf68d76664ba0c6b87f234ebce
+      internalID: -23414658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_177
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e995d1831f584f97edeaa9bc768f2
+      internalID: 1174679233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_178
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1384bcd3ea44654fa177fbc6b941386
+      internalID: -281996800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_179
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 458
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53724c9b1da9741a4dc6df60ce5406
+      internalID: 555206255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94acf3a288894534cadac2a7c88a05ad
+      internalID: 752293181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_181
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271c816319507a74ca162cb5f35e60ea
+      internalID: 1295215784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_182
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0e39ab8e083f4c92c9d482f4f8466
+      internalID: -1345908990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_183
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979f08db5cb192b4295742cc5f6e4252
+      internalID: 519501887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_184
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d95ea64310fa24db682c3303310578
+      internalID: 2014439844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_185
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324f84e78567124d9101963155996e1
+      internalID: 1223861793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_186
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a115f2a3d92f45a1b325378625fbc
+      internalID: 1341543409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_187
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1b81b3e379034fbed156d3d6a6a0c
+      internalID: -1775933049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781f965630a36a8448cdcb33c7672170
+      internalID: -922140496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_189
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676773535cb5dff4b93dfd78415aef67
+      internalID: 130518912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_190
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06169d32ae1e144b95ea5207aee179
+      internalID: -22827854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_191
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31620b3c1f3a894b925ebf6faed3998
+      internalID: -846311968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_192
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b1de10da92ae547a90c58f48a33561
+      internalID: 734236941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_193
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5afdd56418c1740a262de88e364902
+      internalID: -903139208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_194
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e17ca019c8014192bc4bb9aa3551d
+      internalID: 1016723313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_195
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf393361d0336e429fbae79a1b19492
+      internalID: -173934940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_196
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a30fd632697646b343d9bd1f5e7ad
+      internalID: 270469666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_197
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 402
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d96f6c8620555b409bf0bc501f1d829
+      internalID: -1039832590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246cd07e19fd3f944aa7e75315b79cdc
+      internalID: -1336121410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_199
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec028f424346641a86f4eb9192d9a2
+      internalID: -354652565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_200
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b934cae5aa8a42be9a8a1105eee94
+      internalID: 160283185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_201
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6461cf6162eb7c4c8de467f3b5b2f52
+      internalID: 1970375617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ce725f83bc74408b3186a1e017563
+      internalID: 1720501343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_203
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3870e60e83881584b981f1027d31e3e0
+      internalID: -1241265345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_204
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50feffae58f9054f9fca9b51edca6fa
+      internalID: -359529830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_205
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3337b8a580a6943aa7f5c9c1aff618
+      internalID: -1462697556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3550e5b9cc355948a01eeb6090e383f
+      internalID: 703632706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_207
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35e5b6b0f0111499ebb8d159b5e480
+      internalID: 375296713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_208
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39378bd24e520194cafdb1c32727f68a
+      internalID: -2078767891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_209
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9606404156578674bb3d3bed4d8eee1e
+      internalID: -1982696293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_210
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded1facb3552584c9a543f2959111f2
+      internalID: 1988736088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_211
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee149a1ef0ce3c43845aa5e0d1d4aa1
+      internalID: 536047796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_212
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e07ed66c2994459ea2a4f54f69b61
+      internalID: 1958223603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_213
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9694cf1148fa044aed7e7c5c1e5e95
+      internalID: -1220183508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_214
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c40a6ade2e6a874a8878ef6b9610eee
+      internalID: -1458630771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_215
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 346
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3633f6c052c48f4d87cdc608a52d6ae
+      internalID: 835073791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5e294703873a47945be67f6a8db1c
+      internalID: 2091053599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_217
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b72b3676487dd4f8be99f778d20f45
+      internalID: 954718078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_218
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694396056162c04492f16e47a71fc64
+      internalID: 33365406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_219
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340221342d6088e40a84184094097c54
+      internalID: -1931961452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_220
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f5de9ec726064f8ea04b5bb4da42c
+      internalID: -698536770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_221
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce722016e3a8387418f48faa3dce2d47
+      internalID: 1381404364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_222
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec66147e9ff504b8818f0bcc1b6281
+      internalID: -1995357866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_223
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625680e3856326243ab8c5d925366b79
+      internalID: 1840158763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_224
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc935a2dee6ba946a31a8225780711b
+      internalID: 712309754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_225
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee22e9b5b5da1d42bbf140298e79691
+      internalID: -1350594202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_226
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e461e661228bad4abdce6eaf01519a1
+      internalID: 2041645228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_227
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cde4cfb7ea7ae43849f83393737cc9
+      internalID: -1426141960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_228
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7c59c14c111e4299ad75955bcb0dd
+      internalID: -587847967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_229
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba705756c3fe3bd4cb78457c8ad1ff8d
+      internalID: 1203074151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_230
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d9896d352d9540b688244c5079a97
+      internalID: -1828708083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_231
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95071fd248d65fe40988351b157cd5df
+      internalID: -2097171160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_232
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83157329141c1fd4ea1673ae3740ecf4
+      internalID: 991530524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_233
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 290
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423fca00f3249743a600f33c35b5416
+      internalID: -1874507078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed8bf40e5bcf94ba805286a22d049d
+      internalID: 331115268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_235
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ca818c7c3321479316edda23e5511
+      internalID: 965584859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_236
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668b1a38a4166d94bba8ef7b276eb832
+      internalID: 1215630609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_237
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404b72e73ca097e46a133f5d6a9ffca2
+      internalID: 925539311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_238
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d28c3394cf8f419203eeb0b0f29a5
+      internalID: -1703260363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_239
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23632e55e808384c8a55333b345e8ca
+      internalID: -1844458035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_240
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48662901b882d004fa76c8565a895a58
+      internalID: -1668071479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_241
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08be8ef2b245e4f867152184afd19f
+      internalID: -243150784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_242
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f990e5569f2f7904dafdfbdb8f4c9e35
+      internalID: -2056143877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_243
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99952d2a0097ff640958666229e6d74e
+      internalID: -1443316401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_244
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d03a16abac2cb48af354e3713ca3b6
+      internalID: 2085469192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_245
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bea96faed3e8c418d2434cf3e33e7e
+      internalID: -1228980610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_246
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064cede277019b4f900f4557e80a468
+      internalID: -1314853834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_247
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5471859c431cdd54e8dec2f5c649ef1e
+      internalID: 1623567455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_248
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20bedec169fdb8409ee76e9be75dd15
+      internalID: 538305396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_249
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f054daad2407547b383e75336c41a9
+      internalID: -395022307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_250
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d477b985442c42b4c9cf8a93f0715
+      internalID: -736534556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_251
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 234
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43aa539fe5f304183d355e1e6e27f1
+      internalID: 2021769202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c23685949349f1459579ec5ec204bbd
+      internalID: 35773195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_253
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df01cd1c3f006a43b581484fc879ddd
+      internalID: -2125060396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_254
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28377b77d74023642b877e4bd6e8b13b
+      internalID: 1370136600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_255
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b60b94f39f995f44b7acb9288abaefd
+      internalID: -23772866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_256
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa77c22789aae146b8d95f09927c941
+      internalID: -280296004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_257
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5addab7c3bed4fa800af4158bdb67
+      internalID: 1812734825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_258
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88933ccc13361264799abf023932c562
+      internalID: 984717177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_259
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fdfb7eb32ab1f4ea17f1974c216b7c
+      internalID: 1215669462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_260
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4f21c005737aa43b65e4f2b5bc4d96
+      internalID: -363136131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_261
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7565c0a65bf1e479aa00dd292036d7
+      internalID: 1335724651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_262
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0d62f366e26214794eec3a8e21b6cc
+      internalID: 694918340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_263
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d1413080bb6fb48a2f4e38f94a9696
+      internalID: 399458063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_264
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7f95062a632834eb994ab2735fe259
+      internalID: 1470321115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_265
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d3e83463043b45a210b18adb0d569
+      internalID: -67934313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_266
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c511bae8344f419fd0edadbe36534
+      internalID: -1867699018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_267
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3f7fb11657dd4cb2e2565a5924a5f
+      internalID: -1106633425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_268
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32683f2f84b63e243977e2d7cfcbd37f
+      internalID: 1863522156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_269
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5031b6688d5049bd041df79de51ef
+      internalID: 506421419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4a76e33e8e1c14abff4a89b7fe050a
+      internalID: 708346346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_271
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0910c75c38e333245b2f12717daf5267
+      internalID: 1455819341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_272
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512fb8dee7c6f0640b4a9ce8d0c59dd5
+      internalID: 713059706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_273
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff3c9b7c2828b41b3bd67e6c554cf3
+      internalID: 1957268799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_274
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d8fbdb07514641ac6432f255679fd
+      internalID: -915397811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_275
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c72e4df159e042b25fe2942cd928a
+      internalID: -1850864335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_276
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88423b5dcc2fbb84fac646e6326b13f0
+      internalID: 403693468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_277
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b7431774538a4994715226fc8148f
+      internalID: -550272970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_278
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d941dd552b85c445bb5551a15b508af
+      internalID: 1128137420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_279
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d273dac02ea44489514e8ed23ab28
+      internalID: 1220176038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_280
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950fe15ce5e9944682c1892bac2ac14
+      internalID: -1387509897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_281
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c46f4afdcfd2a4494c85f635a3b42f
+      internalID: 27919712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_282
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a13a4a0981b8c34b85c2081b57469f3
+      internalID: -1654622660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_283
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb2f0270fc4f7458f10b6320567ac3
+      internalID: 492488781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_284
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baae4ba99088bac4582ac34d01e0bb8c
+      internalID: -2138299649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_285
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 122
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22277e0324acccc4a93ef3c872f4fc33
+      internalID: 565301565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_286
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396365db86ea69449b84a46c18aaf1c
+      internalID: 994465402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_287
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d09fd977437346b5e62a234b827e0
+      internalID: 1907362831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_288
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d04b7d30c9cf439b39dcf13161754
+      internalID: -1465301338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_289
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04ef47d81293114d9ba792e67a2e418
+      internalID: 1668124917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_290
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99af998d95deb40a7f810ab2c93b64
+      internalID: -1524538924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_291
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd7e68465bb4a499b12bb8aa5a3db8
+      internalID: -130913640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_292
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e54bdc17fd6a458151534e1518b85
+      internalID: -1700587053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_293
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaaef18f343509418897240532c880a
+      internalID: -304400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_294
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ee11ca28287c4caf7d3b10d499fc7
+      internalID: 356293441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_295
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac2275cb8b0804aa81b149410ecf0c
+      internalID: 206922944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_296
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241de09ebb33f1488057849a6ed9eb4
+      internalID: -191425152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_297
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5189bda8d3d4ba4469a5ae6b087e6189
+      internalID: -1949374046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_298
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94428f0d4253e7448db12b96974d4a2
+      internalID: -2007729610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_299
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ef55b60d5a2f948ace05ffea1e3c69
+      internalID: -1391770019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_300
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 66
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ca8ceb36496349a88cf1ecd50ec38
+      internalID: -1871645579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_301
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54017874ca937e34f87ac15eb73ce663
+      internalID: 409633653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_302
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a632b2cb57721448fa2e734470e804
+      internalID: -1592978722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_303
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa28e3566962b794dbda9ee00528c8fc
+      internalID: -944509300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_304
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442ec2bdd2519f545b52aa2a3f624150
+      internalID: -188875005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_305
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554afd7f85b69644db39cea73e1e0a4d
+      internalID: 158002379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_306
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412decf4231fcce4cb44ed00adae792b
+      internalID: 2016398528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_307
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0855bba75bc90814a8f151a324e9f188
+      internalID: -133031491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_308
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237237c13f8d5db439d50f4a27c4f7c0
+      internalID: -1052213812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_309
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c93b0eba5031440823a5690fc83788
+      internalID: 1152208027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_310
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10224756ff1f3d40913650e6ab3ee93
+      internalID: 1235531516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_311
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb6aef4e375814ea39e232851bce83
+      internalID: -213885747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_312
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72cd3de5a74eda408b264ba790d2e1b
+      internalID: -1133345364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_313
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9211dcc3dfb894bb2b0634869da649
+      internalID: -2075111916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_314
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86605e5defdd3f4d8acf87296a72cb2
+      internalID: 768242252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: altas13_315
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 10
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286dd2506940dd94fb4d47c1dc758f5b
+      internalID: 31197322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4e5897bf513e79b439f6139bd1a0d1c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      altas13_0: -1782929284
+      altas13_1: 2034001184
+      altas13_10: -475408682
+      altas13_100: 497450434
+      altas13_101: 1476447866
+      altas13_102: 1545254432
+      altas13_103: 495270388
+      altas13_104: -1943867882
+      altas13_105: 390319811
+      altas13_106: -1983969077
+      altas13_107: 240268140
+      altas13_108: 523422791
+      altas13_109: -1316507576
+      altas13_11: 1517832504
+      altas13_110: -1838287416
+      altas13_111: 534943622
+      altas13_112: -1601267486
+      altas13_113: 934336547
+      altas13_114: -1700618481
+      altas13_115: -145550875
+      altas13_116: 819609177
+      altas13_117: 1318320725
+      altas13_118: -1159753030
+      altas13_119: -1477887257
+      altas13_12: -369451401
+      altas13_120: 1834137581
+      altas13_121: 2111813741
+      altas13_122: 1527478860
+      altas13_123: -1526128961
+      altas13_124: -1323607608
+      altas13_125: -1373868520
+      altas13_126: -1205859852
+      altas13_127: -1323157474
+      altas13_128: -620460509
+      altas13_129: -1617890919
+      altas13_13: 843505538
+      altas13_130: -1476853236
+      altas13_131: -901344607
+      altas13_132: -1110352061
+      altas13_133: 865044233
+      altas13_134: 1655771600
+      altas13_135: -1735435540
+      altas13_136: 1372589919
+      altas13_137: 1604273969
+      altas13_138: -372295813
+      altas13_139: 1241065503
+      altas13_14: 1640614466
+      altas13_140: 1224447856
+      altas13_141: -497592395
+      altas13_142: 1132831206
+      altas13_143: 1764690374
+      altas13_144: 890521126
+      altas13_145: -1265878133
+      altas13_146: -574116073
+      altas13_147: 945046780
+      altas13_148: -1081165077
+      altas13_149: 374753611
+      altas13_15: -356183805
+      altas13_150: 212828327
+      altas13_151: 498312883
+      altas13_152: 1728004928
+      altas13_153: 1100730596
+      altas13_154: 1941138666
+      altas13_155: 1083157791
+      altas13_156: 97980238
+      altas13_157: -1359694239
+      altas13_158: -667365982
+      altas13_159: 738548308
+      altas13_16: -594820742
+      altas13_160: -757132024
+      altas13_161: -848641515
+      altas13_162: 1415140200
+      altas13_163: 1490964706
+      altas13_164: 248250345
+      altas13_165: 972550080
+      altas13_166: -1011908945
+      altas13_167: 1125262497
+      altas13_168: 874776836
+      altas13_169: -180723060
+      altas13_17: -2005608340
+      altas13_170: 203474343
+      altas13_171: 838984285
+      altas13_172: 417755126
+      altas13_173: -1032890242
+      altas13_174: 1286682202
+      altas13_175: -397477383
+      altas13_176: -23414658
+      altas13_177: 1174679233
+      altas13_178: -281996800
+      altas13_179: 555206255
+      altas13_18: 1018546087
+      altas13_180: 752293181
+      altas13_181: 1295215784
+      altas13_182: -1345908990
+      altas13_183: 519501887
+      altas13_184: 2014439844
+      altas13_185: 1223861793
+      altas13_186: 1341543409
+      altas13_187: -1775933049
+      altas13_188: -922140496
+      altas13_189: 130518912
+      altas13_19: 1707337019
+      altas13_190: -22827854
+      altas13_191: -846311968
+      altas13_192: 734236941
+      altas13_193: -903139208
+      altas13_194: 1016723313
+      altas13_195: -173934940
+      altas13_196: 270469666
+      altas13_197: -1039832590
+      altas13_198: -1336121410
+      altas13_199: -354652565
+      altas13_2: 1702440272
+      altas13_20: 592509643
+      altas13_200: 160283185
+      altas13_201: 1970375617
+      altas13_202: 1720501343
+      altas13_203: -1241265345
+      altas13_204: -359529830
+      altas13_205: -1462697556
+      altas13_206: 703632706
+      altas13_207: 375296713
+      altas13_208: -2078767891
+      altas13_209: -1982696293
+      altas13_21: 570197484
+      altas13_210: 1988736088
+      altas13_211: 536047796
+      altas13_212: 1958223603
+      altas13_213: -1220183508
+      altas13_214: -1458630771
+      altas13_215: 835073791
+      altas13_216: 2091053599
+      altas13_217: 954718078
+      altas13_218: 33365406
+      altas13_219: -1931961452
+      altas13_22: 2003566531
+      altas13_220: -698536770
+      altas13_221: 1381404364
+      altas13_222: -1995357866
+      altas13_223: 1840158763
+      altas13_224: 712309754
+      altas13_225: -1350594202
+      altas13_226: 2041645228
+      altas13_227: -1426141960
+      altas13_228: -587847967
+      altas13_229: 1203074151
+      altas13_23: -459859349
+      altas13_230: -1828708083
+      altas13_231: -2097171160
+      altas13_232: 991530524
+      altas13_233: -1874507078
+      altas13_234: 331115268
+      altas13_235: 965584859
+      altas13_236: 1215630609
+      altas13_237: 925539311
+      altas13_238: -1703260363
+      altas13_239: -1844458035
+      altas13_24: -190131972
+      altas13_240: -1668071479
+      altas13_241: -243150784
+      altas13_242: -2056143877
+      altas13_243: -1443316401
+      altas13_244: 2085469192
+      altas13_245: -1228980610
+      altas13_246: -1314853834
+      altas13_247: 1623567455
+      altas13_248: 538305396
+      altas13_249: -395022307
+      altas13_25: 2056292182
+      altas13_250: -736534556
+      altas13_251: 2021769202
+      altas13_252: 35773195
+      altas13_253: -2125060396
+      altas13_254: 1370136600
+      altas13_255: -23772866
+      altas13_256: -280296004
+      altas13_257: 1812734825
+      altas13_258: 984717177
+      altas13_259: 1215669462
+      altas13_26: -2019247326
+      altas13_260: -363136131
+      altas13_261: 1335724651
+      altas13_262: 694918340
+      altas13_263: 399458063
+      altas13_264: 1470321115
+      altas13_265: -67934313
+      altas13_266: -1867699018
+      altas13_267: -1106633425
+      altas13_268: 1863522156
+      altas13_269: 506421419
+      altas13_27: -2095176932
+      altas13_270: 708346346
+      altas13_271: 1455819341
+      altas13_272: 713059706
+      altas13_273: 1957268799
+      altas13_274: -915397811
+      altas13_275: -1850864335
+      altas13_276: 403693468
+      altas13_277: -550272970
+      altas13_278: 1128137420
+      altas13_279: 1220176038
+      altas13_28: -673140060
+      altas13_280: -1387509897
+      altas13_281: 27919712
+      altas13_282: -1654622660
+      altas13_283: 492488781
+      altas13_284: -2138299649
+      altas13_285: 565301565
+      altas13_286: 994465402
+      altas13_287: 1907362831
+      altas13_288: -1465301338
+      altas13_289: 1668124917
+      altas13_29: 516295769
+      altas13_290: -1524538924
+      altas13_291: -130913640
+      altas13_292: -1700587053
+      altas13_293: -304400
+      altas13_294: 356293441
+      altas13_295: 206922944
+      altas13_296: -191425152
+      altas13_297: -1949374046
+      altas13_298: -2007729610
+      altas13_299: -1391770019
+      altas13_3: -594443815
+      altas13_30: 583442285
+      altas13_300: -1871645579
+      altas13_301: 409633653
+      altas13_302: -1592978722
+      altas13_303: -944509300
+      altas13_304: -188875005
+      altas13_305: 158002379
+      altas13_306: 2016398528
+      altas13_307: -133031491
+      altas13_308: -1052213812
+      altas13_309: 1152208027
+      altas13_31: 866667479
+      altas13_310: 1235531516
+      altas13_311: -213885747
+      altas13_312: -1133345364
+      altas13_313: -2075111916
+      altas13_314: 768242252
+      altas13_315: 31197322
+      altas13_32: -1167673887
+      altas13_33: 75130115
+      altas13_34: -47705036
+      altas13_35: -837014774
+      altas13_36: 1935285457
+      altas13_37: -542158698
+      altas13_38: 1964665306
+      altas13_39: -1317050896
+      altas13_4: 293199023
+      altas13_40: 1411557986
+      altas13_41: -709551107
+      altas13_42: -1207068935
+      altas13_43: -1882600711
+      altas13_44: 1958644263
+      altas13_45: -2143359433
+      altas13_46: -1759609010
+      altas13_47: 882557594
+      altas13_48: -338629650
+      altas13_49: -938070453
+      altas13_5: 131077100
+      altas13_50: -663352181
+      altas13_51: 1560040891
+      altas13_52: -1149507956
+      altas13_53: 1150504384
+      altas13_54: -1916267964
+      altas13_55: -412046269
+      altas13_56: 1646951261
+      altas13_57: -1994923166
+      altas13_58: 851087515
+      altas13_59: 1850675700
+      altas13_6: 1026174415
+      altas13_60: -749185479
+      altas13_61: -808189887
+      altas13_62: 1215169385
+      altas13_63: -1616829227
+      altas13_64: -2064077353
+      altas13_65: -1879263480
+      altas13_66: -1392890808
+      altas13_67: -379310895
+      altas13_68: -418652099
+      altas13_69: 1771755251
+      altas13_7: 1090828703
+      altas13_70: 2146306976
+      altas13_71: -1753045731
+      altas13_72: -1831275328
+      altas13_73: -875496057
+      altas13_74: -1932517971
+      altas13_75: -338040934
+      altas13_76: -26316655
+      altas13_77: 498255905
+      altas13_78: 1915282528
+      altas13_79: -1224068217
+      altas13_8: 127226885
+      altas13_80: 551131268
+      altas13_81: 428631056
+      altas13_82: -318050980
+      altas13_83: 295759662
+      altas13_84: -2002557858
+      altas13_85: -19668672
+      altas13_86: -654552233
+      altas13_87: 1705536509
+      altas13_88: 1957539661
+      altas13_89: 381360427
+      altas13_9: 1009609682
+      altas13_90: -485009702
+      altas13_91: -1551553252
+      altas13_92: -1542213579
+      altas13_93: 1658737664
+      altas13_94: 2121010716
+      altas13_95: 488528761
+      altas13_96: -1418765781
+      altas13_97: -1978094762
+      altas13_98: -1255675677
+      altas13_99: 669233019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
