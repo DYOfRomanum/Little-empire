@@ -9,11 +9,14 @@ public class UIManager : MonoBehaviour
 
     [Header("Inventory System")]
     public GameObject inventoryPanel;
-
+    
     public InventorySlot[] itemSlots;
     // item info box
+    public GameObject itemInfoBox;
     public Text itemNameText;
     public Text itemDescriptionText;
+    // 用于存储自动关闭的协程
+    private Coroutine autoCloseCoroutine;
 
     private void Awake()
     {
@@ -59,7 +62,30 @@ public class UIManager : MonoBehaviour
     //display info
     public void DisplayItemInfo(ItemData data)
     {
-        itemNameText.text = data.itemName;
-        itemDescriptionText.text = data.description;
+        if (data!= null)
+        {
+            itemInfoBox.SetActive(!itemInfoBox.activeSelf);
+            itemNameText.text = data.itemName;
+            itemDescriptionText.text = data.description; 
+        }    
+        else
+        {return;}
+
+        if (autoCloseCoroutine != null)
+        {
+            StopCoroutine(autoCloseCoroutine);
+        }
+        
+        // 启动新的自动关闭协程
+        autoCloseCoroutine = StartCoroutine(AutoCloseAfterDelay());
+    }
+
+    private IEnumerator AutoCloseAfterDelay()
+    {
+        // 等待2秒
+        yield return new WaitForSeconds(2f);
+        
+        // 关闭信息窗口
+        itemInfoBox.SetActive(false);
     }
 }

@@ -21,15 +21,15 @@ public class InventoryManager : MonoBehaviour
     }
 
     // Item slots
-    public ItemData[] items = new ItemData[30];
+    public ItemSlotData[] itemSlots = new ItemSlotData[30];
     // Equipment slots
-    public ItemData[] equipments = new ItemData[16];
-    public ItemData[] equipped = new ItemData[8];
+    public ItemSlotData[] equipments = new ItemSlotData[16];
+    public ItemSlotData[] equipped = new ItemSlotData[8];
     // Spell slots
-    public ItemData[] spells = new ItemData[16];
-    public ItemData[] equippedSpell = new ItemData[4];
+    public ItemSlotData[] spellSlot = new ItemSlotData[16];
+    public ItemSlotData[] equippedSpell = new ItemSlotData[4];
     // Fragment slots
-    public ItemData[] fragments = new ItemData[30];
+    public ItemSlotData[] fragmentSlots = new ItemSlotData[30];
     // Start is called before the first frame update
     void Start()
     {

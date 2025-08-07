@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class InventorySlot : MonoBehaviour, IPointerEnterHandler
+public class InventorySlot : MonoBehaviour, IPointerClickHandler
 {
     ItemData itemToDisplay;
 
@@ -29,9 +29,10 @@ public class InventorySlot : MonoBehaviour, IPointerEnterHandler
         itemBackImage.gameObject.SetActive(false);
 
     }
-    public void OnPointerEnter(PointerEventData eventData)
+
+    public void OnPointerClick(PointerEventData eventData)
     {
-        // itemInfoBox.SetActive(!itemInfoBox.activeSelf);
         UIManager.Instance.DisplayItemInfo(itemToDisplay);
     }
+
 }
