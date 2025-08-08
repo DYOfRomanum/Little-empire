@@ -8,19 +8,31 @@ public class InventorySlot : MonoBehaviour, IPointerClickHandler
 {
     ItemData itemToDisplay;
 
+    int quantity;
+
     public Image itemDisplayImage;
     public Image itemBackImage;
+
+    public enum InventoryType
+    {
+        Item, Fragment
+    }
+    public InventoryType inventoryType;
+    int slotIndex;
     // public GameObject itemInfoBox;
 
-    public void Display(ItemData itemToDisplay)
+    public void Display(ItemSlotData itemSlot)
     {
+        //set the variables accordingly
+        itemToDisplay = itemSlot.itemData;
+        quantity = itemSlot.quantity;
         // check if there is an item to display
         if (itemToDisplay != null)
         {
             itemDisplayImage.sprite = itemToDisplay.thumbnail;
             itemBackImage.sprite = itemToDisplay.back;
 
-            this.itemToDisplay = itemToDisplay;
+            // this.itemToDisplay = itemToDisplay;
             itemDisplayImage.gameObject.SetActive(true);
             itemBackImage.gameObject.SetActive(true);
             return;

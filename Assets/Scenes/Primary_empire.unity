@@ -8206,116 +8206,220 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77d4fdf68e988c64990768be8ac66139, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  items:
-  - {fileID: 11400000, guid: 27d7795e772e33b4faa5c12580216c1f, type: 2}
-  - {fileID: 11400000, guid: 1c2963e19f08e444f9d6b7b72ded4ec1, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  itemSlots:
+  - itemData: {fileID: 11400000, guid: 27d7795e772e33b4faa5c12580216c1f, type: 2}
+    quantity: 1
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
   equipments:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
   equipped:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  spells:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  spellSlot:
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
   equippedSpell:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  fragments:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  fragmentSlots:
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
+  - itemData: {fileID: 0}
+    quantity: 0
 --- !u!4 &1214046513
 Transform:
   m_ObjectHideFlags: 0

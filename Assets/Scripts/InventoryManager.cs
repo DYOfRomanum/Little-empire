@@ -21,15 +21,48 @@ public class InventoryManager : MonoBehaviour
     }
 
     // Item slots
-    public ItemSlotData[] itemSlots = new ItemSlotData[30];
+    [SerializeField] private ItemSlotData[] itemSlots = new ItemSlotData[30];
     // Equipment slots
-    public ItemSlotData[] equipments = new ItemSlotData[16];
-    public ItemSlotData[] equipped = new ItemSlotData[8];
+    [SerializeField] private ItemSlotData[] equipments = new ItemSlotData[16];
+    [SerializeField] private ItemSlotData[] equipped = new ItemSlotData[8];
     // Spell slots
-    public ItemSlotData[] spellSlot = new ItemSlotData[16];
-    public ItemSlotData[] equippedSpell = new ItemSlotData[4];
+    [SerializeField] private ItemSlotData[] spellSlot = new ItemSlotData[16];
+    [SerializeField] private ItemSlotData[] equippedSpell = new ItemSlotData[4];
     // Fragment slots
-    public ItemSlotData[] fragmentSlots = new ItemSlotData[30];
+    [SerializeField] private ItemSlotData[] fragmentSlots = new ItemSlotData[30];
+
+    public ItemSlotData[] GetInventorySlots(InventorySlot.InventoryType inventoryType)
+    {
+        if (inventoryType == InventorySlot.InventoryType.Item)
+        {
+            return itemSlots;
+        }
+        else if (inventoryType == InventorySlot.InventoryType.Fragment)
+        {
+            return fragmentSlots;
+        }
+        else{return equipments;}
+    }
+    // when giving the itemData value in the inspector, automatically set the quantity to 1
+    private void OnValidate()
+    {
+        ValidateInventorySlots(itemSlots);
+        ValidateInventorySlots(fragmentSlots);
+    }
+    void ValidateInventorySlot(ItemSlotData slot)
+    {
+        if (slot.itemData != null && slot.quantity == 0)
+        {
+            slot.quantity = 1;
+        }
+    }
+    void ValidateInventorySlots(ItemSlotData[] array)
+    {
+        foreach (ItemSlotData slot in array)
+        {
+            ValidateInventorySlot(slot);
+        }
+    }
     // Start is called before the first frame update
     void Start()
     {

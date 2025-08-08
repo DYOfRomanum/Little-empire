@@ -39,11 +39,13 @@ public class UIManager : MonoBehaviour
     // render the inventory screen to reflect the player's inventory
     public void RenderInventory()
     {
-        ItemData[] inventoryItemSlots = InventoryManager.Instance.items;
+        ItemSlotData[] inventoryItemSlots = InventoryManager.Instance.GetInventorySlots(InventorySlot.InventoryType.Item);
+        ItemSlotData[] inventoryFragmentSlots = InventoryManager.Instance.GetInventorySlots(InventorySlot.InventoryType.Fragment);
+        // ItemData[] inventoryItemSlots = InventoryManager.Instance.items;
         // render the item section
         RenderInventoryPanel(inventoryItemSlots, itemSlots);
     }
-    void RenderInventoryPanel(ItemData[] slots, InventorySlot[] uiSlots)
+    void RenderInventoryPanel(ItemSlotData[] slots, InventorySlot[] uiSlots)
     {
         for (int i=0; i<uiSlots.Length; i++)
         {
