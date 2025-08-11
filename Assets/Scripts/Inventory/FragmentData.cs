@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(menuName = "Items/Fragment")]
-public class FragmentData : ScriptableObject
+public class FragmentData : ItemData
 {
     public string itemName;
     public string description;

@@ -11,6 +11,7 @@ public class UIManager : MonoBehaviour
     public GameObject inventoryPanel;
     
     public InventorySlot[] itemSlots;
+    public InventorySlot[] fragmentSlots;
     // item info box
     public GameObject itemInfoBox;
     public Text itemNameText;
@@ -44,6 +45,7 @@ public class UIManager : MonoBehaviour
         // ItemData[] inventoryItemSlots = InventoryManager.Instance.items;
         // render the item section
         RenderInventoryPanel(inventoryItemSlots, itemSlots);
+        RenderInventoryPanel(inventoryFragmentSlots, fragmentSlots);
     }
     void RenderInventoryPanel(ItemSlotData[] slots, InventorySlot[] uiSlots)
     {

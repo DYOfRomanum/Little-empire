@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c951bc93d52bfad4abb396261b65f246, type: 3}
-  m_Name: New Fragment Data
+  m_Name: Orc1a_fragment
   m_EditorClassIdentifier: 
-  itemName: 
-  description: 
-  thumbnail: {fileID: 0}
-  back: {fileID: 0}
+  itemName: "\u94C1\u62A4\u8155"
+  description: "\u751F\u94C1\u6253\u9020\u7684\u62A4\u8155\uFF0C\u4E0D\u592A\u575A\u56FA\uFF0C\u4F46\u5F88\u5B9E\u7528"
+  thumbnail: {fileID: 21300000, guid: 5ed104c7b7e940b4aaa58219f3a2f82f, type: 2}
+  back: {fileID: 21300000, guid: 55a9cdecb06260b4ab76c57bcb3e8687, type: 2}

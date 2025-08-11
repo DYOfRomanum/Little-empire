@@ -12,6 +12,8 @@ public class InventorySlot : MonoBehaviour, IPointerClickHandler
 
     public Image itemDisplayImage;
     public Image itemBackImage;
+    public Image fragmentImage;
+    public Text quantityText;
 
     public enum InventoryType
     {
@@ -26,12 +28,24 @@ public class InventorySlot : MonoBehaviour, IPointerClickHandler
         //set the variables accordingly
         itemToDisplay = itemSlot.itemData;
         quantity = itemSlot.quantity;
+
+        // By default, the quantity text should not show
+        quantityText.text = "";
         // check if there is an item to display
         if (itemToDisplay != null)
         {
             itemDisplayImage.sprite = itemToDisplay.thumbnail;
             itemBackImage.sprite = itemToDisplay.back;
 
+            //display the stack quantity
+            if (quantity>1)
+            {
+                quantityText.text = quantity.ToString();
+            }
+            if (inventoryType == InventoryType.Fragment)
+            {
+                fragmentImage.gameObject.SetActive(true);
+            }
             // this.itemToDisplay = itemToDisplay;
             itemDisplayImage.gameObject.SetActive(true);
             itemBackImage.gameObject.SetActive(true);
