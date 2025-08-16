@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UIManager : MonoBehaviour
+public class UIManager : MonoBehaviour, ITimeTracker
 {
     public static UIManager Instance { get; private set;}
+
+    [Header("Status Bar")]
+    public Text timeText;
 
     [Header("Inventory System")]
     public GameObject inventoryPanel;
@@ -36,6 +39,8 @@ public class UIManager : MonoBehaviour
     public void Start()
     {
         RenderInventory();
+        // Add UImanager to the list of objects Timemanager
+        TimeManager.Instance.RegisterTracker(this);
     }
     // render the inventory screen to reflect the player's inventory
     public void RenderInventory()
@@ -91,5 +96,19 @@ public class UIManager : MonoBehaviour
         
         // 关闭信息窗口
         itemInfoBox.SetActive(false);
+    }
+
+    public void ClockUpdate(GameTimestamp timestamp)
+    {
+        int year = timestamp.year;
+        int week = timestamp.week;
+        int day = timestamp.day;
+        int hour = timestamp.hour;
+        int minute = timestamp.minute;
+        int second = timestamp.second;
+
+        timeText.text = year.ToString("0000")+" "+week+" "+day+" "+hour.ToString("00")+":"+minute.ToString("00")+":"+second.ToString("00");
+        //Handle the date
+        // int day = timestamp.day;
     }
 }

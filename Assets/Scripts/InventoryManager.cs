@@ -20,6 +20,8 @@ public class InventoryManager : MonoBehaviour
         }
     }
 
+    //The full list of items
+    public ItemIndex itemIndex;
     // Item slots
     [SerializeField] private ItemSlotData[] itemSlots = new ItemSlotData[30];
     // Equipment slots
@@ -31,6 +33,14 @@ public class InventoryManager : MonoBehaviour
     // Fragment slots
     [SerializeField] private ItemSlotData[] fragmentSlots = new ItemSlotData[30];
 
+    // Load the inventory items from a save
+    public void LoadInventory(ItemSlotData[] itemSlots, ItemSlotData[] fragmentSlots)
+    {
+        this.itemSlots = itemSlots;
+        this.fragmentSlots = fragmentSlots;
+
+        UIManager.Instance.RenderInventory();
+    }
     public ItemSlotData[] GetInventorySlots(InventorySlot.InventoryType inventoryType)
     {
         if (inventoryType == InventorySlot.InventoryType.Item)

@@ -5,9 +5,10 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "Items/Fragment")]
 public class FragmentData : ItemData
 {
-    public string itemName;
-    public string description;
-    public Sprite thumbnail;
-    public Sprite back;
+    public string fragmentName;
+    public string descriptionComposite;
+    public Sprite fragmentThumbnail;
+    public Sprite fragmentBack;
+    public int numToCompose;
 
 }

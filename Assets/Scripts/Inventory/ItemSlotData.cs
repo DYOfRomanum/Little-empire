@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -48,5 +49,30 @@ public class ItemSlotData
     {
         itemData = null;
         quantity = 0;
+    }
+
+    public bool IsEmpty()
+    {
+        return itemData == null;
+    }
+    //Convert ItemSlotData into ItemSlotSaveData
+    public static ItemSlotSaveData SerializeData(ItemSlotData itemSlot)
+    {
+        return new ItemSlotSaveData(itemSlot);
+    }
+    //Convert an entire ItemSlotData array int an ItemSlotSaveData
+    public static ItemSlotSaveData[] SerializeArray(ItemSlotData[] array)
+    {
+        return Array.ConvertAll(array, new Converter<ItemSlotData, ItemSlotSaveData>(SerializeData));
+    }
+    // Convert back into ItemSlotData
+    public static ItemSlotData DeserializeData(ItemSlotSaveData itemSaveSlot)
+    {
+        ItemData item = InventoryManager.Instance.itemIndex.GetItemFromString(itemSaveSlot.itemID);
+        return new ItemSlotData(item, itemSaveSlot.quantity);
+    }
+    public static ItemSlotData[] DeserializeArray(ItemSlotSaveData[] array)
+    {
+        return Array.ConvertAll(array, new Converter<ItemSlotSaveData, ItemSlotData>(DeserializeData));
     }
 }
