@@ -58,6 +58,7 @@ public class InventorySlot : MonoBehaviour, IPointerClickHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        UIManager.Instance.DisplayUseButton(itemToDisplay);
         UIManager.Instance.DisplayItemInfo(itemToDisplay);
         GameStateManager.Instance.saveController();
     }

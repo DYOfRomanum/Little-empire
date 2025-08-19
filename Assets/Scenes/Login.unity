@@ -1683,12 +1683,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1140965833}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -426.21735, y: -200.98157, z: 12.321362}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 2038468042}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1186315667
 GameObject:
@@ -1970,9 +1970,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2032473534}
-        m_TargetAssemblyTypeName: Scene_swap, Assembly-CSharp
-        m_MethodName: SceneSwap
+      - m_Target: {fileID: 2038468040}
+        m_TargetAssemblyTypeName: TransitionController, Assembly-CSharp
+        m_MethodName: OnTriggerTransition
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3264,7 +3264,6 @@ GameObject:
   - component: {fileID: 2032473532}
   - component: {fileID: 2032473531}
   - component: {fileID: 2032473530}
-  - component: {fileID: 2032473534}
   - component: {fileID: 2032473535}
   m_Layer: 5
   m_Name: Canvas_login
@@ -3363,19 +3362,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &2032473534
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2032473529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5de45673c8342d4db70da65bd8d112b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  newScene: Primary_empire
 --- !u!114 &2032473535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3394,6 +3380,65 @@ MonoBehaviour:
   openUiButton: {fileID: 753829945}
   applyButton: {fileID: 701677625}
   cancelButton: {fileID: 738253057}
+--- !u!1 &2038468039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2038468042}
+  - component: {fileID: 2038468041}
+  - component: {fileID: 2038468040}
+  m_Layer: 0
+  m_Name: Essentials
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2038468040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038468039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 862a89d249334b14aabc94ccd2f61852, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  locationToSwitch: 1
+--- !u!114 &2038468041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038468039}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285928dd1e91e2443a67dfed43074228, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &2038468042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038468039}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 426.21735, y: 200.98157, z: -12.321362}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1140965836}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -3401,4 +3446,4 @@ SceneRoots:
   - {fileID: 1007757808}
   - {fileID: 1872146147}
   - {fileID: 2032473533}
-  - {fileID: 1140965836}
+  - {fileID: 2038468042}

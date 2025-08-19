@@ -19,8 +19,12 @@ public class UIManager : MonoBehaviour, ITimeTracker
     public GameObject itemInfoBox;
     public Text itemNameText;
     public Text itemDescriptionText;
+    // use and sell button
+    public GameObject useButton;
     // 用于存储自动关闭的协程
     private Coroutine autoCloseCoroutine;
+    [Header("Player Stats")]
+    public Text coinText;
 
     private void Awake()
     {
@@ -39,6 +43,7 @@ public class UIManager : MonoBehaviour, ITimeTracker
     public void Start()
     {
         RenderInventory();
+        RenderPlayerStats();
         // Add UImanager to the list of objects Timemanager
         TimeManager.Instance.RegisterTracker(this);
     }
@@ -67,7 +72,16 @@ public class UIManager : MonoBehaviour, ITimeTracker
         RenderInventory();
 
     }
-
+    // use button
+    public void DisplayUseButton(ItemData data)
+    {
+        if (data!= null)
+        {
+            useButton.SetActive(!useButton.activeSelf);
+        }    
+        else
+        {return;}
+    }
     //display info
     public void DisplayItemInfo(ItemData data)
     {
@@ -110,5 +124,11 @@ public class UIManager : MonoBehaviour, ITimeTracker
         timeText.text = year.ToString("0000")+" "+week+" "+day+" "+hour.ToString("00")+":"+minute.ToString("00")+":"+second.ToString("00");
         //Handle the date
         // int day = timestamp.day;
+    }
+
+    //Render the UI of the player stats
+    public void RenderPlayerStats()
+    {
+        coinText.text = PlayerStats.Coin.ToString();
     }
 }

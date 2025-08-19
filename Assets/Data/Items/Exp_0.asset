@@ -16,3 +16,4 @@ MonoBehaviour:
   description: "\u795E\u5947\u7684\u7ECF\u9A8C\u5361\u7247\uFF0C\u900F\u51FA\u795E\u79D8\u7684\u6C14\u606F\uFF0C\u4F7F\u7528\u540E\u53EF\u4EE5\u76F4\u63A5\u83B7\u5F971000\u70B9\u7ECF\u9A8C"
   thumbnail: {fileID: 1970375617, guid: f345bdcc48e3c6345a29a7836d3acb0b, type: 3}
   back: {fileID: 21300000, guid: abe559d281218ce459c3282684b00318, type: 2}
+  cost: 1000

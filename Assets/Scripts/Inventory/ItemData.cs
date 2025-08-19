@@ -10,4 +10,6 @@ public class ItemData : ScriptableObject
     public Sprite thumbnail;
     public Sprite back;
 
+    public int cost;
+
 }
