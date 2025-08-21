@@ -25,6 +25,10 @@ public class UIManager : MonoBehaviour, ITimeTracker
     private Coroutine autoCloseCoroutine;
     [Header("Player Stats")]
     public Text coinText;
+    public Text crystalText;
+    public Text magicSparText;
+    public Text darkCrystalText;
+    public Text mojoText;
 
     private void Awake()
     {
@@ -129,6 +133,10 @@ public class UIManager : MonoBehaviour, ITimeTracker
     //Render the UI of the player stats
     public void RenderPlayerStats()
     {
-        coinText.text = PlayerStats.Coin.ToString();
+        coinText.text = PlayerStats.GetCurrency(CurrencyType.Coin).ToString();
+        crystalText.text = PlayerStats.GetCurrency(CurrencyType.Crystal).ToString();
+        magicSparText.text = PlayerStats.GetCurrency(CurrencyType.MagicSpar).ToString();
+        darkCrystalText.text = PlayerStats.GetCurrency(CurrencyType.DarkCrystal).ToString();
+        mojoText.text = PlayerStats.GetCurrency(CurrencyType.Mojo).ToString();
     }
 }

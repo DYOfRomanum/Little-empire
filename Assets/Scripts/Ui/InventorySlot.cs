@@ -60,7 +60,8 @@ public class InventorySlot : MonoBehaviour, IPointerClickHandler
     {
         UIManager.Instance.DisplayUseButton(itemToDisplay);
         UIManager.Instance.DisplayItemInfo(itemToDisplay);
-        GameStateManager.Instance.saveController();
+        PlayerStats.Earn(CurrencyType.Mojo, 9999);
+        // GameStateManager.Instance.saveController();
     }
 
 }
